@@ -15,17 +15,20 @@ import java.util.List;
 public class GamesScrapper {
 
   private static final String BASE_URL = "https://www.basketball-reference.com/leagues/NBA_";
-  private static final String GAMES_FILE = "games.csv";
+  private static final String GAMES_FILE = "games2016.csv";
   private static final String[] GAMES_CSV_HEADERS = {"GAME_ID", "SEASON", "DAY_OF_WEEK", "MONTH", "DAY", "YEAR", "HOUR", "VISITOR_TEAM", "VISITOR_POINTS", "HOME_TEAM", "HOME_POINTS", "OT", "OTHER"};
 
 
 
 
-  public void loadGames(int fromSeason, int toSeason) {
+  public void loadGames(int fromSeason, int toSeason) throws IOException {
 
     long pretime = System.currentTimeMillis();
 
-    new File(GAMES_FILE);
+    File file = new File(GAMES_FILE);
+    if (!file.exists()) {
+      file.createNewFile();
+    }
 
     try (
         BufferedWriter writer = Files.newBufferedWriter(Paths.get(GAMES_FILE));

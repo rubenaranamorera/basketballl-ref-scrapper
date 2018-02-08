@@ -16,8 +16,8 @@ import java.util.stream.Collectors;
 public class BoxScoreScrapper {
 
   private static final String BASE_URL = "https://www.basketball-reference.com/boxscores/";
-  private static final String GAMES_FILE = "games.csv";
-  private static final String BOX_SCORES_FILE = "boxscores.csv";
+  private static final String GAMES_FILE = "games2016.csv";
+  private static final String BOX_SCORES_FILE = "boxscores2016.csv";
   private static final String[] BOX_SCORE_HEADERS = {
       "GAME_ID",
       "MP",
@@ -111,7 +111,7 @@ public class BoxScoreScrapper {
         String id = record.get("GAME_ID");
 
         List<String> csvStrings = Jsoup.connect(getUrl(id))
-            .timeout(5000)
+            .timeout(15000)
             .validateTLSCertificates(false)
             .get()
             .getElementsByTag("tfoot")

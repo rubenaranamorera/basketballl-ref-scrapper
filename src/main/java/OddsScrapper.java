@@ -17,8 +17,8 @@ import java.util.stream.Collectors;
 public class OddsScrapper {
 
   private static final String BASE_URL = "https://www.sportsbookreview.com/betting-odds/nba-basketball/totals/?date=";
-  private static final String ODDS_FILE = "odds.csv";
-  private static final String GAMES_FILE = "games.csv";
+  private static final String ODDS_FILE = "odds2016.csv";
+  private static final String GAMES_FILE = "games2016.csv";
   private static final String[] ODDS_HEADERS = {
       "YEAR",
       "MONTH",
@@ -78,7 +78,7 @@ public class OddsScrapper {
   private void parseDay(String year, String day, String month, CSVPrinter csvPrinter) {
     try {
       Jsoup.connect(getUrl(year, month, day))
-          .timeout(5000)
+          .timeout(15000)
           .validateTLSCertificates(false)
           .get()
           .getElementsByClass("event-holder")
@@ -91,6 +91,7 @@ public class OddsScrapper {
               csvStrings.add(2, Utils.normalize(day));
               System.out.println(csvStrings);
               csvPrinter.printRecord(csvStrings);
+              System.out.println("----------");
             } catch (IOException e) {
               e.printStackTrace();
             }
@@ -102,41 +103,53 @@ public class OddsScrapper {
 
   private List<String> parseGame(Element element) {
 
+    System.out.println("-----------------------------------");
+    System.out.println("PARSE GAME");
+
     List<String> list = element.getElementsByClass("team-name")
         .stream()
         .map(Element::text)
         .collect(Collectors.toList());
 
-    double min = element.getElementsByClass("eventLine-book-value")
+    System.out.println(list);
+
+    double min = element.getElementsByClass("eventLine-book")
         .stream()
+        .flatMap(eventLineBookElement -> eventLineBookElement.getElementsByClass("eventLine-book-value").stream())
         .skip(3)
         .map(Element::text)
         .filter(str -> str.length() >= 3)
-        .map(str -> str.substring(0, 3))
+        .map(str -> str.substring(0, 3).replaceAll("[^0-9]", " ").trim())
+        .peek(str -> System.out.println(str))
         .map(str -> str + ".5")
         .mapToDouble(Double::parseDouble)
+        .filter(value -> value > 150 && value < 250)
         .min()
         .getAsDouble();
 
-    double max = element.getElementsByClass("eventLine-book-value")
+    double max = element.getElementsByClass("eventLine-book")
         .stream()
+        .flatMap(eventLineBookElement -> eventLineBookElement.getElementsByClass("eventLine-book-value").stream())
         .skip(3)
         .map(Element::text)
         .filter(str -> str.length() >= 3)
-        .map(str -> str.substring(0, 3))
+        .map(str -> str.substring(0, 3).replaceAll("[^0-9]", " ").trim())
         .map(str -> str + ".5")
         .mapToDouble(Double::parseDouble)
+        .filter(value -> value > 150 && value < 250)
         .max()
         .getAsDouble();
 
-    double avg = element.getElementsByClass("eventLine-book-value")
+    double avg = element.getElementsByClass("eventLine-book")
         .stream()
+        .flatMap(eventLineBookElement -> eventLineBookElement.getElementsByClass("eventLine-book-value").stream())
         .skip(4)
         .map(Element::text)
         .filter(str -> str.length() >= 3)
-        .map(str -> str.substring(0, 3))
+        .map(str -> str.substring(0, 3).replaceAll("[^0-9]", " ").trim())
         .map(str -> str + ".5")
         .mapToDouble(Double::parseDouble)
+        .filter(value -> value > 150 && value < 250)
         .average()
         .getAsDouble();
 
@@ -144,12 +157,17 @@ public class OddsScrapper {
     list.add(String.valueOf(max));
     list.add(String.valueOf(avg));
 
+    System.out.println("PARSED GAME");
+
+
     return list;
 
   }
 
   private String getUrl(String year, String month, String day) {
-    return BASE_URL + year + Utils.normalize(month) + Utils.normalize(day);
+    String url = BASE_URL + year + Utils.normalize(month) + Utils.normalize(day);
+    System.out.println(url);
+    return url;
   }
 
 
