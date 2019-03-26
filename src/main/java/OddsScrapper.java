@@ -17,8 +17,6 @@ import java.util.stream.Collectors;
 public class OddsScrapper {
 
   private static final String BASE_URL = "https://www.sportsbookreview.com/betting-odds/nba-basketball/totals/?date=";
-  private static final String ODDS_FILE = "odds2016.csv";
-  private static final String GAMES_FILE = "games2016.csv";
   private static final String[] ODDS_HEADERS = {
       "YEAR",
       "MONTH",
@@ -37,11 +35,11 @@ public class OddsScrapper {
 
     long pretime = System.currentTimeMillis();
 
-    new File(ODDS_FILE);
+    new File(ScrapperMain.ODDS_FILE);
 
     try (
-        Reader reader = new FileReader(GAMES_FILE);
-        BufferedWriter writer = Files.newBufferedWriter(Paths.get(ODDS_FILE));
+        Reader reader = new FileReader(ScrapperMain.GAMES_FILE);
+        BufferedWriter writer = Files.newBufferedWriter(Paths.get(ScrapperMain.ODDS_FILE));
         CSVPrinter csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader(ODDS_HEADERS))) {
 
       Iterable<CSVRecord> records = CSVFormat.DEFAULT.withFirstRecordAsHeader().parse(reader);
@@ -89,9 +87,7 @@ public class OddsScrapper {
               csvStrings.add(0, year);
               csvStrings.add(1, Utils.normalize(month));
               csvStrings.add(2, Utils.normalize(day));
-              System.out.println(csvStrings);
               csvPrinter.printRecord(csvStrings);
-              System.out.println("----------");
             } catch (IOException e) {
               e.printStackTrace();
             }
@@ -103,15 +99,10 @@ public class OddsScrapper {
 
   private List<String> parseGame(Element element) {
 
-    System.out.println("-----------------------------------");
-    System.out.println("PARSE GAME");
-
     List<String> list = element.getElementsByClass("team-name")
         .stream()
         .map(Element::text)
         .collect(Collectors.toList());
-
-    System.out.println(list);
 
     double min = element.getElementsByClass("eventLine-book")
         .stream()
@@ -120,7 +111,6 @@ public class OddsScrapper {
         .map(Element::text)
         .filter(str -> str.length() >= 3)
         .map(str -> str.substring(0, 3).replaceAll("[^0-9]", " ").trim())
-        .peek(str -> System.out.println(str))
         .map(str -> str + ".5")
         .mapToDouble(Double::parseDouble)
         .filter(value -> value > 150 && value < 250)
@@ -157,9 +147,6 @@ public class OddsScrapper {
     list.add(String.valueOf(max));
     list.add(String.valueOf(avg));
 
-    System.out.println("PARSED GAME");
-
-
     return list;
 
   }
@@ -169,7 +156,5 @@ public class OddsScrapper {
     System.out.println(url);
     return url;
   }
-
-
 
 }

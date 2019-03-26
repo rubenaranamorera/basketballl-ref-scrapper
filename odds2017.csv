@@ -1,0 +1,1313 @@
+YEAR,MONTH,DAY,VISITOR_TEAM,HOME_TEAM,MIN_LINE,MAX_LINE,AVERAGE_LINE
+2016,11,01,Houston,Cleveland,217.5,217.5,217.5
+2016,11,01,L.A. Lakers,Indiana,213.5,214.5,213.5
+2016,11,01,Orlando,Philadelphia,198.5,198.5,198.5
+2016,11,01,New York,Detroit,202.5,203.5,202.625
+2016,11,01,Sacramento,Miami,199.5,199.5,199.5
+2016,11,01,Memphis,Minnesota,197.5,198.5,197.875
+2016,11,01,Milwaukee,New Orleans,204.5,204.5,204.5
+2016,11,01,Utah,San Antonio,186.5,186.5,186.5
+2016,11,01,Golden State,Portland,225.5,226.5,226.0
+2016,11,02,Toronto,Washington,204.5,205.5,205.375
+2016,11,02,Philadelphia,Charlotte,197.5,197.5,197.5
+2016,11,02,L.A. Lakers,Atlanta,205.5,207.5,206.125
+2016,11,02,Detroit,Brooklyn,203.5,205.5,204.75
+2016,11,02,Houston,New York,218.5,219.5,218.875
+2016,11,02,New Orleans,Memphis,206.5,207.5,207.0
+2016,11,02,Chicago,Boston,207.5,207.5,207.5
+2016,11,02,Dallas,Utah,185.5,186.5,186.25
+2016,11,02,Portland,Phoenix,216.5,216.5,216.5
+2016,11,02,Oklahoma City,L.A. Clippers,208.5,209.5,209.0
+2016,11,03,Sacramento,Orlando,198.5,199.5,198.875
+2016,11,03,Denver,Minnesota,204.5,204.5,204.5
+2016,11,03,Boston,Cleveland,207.5,207.5,207.5
+2016,11,03,Indiana,Milwaukee,211.5,211.5,211.5
+2016,11,03,Oklahoma City,Golden State,222.5,223.5,223.0
+2016,11,04,Atlanta,Washington,205.5,205.5,205.5
+2016,11,04,Miami,Toronto,202.5,202.5,202.5
+2016,11,04,Charlotte,Brooklyn,203.5,203.5,203.5
+2016,11,04,Phoenix,New Orleans,210.5,210.5,210.5
+2016,11,04,New York,Chicago,209.5,210.5,210.25
+2016,11,04,L.A. Clippers,Memphis,197.5,198.5,197.5
+2016,11,04,Portland,Dallas,207.5,208.5,208.125
+2016,11,04,San Antonio,Utah,183.5,184.5,183.875
+2016,11,04,Golden State,L.A. Lakers,228.5,230.5,229.0
+2016,11,05,Minnesota,Oklahoma City,209.5,210.5,209.625
+2016,11,05,Cleveland,Philadelphia,208.5,210.5,209.5
+2016,11,05,Washington,Orlando,201.5,201.5,201.5
+2016,11,05,Chicago,Indiana,209.5,210.5,210.0
+2016,11,05,Denver,Detroit,200.5,201.5,200.75
+2016,11,05,Houston,Atlanta,217.5,218.5,218.25
+2016,11,05,Sacramento,Milwaukee,202.5,202.5,202.5
+2016,11,05,L.A. Clippers,San Antonio,196.5,198.5,197.75
+2016,11,06,Utah,New York,193.5,194.5,193.625
+2016,11,06,Portland,Memphis,204.5,204.5,204.5
+2016,11,06,Sacramento,Toronto,197.5,198.5,197.875
+2016,11,06,Milwaukee,Dallas,199.5,199.5,199.5
+2016,11,06,Denver,Boston,211.5,212.5,212.25
+2016,11,06,Phoenix,L.A. Lakers,215.5,216.5,216.375
+2016,11,07,Utah,Philadelphia,189.5,190.5,189.875
+2016,11,07,Houston,Washington,217.5,220.5,218.875
+2016,11,07,Indiana,Charlotte,205.5,206.5,205.875
+2016,11,07,Miami,Oklahoma City,203.5,203.5,203.5
+2016,11,07,Orlando,Chicago,198.5,199.5,199.0
+2016,11,07,Detroit,L.A. Clippers,196.5,197.5,196.875
+2016,11,07,New Orleans,Golden State,220.5,221.5,220.75
+2016,11,08,Atlanta,Cleveland,207.5,208.5,207.625
+2016,11,08,Minnesota,Brooklyn,208.5,209.5,209.375
+2016,11,08,Denver,Memphis,201.5,202.5,201.875
+2016,11,08,Phoenix,Portland,219.5,219.5,219.5
+2016,11,08,New Orleans,Sacramento,204.5,205.5,205.125
+2016,11,08,Dallas,L.A. Lakers,202.5,203.5,203.125
+2016,11,09,Brooklyn,New York,214.5,215.5,215.125
+2016,11,09,Philadelphia,Indiana,212.5,213.5,212.75
+2016,11,09,Utah,Charlotte,192.5,193.5,192.875
+2016,11,09,Boston,Washington,212.5,212.5,212.5
+2016,11,09,Minnesota,Orlando,201.5,201.5,201.5
+2016,11,09,Chicago,Atlanta,202.5,203.5,203.125
+2016,11,09,Toronto,Oklahoma City,203.5,204.5,203.75
+2016,11,09,Detroit,Phoenix,205.5,206.5,206.375
+2016,11,09,Houston,San Antonio,211.5,212.5,211.875
+2016,11,09,Portland,L.A. Clippers,210.5,211.5,211.25
+2016,11,09,Dallas,Golden State,205.5,206.5,206.375
+2016,11,10,New Orleans,Milwaukee,206.5,208.5,207.25
+2016,11,10,Chicago,Miami,200.5,201.5,201.375
+2016,11,10,Golden State,Denver,222.5,223.5,223.0
+2016,11,10,L.A. Lakers,Sacramento,211.5,211.5,211.5
+2016,11,11,Cleveland,Washington,211.5,211.5,211.5
+2016,11,11,Toronto,Charlotte,203.5,204.5,203.875
+2016,11,11,Indiana,Philadelphia,212.5,213.5,213.375
+2016,11,11,Utah,Orlando,190.5,191.5,190.875
+2016,11,11,New York,Boston,214.5,215.5,215.375
+2016,11,11,L.A. Clippers,Oklahoma City,206.5,206.5,206.5
+2016,11,11,Detroit,San Antonio,194.5,194.5,194.5
+2016,11,11,Sacramento,Portland,208.5,208.5,208.5
+2016,11,12,L.A. Lakers,New Orleans,216.5,217.5,217.0
+2016,11,12,Boston,Indiana,211.5,212.5,211.875
+2016,11,12,Philadelphia,Atlanta,206.5,207.5,207.125
+2016,11,12,New York,Toronto,208.5,208.5,208.5
+2016,11,12,L.A. Clippers,Minnesota,207.5,209.5,208.75
+2016,11,12,Utah,Miami,186.5,187.5,186.75
+2016,11,12,Washington,Chicago,199.5,200.5,199.5
+2016,11,12,San Antonio,Houston,208.5,208.5,208.5
+2016,11,12,Memphis,Milwaukee,201.5,202.5,201.75
+2016,11,12,Detroit,Denver,202.5,203.5,203.25
+2016,11,12,Brooklyn,Phoenix,218.5,219.5,218.75
+2016,11,13,Charlotte,Cleveland,207.5,208.5,208.25
+2016,11,13,L.A. Lakers,Minnesota,213.5,216.5,214.0
+2016,11,13,Orlando,Oklahoma City,203.5,204.5,204.375
+2016,11,13,Phoenix,Golden State,226.5,227.5,226.625
+2016,11,13,Denver,Portland,216.5,216.5,216.5
+2016,11,14,Orlando,Indiana,206.5,206.5,206.5
+2016,11,14,Dallas,New York,202.5,202.5,202.5
+2016,11,14,Oklahoma City,Detroit,203.5,203.5,203.5
+2016,11,14,Boston,New Orleans,212.5,212.5,212.5
+2016,11,14,Philadelphia,Houston,215.5,216.5,215.875
+2016,11,14,Miami,San Antonio,193.5,193.5,193.5
+2016,11,14,Memphis,Utah,189.5,191.5,189.875
+2016,11,14,Brooklyn,L.A. Clippers,212.5,212.5,212.5
+2016,11,15,Toronto,Cleveland,209.5,210.5,210.375
+2016,11,15,Atlanta,Miami,198.5,199.5,199.375
+2016,11,15,Charlotte,Minnesota,205.5,205.5,205.5
+2016,11,15,Chicago,Portland,210.5,211.5,210.625
+2016,11,15,Brooklyn,L.A. Lakers,219.5,219.5,219.5
+2016,11,16,New Orleans,Orlando,199.5,200.5,199.625
+2016,11,16,Cleveland,Indiana,208.5,208.5,208.5
+2016,11,16,Washington,Philadelphia,203.5,204.5,204.25
+2016,11,16,Milwaukee,Atlanta,210.5,210.5,210.5
+2016,11,16,Detroit,New York,200.5,201.5,200.75
+2016,11,16,Dallas,Boston,199.5,200.5,199.75
+2016,11,16,Golden State,Toronto,222.5,223.5,223.125
+2016,11,16,Houston,Oklahoma City,218.5,219.5,219.125
+2016,11,16,Phoenix,Denver,219.5,220.5,219.75
+2016,11,16,San Antonio,Sacramento,197.5,197.5,197.5
+2016,11,16,Memphis,L.A. Clippers,200.5,202.5,201.0
+2016,11,17,New York,Washington,208.5,209.5,208.625
+2016,11,17,Milwaukee,Miami,200.5,202.5,202.125
+2016,11,17,Portland,Houston,220.5,221.5,220.625
+2016,11,17,Philadelphia,Minnesota,210.5,212.5,211.875
+2016,11,17,Chicago,Utah,192.5,193.5,193.125
+2016,11,18,Atlanta,Charlotte,207.5,208.5,208.375
+2016,11,18,Phoenix,Indiana,216.5,217.5,216.625
+2016,11,18,Detroit,Cleveland,202.5,203.5,202.875
+2016,11,18,Golden State,Boston,225.5,226.5,225.75
+2016,11,18,Portland,New Orleans,213.5,214.5,214.125
+2016,11,18,Brooklyn,Oklahoma City,216.5,217.5,217.0
+2016,11,18,Memphis,Dallas,185.5,186.5,185.625
+2016,11,18,Toronto,Denver,212.5,213.5,213.375
+2016,11,18,San Antonio,L.A. Lakers,209.5,209.5,209.5
+2016,11,18,L.A. Clippers,Sacramento,202.5,202.5,202.5
+2016,11,19,Utah,Houston,200.5,201.5,200.75
+2016,11,19,Miami,Washington,197.5,199.5,199.0
+2016,11,19,Boston,Detroit,199.5,200.5,199.75
+2016,11,19,Charlotte,New Orleans,205.5,207.5,206.25
+2016,11,19,Dallas,Orlando,179.5,180.5,179.625
+2016,11,19,Phoenix,Philadelphia,210.5,211.5,211.25
+2016,11,19,Minnesota,Memphis,199.5,200.5,200.25
+2016,11,19,Golden State,Milwaukee,218.5,219.5,218.5
+2016,11,19,Chicago,L.A. Clippers,202.5,203.5,203.375
+2016,11,20,Atlanta,New York,208.5,209.5,209.125
+2016,11,20,Portland,Brooklyn,219.5,221.5,219.875
+2016,11,20,Indiana,Oklahoma City,210.5,211.5,211.0
+2016,11,20,Toronto,Sacramento,211.5,212.5,211.5
+2016,11,20,Utah,Denver,197.5,198.5,198.0
+2016,11,20,Chicago,L.A. Lakers,209.5,210.5,209.875
+2016,11,21,Phoenix,Washington,219.5,221.5,220.125
+2016,11,21,Miami,Philadelphia,201.5,201.5,201.5
+2016,11,21,Golden State,Indiana,217.5,219.5,218.75
+2016,11,21,Memphis,Charlotte,197.5,198.5,197.875
+2016,11,21,Houston,Detroit,206.5,209.5,208.625
+2016,11,21,Boston,Minnesota,207.5,207.5,207.5
+2016,11,21,Orlando,Milwaukee,200.5,201.5,200.625
+2016,11,21,Dallas,San Antonio,184.5,187.5,186.5
+2016,11,21,Toronto,L.A. Clippers,207.5,208.5,207.625
+2016,11,22,Portland,New York,216.5,217.5,217.25
+2016,11,22,New Orleans,Atlanta,209.5,209.5,209.5
+2016,11,22,Chicago,Denver,207.5,208.5,207.625
+2016,11,22,Oklahoma City,L.A. Lakers,219.5,220.5,220.0
+2016,11,23,Phoenix,Orlando,209.5,210.5,209.875
+2016,11,23,Memphis,Philadelphia,195.5,196.5,195.75
+2016,11,23,San Antonio,Charlotte,200.5,201.5,201.25
+2016,11,23,Atlanta,Indiana,204.5,205.5,204.625
+2016,11,23,Portland,Cleveland,218.5,219.5,219.375
+2016,11,23,Boston,Brooklyn,214.5,215.5,215.375
+2016,11,23,Miami,Detroit,188.5,189.5,188.75
+2016,11,23,Toronto,Houston,216.5,216.5,216.5
+2016,11,23,L.A. Clippers,Dallas,192.5,193.5,193.25
+2016,11,23,Denver,Utah,198.5,199.5,198.625
+2016,11,23,Minnesota,New Orleans,209.5,210.5,210.0
+2016,11,23,L.A. Lakers,Golden State,229.5,230.5,230.375
+2016,11,23,Oklahoma City,Sacramento,213.5,214.5,214.25
+2016,11,25,San Antonio,Boston,200.5,201.5,201.125
+2016,11,25,Washington,Orlando,197.5,198.5,198.5
+2016,11,25,Chicago,Philadelphia,205.5,205.5,205.5
+2016,11,25,L.A. Clippers,Detroit,200.5,201.5,200.625
+2016,11,25,Dallas,Cleveland,201.5,201.5,201.5
+2016,11,25,Charlotte,New York,209.5,210.5,210.375
+2016,11,25,Atlanta,Utah,195.5,196.5,196.25
+2016,11,25,Toronto,Milwaukee,207.5,207.5,207.5
+2016,11,25,Miami,Memphis,184.5,185.5,185.375
+2016,11,25,Brooklyn,Indiana,213.5,214.5,213.875
+2016,11,25,Oklahoma City,Denver,214.5,215.5,215.0
+2016,11,25,Minnesota,Phoenix,213.5,215.5,214.5
+2016,11,25,New Orleans,Portland,217.5,217.5,217.5
+2016,11,25,Houston,Sacramento,215.5,216.5,216.25
+2016,11,25,Golden State,L.A. Lakers,229.5,230.5,230.5
+2016,11,26,New York,Charlotte,206.5,208.5,207.25
+2016,11,26,San Antonio,Washington,205.5,206.5,205.625
+2016,11,26,Memphis,Miami,186.5,187.5,187.125
+2016,11,26,Detroit,Oklahoma City,202.5,203.5,203.375
+2016,11,26,Minnesota,Golden State,222.5,223.5,223.375
+2016,11,27,Cleveland,Philadelphia,209.5,210.5,210.0
+2016,11,27,Denver,Phoenix,213.5,214.5,213.625
+2016,11,27,Sacramento,Brooklyn,219.5,220.5,219.75
+2016,11,27,Milwaukee,Orlando,196.5,197.5,196.625
+2016,11,27,L.A. Clippers,Indiana,206.5,207.5,206.625
+2016,11,27,New Orleans,Dallas,196.5,197.5,197.125
+2016,11,27,Houston,Portland,226.5,227.5,226.875
+2016,11,27,Atlanta,L.A. Lakers,209.5,209.5,209.5
+2016,11,28,Sacramento,Washington,209.5,210.5,209.625
+2016,11,28,Boston,Miami,201.5,201.5,201.5
+2016,11,28,Philadelphia,Toronto,206.5,207.5,206.5
+2016,11,28,Oklahoma City,New York,214.5,216.5,215.75
+2016,11,28,Charlotte,Memphis,197.5,198.5,198.0
+2016,11,28,Utah,Minnesota,193.5,193.5,193.5
+2016,11,28,Atlanta,Golden State,217.5,218.5,218.125
+2016,11,29,Detroit,Charlotte,199.5,200.5,200.375
+2016,11,29,L.A. Clippers,Brooklyn,212.5,213.5,213.125
+2016,11,29,Cleveland,Milwaukee,213.5,214.5,213.625
+2016,11,29,L.A. Lakers,New Orleans,218.5,218.5,218.5
+2016,11,29,Orlando,San Antonio,194.5,195.5,194.75
+2016,11,29,Houston,Utah,204.5,204.5,204.5
+2016,11,30,Memphis,Toronto,194.5,195.5,195.375
+2016,11,30,Detroit,Boston,200.5,200.5,200.5
+2016,11,30,Washington,Oklahoma City,215.5,216.5,216.375
+2016,11,30,L.A. Lakers,Chicago,209.5,210.5,209.875
+2016,11,30,New York,Minnesota,211.5,212.5,211.625
+2016,11,30,San Antonio,Dallas,186.5,187.5,187.125
+2016,11,30,Miami,Denver,207.5,208.5,208.125
+2016,11,30,Atlanta,Phoenix,211.5,211.5,211.5
+2016,11,30,Indiana,Portland,208.5,209.5,208.875
+2016,11,30,Sacramento,Philadelphia,204.5,205.5,204.625
+2017,06,01,Cleveland,Golden State,224.5,225.5,225.125
+2017,06,04,Cleveland,Golden State,221.5,222.5,221.875
+2017,06,07,Golden State,Cleveland,226.5,227.5,227.0
+2017,06,09,Golden State,Cleveland,226.5,227.5,227.5
+2017,06,12,Cleveland,Golden State,231.5,231.5,231.5
+2017,05,01,Toronto,Cleveland,210.5,211.5,211.375
+2017,05,01,Houston,San Antonio,215.5,216.5,215.625
+2017,05,02,Washington,Boston,217.5,218.5,218.125
+2017,05,02,Utah,Golden State,205.5,206.5,205.875
+2017,05,03,Toronto,Cleveland,213.5,215.5,214.5
+2017,05,03,Houston,San Antonio,214.5,215.5,215.125
+2017,05,04,Boston,Washington,217.5,218.5,218.25
+2017,05,04,Utah,Golden State,205.5,206.5,206.375
+2017,05,05,Cleveland,Toronto,215.5,215.5,215.5
+2017,05,05,San Antonio,Houston,214.5,215.5,215.5
+2017,05,06,Golden State,Utah,208.5,209.5,209.0
+2017,05,07,Cleveland,Toronto,209.5,210.5,209.75
+2017,05,07,Boston,Washington,213.5,215.5,214.75
+2017,05,07,San Antonio,Houston,212.5,214.5,213.5
+2017,05,08,Golden State,Utah,207.5,208.5,207.625
+2017,05,09,Houston,San Antonio,215.5,216.5,216.375
+2017,05,10,Washington,Boston,217.5,218.5,217.625
+2017,05,11,San Antonio,Houston,209.5,211.5,210.875
+2017,05,12,Boston,Washington,214.5,216.5,215.25
+2017,05,14,San Antonio,Golden State,209.5,210.5,209.75
+2017,05,15,Washington,Boston,210.5,212.5,211.25
+2017,05,16,San Antonio,Golden State,209.5,210.5,210.125
+2017,05,17,Cleveland,Boston,218.5,220.5,218.875
+2017,05,19,Cleveland,Boston,218.5,219.5,218.875
+2017,05,20,Golden State,San Antonio,214.5,215.5,214.875
+2017,05,21,Boston,Cleveland,214.5,217.5,215.0
+2017,05,22,Golden State,San Antonio,218.5,219.5,218.625
+2017,05,23,Boston,Cleveland,214.5,218.5,215.5
+2017,05,25,Cleveland,Boston,213.5,215.5,214.125
+2017,01,01,Orlando,Indiana,209.5,209.5,209.5
+2017,01,01,San Antonio,Atlanta,199.5,201.5,199.875
+2017,01,01,Detroit,Miami,198.5,199.5,198.5
+2017,01,01,Portland,Minnesota,208.5,209.5,208.625
+2017,01,01,Toronto,L.A. Lakers,218.5,218.5,218.5
+2017,01,02,Oklahoma City,Milwaukee,213.5,214.5,213.75
+2017,01,02,New Orleans,Cleveland,217.5,218.5,217.875
+2017,01,02,Utah,Brooklyn,205.5,206.5,206.375
+2017,01,02,Orlando,New York,210.5,211.5,210.75
+2017,01,02,Washington,Houston,230.5,231.5,231.0
+2017,01,02,Charlotte,Chicago,199.5,199.5,199.5
+2017,01,02,Denver,Golden State,231.5,233.5,232.25
+2017,01,02,Phoenix,L.A. Clippers,213.5,214.5,213.875
+2017,01,03,Minnesota,Philadelphia,205.5,206.5,206.0
+2017,01,03,Indiana,Detroit,204.5,205.5,205.375
+2017,01,03,Utah,Boston,199.5,200.5,199.875
+2017,01,03,Toronto,San Antonio,206.5,207.5,206.75
+2017,01,03,Washington,Dallas,200.5,202.5,201.875
+2017,01,03,Miami,Phoenix,212.5,212.5,212.5
+2017,01,03,Sacramento,Denver,214.5,215.5,214.75
+2017,01,03,Memphis,L.A. Lakers,206.5,207.5,207.375
+2017,01,04,Atlanta,Orlando,207.5,207.5,207.5
+2017,01,04,Oklahoma City,Charlotte,208.5,209.5,209.25
+2017,01,04,Milwaukee,New York,212.5,213.5,213.25
+2017,01,04,Chicago,Cleveland,203.5,204.5,204.25
+2017,01,04,Portland,Golden State,222.5,223.5,223.25
+2017,01,04,Miami,Sacramento,203.5,204.5,204.25
+2017,01,04,Memphis,L.A. Clippers,196.5,197.5,196.75
+2017,01,05,Brooklyn,Indiana,218.5,219.5,219.25
+2017,01,05,Charlotte,Detroit,208.5,208.5,208.5
+2017,01,05,Utah,Toronto,196.5,198.5,197.625
+2017,01,05,Oklahoma City,Houston,227.5,227.5,227.5
+2017,01,05,Atlanta,New Orleans,208.5,209.5,208.875
+2017,01,05,Phoenix,Dallas,205.5,206.5,206.375
+2017,01,05,San Antonio,Denver,212.5,214.5,213.5
+2017,01,05,L.A. Lakers,Portland,221.5,222.5,222.125
+2017,01,06,Minnesota,Washington,211.5,211.5,211.5
+2017,01,06,Houston,Orlando,224.5,224.5,224.5
+2017,01,06,Cleveland,Brooklyn,221.5,221.5,221.5
+2017,01,06,Philadelphia,Boston,212.5,213.5,212.625
+2017,01,06,New York,Milwaukee,213.5,213.5,213.5
+2017,01,06,L.A. Clippers,Sacramento,212.5,212.5,212.5
+2017,01,06,Miami,L.A. Lakers,213.5,213.5,213.5
+2017,01,06,Memphis,Golden State,215.5,216.5,216.125
+2017,01,07,New York,Indiana,216.5,217.5,217.0
+2017,01,07,New Orleans,Boston,211.5,212.5,212.375
+2017,01,07,Utah,Minnesota,192.5,194.5,193.375
+2017,01,07,Toronto,Chicago,206.5,207.5,207.125
+2017,01,07,Denver,Oklahoma City,220.5,221.5,220.875
+2017,01,07,Atlanta,Dallas,196.5,197.5,197.0
+2017,01,07,Charlotte,San Antonio,208.5,209.5,208.875
+2017,01,07,Detroit,Portland,214.5,215.5,215.125
+2017,01,08,Philadelphia,Brooklyn,215.5,216.5,216.375
+2017,01,08,Washington,Milwaukee,210.5,211.5,210.75
+2017,01,08,Miami,L.A. Clippers,206.5,207.5,207.125
+2017,01,08,Houston,Toronto,226.5,228.5,227.625
+2017,01,08,Utah,Memphis,187.5,188.5,187.75
+2017,01,08,Cleveland,Phoenix,221.5,222.5,221.875
+2017,01,08,Detroit,Portland,213.5,214.5,214.0
+2017,01,08,Golden State,Sacramento,225.5,226.5,226.125
+2017,01,08,Orlando,L.A. Lakers,216.5,217.5,217.25
+2017,01,09,New Orleans,New York,213.5,215.5,214.25
+2017,01,09,Oklahoma City,Chicago,208.5,212.5,210.375
+2017,01,09,Dallas,Minnesota,194.5,196.5,196.125
+2017,01,10,Chicago,Washington,203.5,204.5,204.125
+2017,01,10,Boston,Toronto,217.5,218.5,218.375
+2017,01,10,Atlanta,Brooklyn,215.5,217.5,217.0
+2017,01,10,Charlotte,Houston,226.5,227.5,226.625
+2017,01,10,Milwaukee,San Antonio,202.5,203.5,202.75
+2017,01,10,Cleveland,Utah,203.5,203.5,203.5
+2017,01,10,Detroit,Sacramento,205.5,206.5,206.25
+2017,01,10,Portland,L.A. Lakers,227.5,229.5,228.75
+2017,01,10,Miami,Golden State,218.5,218.5,218.5
+2017,01,11,New York,Philadelphia,210.5,211.5,211.375
+2017,01,11,Houston,Minnesota,218.5,218.5,218.5
+2017,01,11,Memphis,Oklahoma City,203.5,204.5,204.0
+2017,01,11,Washington,Boston,217.5,218.5,218.125
+2017,01,11,Orlando,L.A. Clippers,209.5,209.5,209.5
+2017,01,11,Cleveland,Portland,221.5,222.5,222.375
+2017,01,12,Indiana,Denver,225.5,226.5,226.25
+2017,01,12,New Orleans,Brooklyn,214.5,214.5,214.5
+2017,01,12,Chicago,New York,207.5,208.5,207.75
+2017,01,12,L.A. Lakers,San Antonio,212.5,213.5,212.625
+2017,01,12,Dallas,Phoenix,207.5,208.5,207.875
+2017,01,12,Detroit,Golden State,218.5,218.5,218.5
+2017,01,13,Charlotte,Philadelphia,207.5,209.5,208.25
+2017,01,13,Brooklyn,Toronto,223.5,225.5,224.75
+2017,01,13,Memphis,Houston,216.5,217.5,216.75
+2017,01,13,Oklahoma City,Minnesota,207.5,209.5,208.625
+2017,01,13,Miami,Milwaukee,204.5,205.5,205.25
+2017,01,13,Boston,Atlanta,211.5,212.5,212.375
+2017,01,13,Orlando,Portland,213.5,214.5,213.625
+2017,01,13,Cleveland,Sacramento,213.5,215.5,214.75
+2017,01,13,Detroit,Utah,190.5,191.5,191.0
+2017,01,14,L.A. Lakers,L.A. Clippers,218.5,220.5,219.875
+2017,01,14,New Orleans,Chicago,205.5,206.5,206.375
+2017,01,14,San Antonio,Phoenix,212.5,213.5,213.25
+2017,01,14,Philadelphia,Washington,209.5,210.5,210.25
+2017,01,14,Orlando,Utah,194.5,195.5,194.75
+2017,01,15,Minnesota,Dallas,197.5,198.5,198.25
+2017,01,15,Milwaukee,Atlanta,205.5,206.5,205.875
+2017,01,15,New York,Toronto,219.5,219.5,219.5
+2017,01,15,Houston,Brooklyn,234.5,235.5,234.625
+2017,01,15,Oklahoma City,Sacramento,213.5,213.5,213.5
+2017,01,15,Chicago,Memphis,192.5,193.5,193.25
+2017,01,15,Detroit,L.A. Lakers,213.5,214.5,213.625
+2017,01,16,Atlanta,New York,210.5,210.5,210.5
+2017,01,16,Portland,Washington,219.5,220.5,219.625
+2017,01,16,Philadelphia,Milwaukee,207.5,208.5,208.125
+2017,01,16,New Orleans,Indiana,214.5,215.5,214.875
+2017,01,16,Orlando,Denver,223.5,224.5,224.125
+2017,01,16,Charlotte,Boston,217.5,217.5,217.5
+2017,01,16,Cleveland,Golden State,227.5,228.5,227.625
+2017,01,16,Utah,Phoenix,204.5,205.5,205.375
+2017,01,16,Oklahoma City,L.A. Clippers,217.5,218.5,218.375
+2017,01,17,Toronto,Brooklyn,223.5,225.5,224.25
+2017,01,17,Houston,Miami,221.5,222.5,221.875
+2017,01,17,Dallas,Chicago,196.5,197.5,197.375
+2017,01,17,Minnesota,San Antonio,201.5,202.5,202.375
+2017,01,17,Denver,L.A. Lakers,229.5,230.5,230.375
+2017,01,18,Portland,Charlotte,217.5,217.5,217.5
+2017,01,18,Toronto,Philadelphia,214.5,216.5,215.375
+2017,01,18,Memphis,Washington,207.5,208.5,208.25
+2017,01,18,New York,Boston,218.5,221.5,219.125
+2017,01,18,Milwaukee,Houston,225.5,227.5,226.125
+2017,01,18,Orlando,New Orleans,210.5,212.5,211.375
+2017,01,18,Atlanta,Detroit,198.5,201.5,199.5
+2017,01,18,Indiana,Sacramento,212.5,214.5,214.0
+2017,01,18,Oklahoma City,Golden State,230.5,231.5,231.125
+2017,01,19,Phoenix,Cleveland,219.5,220.5,220.125
+2017,01,19,Dallas,Miami,200.5,201.5,200.875
+2017,01,19,Washington,New York,220.5,221.5,220.625
+2017,01,19,Denver,San Antonio,216.5,218.5,216.875
+2017,01,19,Minnesota,L.A. Clippers,207.5,208.5,207.875
+2017,01,20,Toronto,Charlotte,215.5,216.5,216.125
+2017,01,20,Portland,Philadelphia,209.5,210.5,209.875
+2017,01,20,Milwaukee,Orlando,211.5,211.5,211.5
+2017,01,20,Golden State,Houston,241.5,242.5,242.0
+2017,01,20,Chicago,Atlanta,204.5,204.5,204.5
+2017,01,20,Brooklyn,New Orleans,221.5,221.5,221.5
+2017,01,20,Sacramento,Memphis,199.5,200.5,200.125
+2017,01,20,Utah,Dallas,187.5,188.5,188.375
+2017,01,20,Indiana,L.A. Lakers,220.5,221.5,220.875
+2017,01,21,Portland,Boston,217.5,218.5,217.625
+2017,01,21,Washington,Detroit,207.5,208.5,208.125
+2017,01,21,Brooklyn,Charlotte,221.5,222.5,222.375
+2017,01,21,Philadelphia,Atlanta,199.5,200.5,199.75
+2017,01,21,Milwaukee,Miami,205.5,205.5,205.5
+2017,01,21,Phoenix,New York,223.5,224.5,224.375
+2017,01,21,Houston,Memphis,214.5,215.5,215.125
+2017,01,21,San Antonio,Cleveland,211.5,212.5,211.75
+2017,01,21,Indiana,Utah,200.5,200.5,200.5
+2017,01,21,L.A. Clippers,Denver,222.5,223.5,222.875
+2017,01,21,Sacramento,Chicago,204.5,205.5,205.375
+2017,01,22,Golden State,Orlando,224.5,225.5,224.75
+2017,01,22,L.A. Lakers,Dallas,206.5,208.5,207.25
+2017,01,22,Phoenix,Toronto,219.5,220.5,220.375
+2017,01,22,Denver,Minnesota,221.5,222.5,221.875
+2017,01,23,Washington,Charlotte,212.5,213.5,213.25
+2017,01,23,Sacramento,Detroit,204.5,205.5,205.375
+2017,01,23,San Antonio,Brooklyn,214.5,215.5,214.875
+2017,01,23,L.A. Clippers,Atlanta,206.5,206.5,206.5
+2017,01,23,Golden State,Miami,217.5,218.5,218.125
+2017,01,23,Houston,Milwaukee,226.5,226.5,226.5
+2017,01,23,Cleveland,New Orleans,215.5,216.5,216.0
+2017,01,23,New York,Indiana,217.5,218.5,217.625
+2017,01,23,Oklahoma City,Utah,203.5,203.5,203.5
+2017,01,24,San Antonio,Toronto,202.5,205.5,203.375
+2017,01,24,Chicago,Orlando,204.5,206.5,204.75
+2017,01,24,L.A. Clippers,Philadelphia,203.5,204.5,203.875
+2017,01,24,Boston,Washington,216.5,217.5,217.0
+2017,01,24,Utah,Denver,210.5,211.5,211.0
+2017,01,24,Minnesota,Phoenix,213.5,215.5,215.125
+2017,01,25,Sacramento,Cleveland,216.5,217.5,217.0
+2017,01,25,Miami,Brooklyn,216.5,218.5,217.25
+2017,01,25,Houston,Boston,229.5,230.5,230.25
+2017,01,25,Philadelphia,Milwaukee,207.5,208.5,207.75
+2017,01,25,Oklahoma City,New Orleans,217.5,218.5,217.625
+2017,01,25,Atlanta,Chicago,203.5,203.5,203.5
+2017,01,25,Golden State,Charlotte,223.5,223.5,223.5
+2017,01,25,Toronto,Memphis,200.5,202.5,201.75
+2017,01,25,New York,Dallas,200.5,201.5,201.125
+2017,01,25,L.A. Lakers,Portland,220.5,221.5,221.0
+2017,01,26,Indiana,Minnesota,212.5,213.5,213.375
+2017,01,26,Dallas,Oklahoma City,196.5,197.5,197.25
+2017,01,26,Phoenix,Denver,231.5,232.5,232.375
+2017,01,26,L.A. Lakers,Utah,202.5,203.5,203.25
+2017,01,27,Sacramento,Indiana,211.5,211.5,211.5
+2017,01,27,Orlando,Boston,213.5,214.5,214.375
+2017,01,27,Charlotte,New York,211.5,211.5,211.5
+2017,01,27,Milwaukee,Toronto,213.5,213.5,213.5
+2017,01,27,Brooklyn,Cleveland,225.5,228.5,226.625
+2017,01,27,San Antonio,New Orleans,212.5,214.5,213.75
+2017,01,27,Miami,Chicago,204.5,204.5,204.5
+2017,01,27,Washington,Atlanta,214.5,214.5,214.5
+2017,01,27,Houston,Philadelphia,220.5,221.5,220.875
+2017,01,27,Memphis,Portland,205.5,206.5,206.125
+2017,01,28,Sacramento,Charlotte,204.5,205.5,204.75
+2017,01,28,Detroit,Miami,201.5,202.5,202.25
+2017,01,28,Boston,Milwaukee,217.5,217.5,217.5
+2017,01,28,L.A. Clippers,Golden State,224.5,224.5,224.5
+2017,01,28,Memphis,Utah,190.5,191.5,191.25
+2017,01,28,Brooklyn,Minnesota,220.5,221.5,221.375
+2017,01,28,Denver,Phoenix,227.5,228.5,227.875
+2017,01,29,New York,Atlanta,209.5,209.5,209.5
+2017,01,29,Oklahoma City,Cleveland,217.5,218.5,217.625
+2017,01,29,Orlando,Toronto,211.5,211.5,211.5
+2017,01,29,Washington,New Orleans,220.5,221.5,221.375
+2017,01,29,Houston,Indiana,228.5,229.5,229.375
+2017,01,29,Philadelphia,Chicago,205.5,205.5,205.5
+2017,01,29,Dallas,San Antonio,195.5,196.5,195.625
+2017,01,29,Golden State,Portland,223.5,225.5,225.0
+2017,01,30,Sacramento,Philadelphia,206.5,208.5,207.5
+2017,01,30,Brooklyn,Miami,218.5,219.5,218.625
+2017,01,30,Orlando,Minnesota,212.5,213.5,213.125
+2017,01,30,Detroit,Boston,216.5,217.5,217.0
+2017,01,30,Cleveland,Dallas,207.5,208.5,208.375
+2017,01,30,Memphis,Phoenix,207.5,207.5,207.5
+2017,01,31,New York,Washington,215.5,216.5,215.75
+2017,01,31,New Orleans,Toronto,212.5,213.5,212.625
+2017,01,31,Sacramento,Houston,225.5,226.5,225.5
+2017,01,31,Oklahoma City,San Antonio,210.5,210.5,210.5
+2017,01,31,Charlotte,Portland,214.5,215.5,215.25
+2017,01,31,Denver,L.A. Lakers,226.5,226.5,226.5
+2017,02,01,Indiana,Orlando,212.5,213.5,212.75
+2017,02,01,Minnesota,Cleveland,216.5,216.5,216.5
+2017,02,01,Toronto,Boston,213.5,214.5,214.375
+2017,02,01,New Orleans,Detroit,210.5,211.5,210.75
+2017,02,01,New York,Brooklyn,224.5,224.5,224.5
+2017,02,01,Atlanta,Miami,205.5,205.5,205.5
+2017,02,01,Philadelphia,Dallas,205.5,206.5,205.75
+2017,02,01,Milwaukee,Utah,197.5,198.5,197.875
+2017,02,01,L.A. Clippers,Phoenix,219.5,220.5,220.5
+2017,02,01,Memphis,Denver,211.5,212.5,212.375
+2017,02,01,Chicago,Oklahoma City,207.5,207.5,207.5
+2017,02,01,Charlotte,Golden State,226.5,227.5,227.125
+2017,02,02,L.A. Lakers,Washington,219.5,221.5,220.875
+2017,02,02,Atlanta,Houston,225.5,225.5,225.5
+2017,02,02,Philadelphia,San Antonio,213.5,215.5,214.75
+2017,02,02,Golden State,L.A. Clippers,229.5,230.5,229.875
+2017,02,03,Toronto,Orlando,206.5,207.5,206.75
+2017,02,03,Indiana,Brooklyn,218.5,218.5,218.5
+2017,02,03,Minnesota,Detroit,209.5,210.5,209.625
+2017,02,03,Chicago,Houston,221.5,222.5,222.125
+2017,02,03,L.A. Lakers,Boston,222.5,223.5,222.875
+2017,02,03,Memphis,Oklahoma City,204.5,205.5,205.0
+2017,02,03,Milwaukee,Denver,223.5,224.5,224.125
+2017,02,03,Phoenix,Sacramento,218.5,218.5,218.5
+2017,02,03,Dallas,Portland,205.5,206.5,206.25
+2017,02,04,New Orleans,Washington,216.5,216.5,216.5
+2017,02,04,Orlando,Atlanta,209.5,210.5,210.125
+2017,02,04,Detroit,Indiana,208.5,209.5,209.125
+2017,02,04,Philadelphia,Miami,208.5,209.5,208.75
+2017,02,04,Cleveland,New York,213.5,214.5,213.75
+2017,02,04,Memphis,Minnesota,203.5,203.5,203.5
+2017,02,04,Denver,San Antonio,222.5,223.5,223.375
+2017,02,04,Milwaukee,Phoenix,221.5,221.5,221.5
+2017,02,04,Charlotte,Utah,197.5,198.5,197.875
+2017,02,04,Golden State,Sacramento,215.5,225.5,224.875
+2017,02,05,Toronto,Brooklyn,215.5,216.5,216.125
+2017,02,05,L.A. Clippers,Boston,221.5,221.5,221.5
+2017,02,05,Portland,Oklahoma City,217.5,218.5,217.875
+2017,02,06,Oklahoma City,Indiana,211.5,213.5,212.375
+2017,02,06,L.A. Lakers,New York,222.5,223.5,222.875
+2017,02,06,Cleveland,Washington,218.5,219.5,219.375
+2017,02,06,Utah,Atlanta,197.5,197.5,197.5
+2017,02,06,L.A. Clippers,Toronto,216.5,217.5,217.25
+2017,02,06,Philadelphia,Detroit,211.5,212.5,211.625
+2017,02,06,Phoenix,New Orleans,221.5,222.5,222.125
+2017,02,06,Miami,Minnesota,204.5,205.5,205.25
+2017,02,06,Dallas,Denver,212.5,214.5,213.125
+2017,02,06,San Antonio,Memphis,200.5,201.5,200.875
+2017,02,06,Chicago,Sacramento,205.5,206.5,206.0
+2017,02,07,Brooklyn,Charlotte,219.5,219.5,219.5
+2017,02,07,Orlando,Houston,223.5,224.5,224.0
+2017,02,07,Portland,Dallas,206.5,207.5,207.25
+2017,02,08,San Antonio,Philadelphia,207.5,208.5,208.0
+2017,02,08,Cleveland,Indiana,215.5,216.5,216.375
+2017,02,08,L.A. Lakers,Detroit,218.5,218.5,218.5
+2017,02,08,Denver,Atlanta,223.5,225.5,224.25
+2017,02,08,Washington,Brooklyn,221.5,222.5,222.375
+2017,02,08,Miami,Milwaukee,208.5,209.5,209.0
+2017,02,08,Toronto,Minnesota,210.5,213.5,211.625
+2017,02,08,Phoenix,Memphis,211.5,211.5,211.5
+2017,02,08,Utah,New Orleans,199.5,199.5,199.5
+2017,02,08,L.A. Clippers,New York,219.5,220.5,220.25
+2017,02,08,Chicago,Golden State,222.5,223.5,223.125
+2017,02,08,Boston,Sacramento,211.5,212.5,212.125
+2017,02,09,Philadelphia,Orlando,209.5,209.5,209.5
+2017,02,09,Houston,Charlotte,224.5,224.5,224.5
+2017,02,09,Cleveland,Oklahoma City,218.5,219.5,219.25
+2017,02,09,Utah,Dallas,193.5,193.5,193.5
+2017,02,09,Boston,Portland,222.5,223.5,222.625
+2017,02,10,Miami,Brooklyn,213.5,214.5,214.0
+2017,02,10,Denver,New York,229.5,229.5,229.5
+2017,02,10,San Antonio,Detroit,208.5,209.5,209.0
+2017,02,10,L.A. Lakers,Milwaukee,217.5,218.5,218.125
+2017,02,10,Indiana,Washington,214.5,215.5,215.375
+2017,02,10,Golden State,Memphis,216.5,216.5,216.5
+2017,02,10,New Orleans,Minnesota,210.5,211.5,210.5
+2017,02,10,Chicago,Phoenix,218.5,219.5,218.875
+2017,02,10,Atlanta,Sacramento,208.5,210.5,209.625
+2017,02,11,L.A. Clippers,Charlotte,216.5,218.5,218.0
+2017,02,11,Milwaukee,Indiana,210.5,211.5,210.875
+2017,02,11,Denver,Cleveland,231.5,233.5,232.75
+2017,02,11,Miami,Philadelphia,208.5,208.5,208.5
+2017,02,11,Golden State,Oklahoma City,226.5,227.5,226.75
+2017,02,11,Phoenix,Houston,233.5,234.5,233.875
+2017,02,11,Orlando,Dallas,203.5,204.5,204.375
+2017,02,11,Boston,Utah,204.5,205.5,204.875
+2017,02,12,Chicago,Minnesota,204.5,205.5,205.25
+2017,02,12,San Antonio,New York,210.5,211.5,211.125
+2017,02,12,Detroit,Toronto,212.5,213.5,213.0
+2017,02,12,New Orleans,Sacramento,213.5,213.5,213.5
+2017,02,13,Philadelphia,Charlotte,213.5,213.5,213.5
+2017,02,13,San Antonio,Indiana,207.5,208.5,208.25
+2017,02,13,Orlando,Miami,207.5,208.5,207.625
+2017,02,13,Memphis,Brooklyn,211.5,211.5,211.5
+2017,02,13,Oklahoma City,Washington,217.5,218.5,218.25
+2017,02,13,Detroit,Milwaukee,209.5,210.5,209.625
+2017,02,13,Boston,Dallas,210.5,211.5,210.625
+2017,02,13,New Orleans,Phoenix,221.5,222.5,222.375
+2017,02,13,Golden State,Denver,236.5,237.5,236.625
+2017,02,13,L.A. Clippers,Utah,206.5,207.5,207.25
+2017,02,13,Atlanta,Portland,217.5,218.5,218.375
+2017,02,14,Cleveland,Minnesota,219.5,219.5,219.5
+2017,02,14,Toronto,Chicago,209.5,210.5,210.375
+2017,02,14,Sacramento,L.A. Lakers,218.5,219.5,218.625
+2017,02,15,San Antonio,Orlando,206.5,207.5,207.125
+2017,02,15,Indiana,Cleveland,219.5,219.5,219.5
+2017,02,15,Philadelphia,Boston,218.5,219.5,219.375
+2017,02,15,Charlotte,Toronto,213.5,213.5,213.5
+2017,02,15,Dallas,Detroit,200.5,201.5,200.75
+2017,02,15,Milwaukee,Brooklyn,218.5,219.5,219.0
+2017,02,15,New Orleans,Memphis,205.5,205.5,205.5
+2017,02,15,Miami,Houston,224.5,224.5,224.5
+2017,02,15,Portland,Utah,204.5,205.5,204.875
+2017,02,15,L.A. Lakers,Phoenix,226.5,226.5,226.5
+2017,02,15,Minnesota,Denver,225.5,226.5,225.625
+2017,02,15,New York,Oklahoma City,218.5,218.5,218.5
+2017,02,15,Atlanta,L.A. Clippers,212.5,213.5,213.375
+2017,02,15,Sacramento,Golden State,225.5,226.5,225.625
+2017,02,16,Washington,Indiana,215.5,216.5,215.625
+2017,02,16,Boston,Chicago,213.5,214.5,214.375
+2017,02,23,Portland,Orlando,217.5,218.5,217.75
+2017,02,23,Charlotte,Detroit,207.5,208.5,208.0
+2017,02,23,Houston,New Orleans,230.5,230.5,230.5
+2017,02,23,New York,Cleveland,223.5,223.5,223.5
+2017,02,23,Denver,Sacramento,221.5,223.5,222.25
+2017,02,23,L.A. Clippers,Golden State,228.5,230.5,229.625
+2017,02,24,Washington,Philadelphia,217.5,218.5,217.625
+2017,02,24,Memphis,Indiana,203.5,204.5,203.625
+2017,02,24,Boston,Toronto,213.5,213.5,213.5
+2017,02,24,Miami,Atlanta,206.5,206.5,206.5
+2017,02,24,Dallas,Minnesota,203.5,204.5,204.375
+2017,02,24,Phoenix,Chicago,219.5,220.5,219.875
+2017,02,24,L.A. Lakers,Oklahoma City,220.5,222.5,221.125
+2017,02,24,Utah,Milwaukee,202.5,203.5,202.75
+2017,02,24,Brooklyn,Denver,234.5,234.5,234.5
+2017,02,24,San Antonio,L.A. Clippers,210.5,211.5,210.875
+2017,02,25,Charlotte,Sacramento,207.5,208.5,208.375
+2017,02,25,Atlanta,Orlando,209.5,210.5,210.25
+2017,02,25,Philadelphia,New York,219.5,220.5,220.375
+2017,02,25,Indiana,Miami,208.5,209.5,209.25
+2017,02,25,Chicago,Cleveland,210.5,210.5,210.5
+2017,02,25,New Orleans,Dallas,204.5,204.5,204.5
+2017,02,25,Minnesota,Houston,229.5,229.5,229.5
+2017,02,25,Brooklyn,Golden State,234.5,234.5,234.5
+2017,02,26,Phoenix,Milwaukee,223.5,224.5,223.875
+2017,02,26,San Antonio,L.A. Lakers,209.5,209.5,209.5
+2017,02,26,Memphis,Denver,216.5,217.5,217.0
+2017,02,26,Utah,Washington,204.5,204.5,204.5
+2017,02,26,Portland,Toronto,208.5,208.5,208.5
+2017,02,26,Boston,Detroit,213.5,214.5,213.5
+2017,02,26,New Orleans,Oklahoma City,216.5,218.5,217.875
+2017,02,26,Charlotte,L.A. Clippers,212.5,213.5,212.625
+2017,02,27,Golden State,Philadelphia,227.5,228.5,228.5
+2017,02,27,Milwaukee,Cleveland,218.5,219.5,218.875
+2017,02,27,Toronto,New York,210.5,211.5,211.0
+2017,02,27,Atlanta,Boston,212.5,213.5,212.5
+2017,02,27,Miami,Dallas,200.5,201.5,201.375
+2017,02,27,Indiana,Houston,230.5,231.5,230.625
+2017,02,27,Minnesota,Sacramento,209.5,210.5,209.875
+2017,02,28,Golden State,Washington,231.5,231.5,231.5
+2017,02,28,Portland,Detroit,213.5,214.5,213.875
+2017,02,28,Phoenix,Memphis,211.5,212.5,211.625
+2017,02,28,Denver,Chicago,221.5,223.5,222.625
+2017,02,28,Utah,Oklahoma City,202.5,203.5,203.125
+2017,02,28,Charlotte,L.A. Lakers,215.5,216.5,215.625
+2016,12,01,Dallas,Charlotte,192.5,194.5,193.25
+2016,12,01,Milwaukee,Brooklyn,214.5,215.5,215.375
+2016,12,01,L.A. Clippers,Cleveland,215.5,215.5,215.5
+2016,12,01,Orlando,Memphis,189.5,191.5,190.5
+2016,12,01,Miami,Utah,186.5,187.5,186.875
+2016,12,01,Houston,Golden State,232.5,232.5,232.5
+2016,12,02,Orlando,Philadelphia,197.5,198.5,198.375
+2016,12,02,L.A. Lakers,Toronto,214.5,215.5,214.875
+2016,12,02,Sacramento,Boston,210.5,211.5,210.625
+2016,12,02,Minnesota,New York,210.5,211.5,211.375
+2016,12,02,Detroit,Atlanta,198.5,200.5,199.625
+2016,12,02,L.A. Clippers,New Orleans,205.5,206.5,205.625
+2016,12,02,Cleveland,Chicago,208.5,209.5,209.375
+2016,12,02,Washington,San Antonio,204.5,204.5,204.5
+2016,12,02,Houston,Denver,220.5,221.5,221.25
+2016,12,03,Brooklyn,Milwaukee,214.5,215.5,215.0
+2016,12,03,Minnesota,Charlotte,209.5,211.5,210.75
+2016,12,03,Boston,Philadelphia,207.5,207.5,207.5
+2016,12,03,Atlanta,Toronto,206.5,207.5,207.125
+2016,12,03,L.A. Lakers,Memphis,197.5,199.5,198.125
+2016,12,03,Chicago,Dallas,190.5,190.5,190.5
+2016,12,03,Denver,Utah,199.5,201.5,200.625
+2016,12,03,Miami,Portland,215.5,216.5,215.75
+2016,12,03,Phoenix,Golden State,227.5,228.5,228.25
+2016,12,04,Orlando,Detroit,195.5,196.5,195.75
+2016,12,04,New Orleans,Oklahoma City,213.5,214.5,214.375
+2016,12,04,Sacramento,New York,208.5,209.5,209.5
+2016,12,04,Indiana,L.A. Clippers,206.5,207.5,207.375
+2016,12,05,Denver,Philadelphia,210.5,210.5,210.5
+2016,12,05,Washington,Brooklyn,217.5,218.5,218.375
+2016,12,05,Oklahoma City,Atlanta,211.5,213.5,212.25
+2016,12,05,Cleveland,Toronto,214.5,215.5,214.625
+2016,12,05,Boston,Houston,217.5,218.5,217.875
+2016,12,05,Portland,Chicago,212.5,213.5,212.75
+2016,12,05,Memphis,New Orleans,196.5,196.5,196.5
+2016,12,05,San Antonio,Milwaukee,202.5,203.5,203.5
+2016,12,05,Charlotte,Dallas,193.5,194.5,194.125
+2016,12,05,Utah,L.A. Lakers,197.5,198.5,198.375
+2016,12,05,Indiana,Golden State,224.5,225.5,224.75
+2016,12,06,Orlando,Washington,200.5,200.5,200.5
+2016,12,06,New York,Miami,203.5,206.5,205.375
+2016,12,06,Chicago,Detroit,200.5,201.5,201.5
+2016,12,06,San Antonio,Minnesota,205.5,206.5,205.75
+2016,12,06,Philadelphia,Memphis,194.5,194.5,194.5
+2016,12,06,Phoenix,Utah,204.5,204.5,204.5
+2016,12,07,Boston,Orlando,195.5,196.5,195.625
+2016,12,07,Detroit,Charlotte,202.5,203.5,202.75
+2016,12,07,Denver,Brooklyn,221.5,222.5,221.5
+2016,12,07,Miami,Atlanta,203.5,203.5,203.5
+2016,12,07,Portland,Milwaukee,214.5,214.5,214.5
+2016,12,07,Cleveland,New York,213.5,214.5,214.125
+2016,12,07,L.A. Lakers,Houston,222.5,223.5,222.75
+2016,12,07,Sacramento,Dallas,196.5,197.5,196.625
+2016,12,07,Indiana,Phoenix,214.5,216.5,215.375
+2016,12,07,Golden State,L.A. Clippers,224.5,225.5,224.875
+2016,12,08,Minnesota,Toronto,213.5,214.5,214.0
+2016,12,08,Denver,Washington,216.5,218.5,217.25
+2016,12,08,Portland,Memphis,204.5,206.5,205.625
+2016,12,08,Philadelphia,New Orleans,204.5,205.5,204.875
+2016,12,08,Golden State,Utah,207.5,208.5,208.0
+2016,12,08,San Antonio,Chicago,199.5,201.5,201.125
+2016,12,09,Orlando,Charlotte,203.5,204.5,203.75
+2016,12,09,Toronto,Boston,207.5,208.5,207.75
+2016,12,09,Miami,Cleveland,207.5,209.5,208.125
+2016,12,09,Detroit,Minnesota,202.5,203.5,202.875
+2016,12,09,Houston,Oklahoma City,224.5,224.5,224.5
+2016,12,09,Atlanta,Milwaukee,205.5,205.5,205.5
+2016,12,09,Indiana,Dallas,199.5,199.5,199.5
+2016,12,09,New York,Sacramento,210.5,210.5,210.5
+2016,12,09,Phoenix,L.A. Lakers,221.5,222.5,221.875
+2016,12,10,Milwaukee,Washington,209.5,211.5,210.125
+2016,12,10,Portland,Indiana,217.5,218.5,217.625
+2016,12,10,Denver,Orlando,204.5,206.5,205.625
+2016,12,10,Charlotte,Cleveland,213.5,215.5,214.375
+2016,12,10,Miami,Chicago,201.5,201.5,201.5
+2016,12,10,Dallas,Houston,208.5,209.5,208.875
+2016,12,10,Golden State,Memphis,211.5,212.5,211.5
+2016,12,10,Brooklyn,San Antonio,209.5,211.5,210.75
+2016,12,10,Sacramento,Utah,195.5,197.5,196.5
+2016,12,10,New Orleans,L.A. Clippers,199.5,200.5,200.0
+2016,12,11,Philadelphia,Detroit,196.5,198.5,198.25
+2016,12,11,Boston,Oklahoma City,206.5,208.5,207.5
+2016,12,11,Golden State,Minnesota,225.5,226.5,226.375
+2016,12,11,New Orleans,Phoenix,215.5,216.5,216.25
+2016,12,11,New York,L.A. Lakers,217.5,217.5,217.5
+2016,12,12,Charlotte,Indiana,208.5,209.5,208.75
+2016,12,12,Washington,Miami,207.5,208.5,208.0
+2016,12,12,Milwaukee,Toronto,212.5,213.5,212.75
+2016,12,12,Brooklyn,Houston,229.5,230.5,229.75
+2016,12,12,Denver,Dallas,203.5,204.5,204.125
+2016,12,12,Portland,L.A. Clippers,218.5,220.5,219.25
+2016,12,12,L.A. Lakers,Sacramento,216.5,217.5,217.125
+2016,12,13,Memphis,Cleveland,200.5,201.5,201.0
+2016,12,13,Orlando,Atlanta,200.5,202.5,201.625
+2016,12,13,Golden State,New Orleans,225.5,225.5,225.5
+2016,12,13,Minnesota,Chicago,207.5,208.5,207.875
+2016,12,13,New York,Phoenix,218.5,219.5,219.0
+2016,12,13,Oklahoma City,Portland,218.5,219.5,219.0
+2016,12,14,Charlotte,Washington,210.5,212.5,211.25
+2016,12,14,Indiana,Miami,203.5,204.5,204.125
+2016,12,14,Toronto,Philadelphia,205.5,205.5,205.5
+2016,12,14,L.A. Clippers,Orlando,210.5,210.5,210.5
+2016,12,14,L.A. Lakers,Brooklyn,228.5,228.5,228.5
+2016,12,14,Cleveland,Memphis,189.5,190.5,190.0
+2016,12,14,Sacramento,Houston,212.5,213.5,213.375
+2016,12,14,Detroit,Dallas,188.5,190.5,190.25
+2016,12,14,Oklahoma City,Utah,198.5,199.5,199.0
+2016,12,14,Boston,San Antonio,195.5,197.5,196.875
+2016,12,15,Indiana,New Orleans,208.5,210.5,209.0
+2016,12,15,Chicago,Milwaukee,206.5,207.5,206.625
+2016,12,15,San Antonio,Phoenix,210.5,211.5,211.375
+2016,12,15,Portland,Denver,221.5,222.5,221.625
+2016,12,15,New York,Golden State,222.5,223.5,222.625
+2016,12,16,Brooklyn,Orlando,217.5,217.5,217.5
+2016,12,16,Detroit,Washington,204.5,205.5,205.25
+2016,12,16,Charlotte,Boston,207.5,208.5,207.875
+2016,12,16,Atlanta,Toronto,214.5,215.5,214.625
+2016,12,16,Milwaukee,Chicago,203.5,204.5,204.25
+2016,12,16,L.A. Clippers,Miami,205.5,206.5,206.375
+2016,12,16,New Orleans,Houston,223.5,224.5,224.25
+2016,12,16,Sacramento,Memphis,193.5,193.5,193.5
+2016,12,16,L.A. Lakers,Philadelphia,210.5,211.5,210.625
+2016,12,16,Dallas,Utah,184.5,186.5,185.375
+2016,12,17,Phoenix,Oklahoma City,215.5,215.5,215.5
+2016,12,17,Indiana,Detroit,200.5,201.5,200.875
+2016,12,17,Charlotte,Atlanta,208.5,208.5,208.5
+2016,12,17,L.A. Lakers,Cleveland,218.5,219.5,219.375
+2016,12,17,Houston,Minnesota,220.5,221.5,221.0
+2016,12,17,New York,Denver,215.5,215.5,215.5
+2016,12,17,Portland,Golden State,233.5,235.5,234.375
+2016,12,18,L.A. Clippers,Washington,212.5,213.5,213.0
+2016,12,18,Sacramento,Dallas,193.5,194.5,193.875
+2016,12,18,Boston,Miami,202.5,203.5,202.625
+2016,12,18,Brooklyn,Philadelphia,215.5,216.5,215.875
+2016,12,18,Utah,Memphis,185.5,186.5,185.625
+2016,12,18,Toronto,Orlando,212.5,213.5,212.625
+2016,12,18,New Orleans,San Antonio,207.5,208.5,208.125
+2016,12,19,Washington,Indiana,211.5,212.5,211.5
+2016,12,19,Detroit,Chicago,196.5,197.5,197.0
+2016,12,19,Atlanta,Oklahoma City,210.5,212.5,211.375
+2016,12,19,Phoenix,Minnesota,212.5,215.5,213.625
+2016,12,19,Dallas,Denver,207.5,207.5,207.5
+2016,12,20,L.A. Lakers,Charlotte,212.5,213.5,212.875
+2016,12,20,New Orleans,Philadelphia,205.5,206.5,205.75
+2016,12,20,Indiana,New York,210.5,210.5,210.5
+2016,12,20,Brooklyn,Toronto,224.5,225.5,225.125
+2016,12,20,Orlando,Miami,199.5,199.5,199.5
+2016,12,20,Boston,Memphis,194.5,195.5,194.625
+2016,12,20,San Antonio,Houston,213.5,214.5,214.125
+2016,12,20,Cleveland,Milwaukee,211.5,212.5,212.375
+2016,12,20,Utah,Golden State,210.5,210.5,210.5
+2016,12,20,Portland,Sacramento,216.5,218.5,217.5
+2016,12,20,Denver,L.A. Clippers,217.5,218.5,218.25
+2016,12,21,Milwaukee,Cleveland,206.5,208.5,207.375
+2016,12,21,Minnesota,Atlanta,213.5,216.5,215.875
+2016,12,21,Memphis,Detroit,187.5,189.5,189.125
+2016,12,21,Washington,Chicago,209.5,209.5,209.5
+2016,12,21,Oklahoma City,New Orleans,208.5,209.5,209.375
+2016,12,21,Houston,Phoenix,227.5,228.5,228.0
+2016,12,21,Sacramento,Utah,193.5,194.5,194.0
+2016,12,21,Dallas,Portland,209.5,210.5,210.25
+2016,12,22,Boston,Indiana,208.5,209.5,209.25
+2016,12,22,Orlando,New York,210.5,211.5,210.625
+2016,12,22,Golden State,Brooklyn,231.5,231.5,231.5
+2016,12,22,L.A. Lakers,Miami,211.5,212.5,212.0
+2016,12,22,San Antonio,L.A. Clippers,204.5,205.5,205.25
+2016,12,23,Chicago,Charlotte,204.5,205.5,205.375
+2016,12,23,L.A. Lakers,Orlando,209.5,211.5,209.875
+2016,12,23,Oklahoma City,Boston,211.5,212.5,211.75
+2016,12,23,Golden State,Detroit,214.5,214.5,214.5
+2016,12,23,Brooklyn,Cleveland,225.5,225.5,225.5
+2016,12,23,Miami,New Orleans,205.5,206.5,206.25
+2016,12,23,Washington,Milwaukee,213.5,215.5,214.375
+2016,12,23,Houston,Memphis,205.5,206.5,205.75
+2016,12,23,Sacramento,Minnesota,206.5,206.5,206.5
+2016,12,23,Philadelphia,Phoenix,212.5,213.5,213.0
+2016,12,23,Atlanta,Denver,216.5,217.5,217.25
+2016,12,23,Toronto,Utah,198.5,199.5,198.75
+2016,12,23,San Antonio,Portland,211.5,212.5,211.5
+2016,12,23,Dallas,L.A. Clippers,194.5,195.5,195.125
+2016,12,25,Boston,New York,210.5,212.5,211.25
+2016,12,25,Golden State,Cleveland,219.5,220.5,219.75
+2016,12,25,Chicago,San Antonio,198.5,199.5,199.25
+2016,12,25,Minnesota,Oklahoma City,211.5,212.5,212.375
+2016,12,25,L.A. Clippers,L.A. Lakers,209.5,210.5,209.75
+2016,12,26,Milwaukee,Washington,212.5,214.5,213.375
+2016,12,26,Memphis,Orlando,192.5,193.5,193.375
+2016,12,26,Charlotte,Brooklyn,217.5,218.5,217.875
+2016,12,26,Cleveland,Detroit,203.5,204.5,204.25
+2016,12,26,Phoenix,Houston,230.5,230.5,230.5
+2016,12,26,Atlanta,Minnesota,208.5,209.5,208.875
+2016,12,26,Indiana,Chicago,205.5,207.5,206.125
+2016,12,26,Dallas,New Orleans,199.5,200.5,199.5
+2016,12,26,Toronto,Portland,215.5,216.5,215.875
+2016,12,26,Philadelphia,Sacramento,204.5,206.5,205.875
+2016,12,26,Denver,L.A. Clippers,208.5,209.5,208.625
+2016,12,27,Memphis,Boston,198.5,198.5,198.5
+2016,12,27,Oklahoma City,Miami,202.5,203.5,203.25
+2016,12,27,Houston,Dallas,209.5,209.5,209.5
+2016,12,27,Utah,L.A. Lakers,203.5,204.5,204.0
+2016,12,28,Indiana,Washington,214.5,215.5,214.875
+2016,12,28,Charlotte,Orlando,204.5,205.5,204.75
+2016,12,28,New York,Atlanta,210.5,211.5,211.375
+2016,12,28,Milwaukee,Detroit,203.5,204.5,203.625
+2016,12,28,L.A. Clippers,New Orleans,208.5,209.5,209.375
+2016,12,28,Brooklyn,Chicago,213.5,214.5,214.125
+2016,12,28,Phoenix,San Antonio,213.5,214.5,214.25
+2016,12,28,Minnesota,Denver,217.5,217.5,217.5
+2016,12,28,Sacramento,Portland,206.5,207.5,206.75
+2016,12,28,Toronto,Golden State,227.5,228.5,227.625
+2016,12,29,Miami,Charlotte,203.5,205.5,204.125
+2016,12,29,Boston,Cleveland,217.5,217.5,217.5
+2016,12,29,Oklahoma City,Memphis,197.5,198.5,197.75
+2016,12,29,Toronto,Phoenix,222.5,224.5,223.125
+2016,12,29,Philadelphia,Utah,195.5,196.5,196.375
+2016,12,29,Dallas,L.A. Lakers,204.5,206.5,205.25
+2016,12,30,Chicago,Indiana,200.5,202.5,202.125
+2016,12,30,Brooklyn,Washington,219.5,220.5,220.0
+2016,12,30,Miami,Boston,203.5,203.5,203.5
+2016,12,30,New York,New Orleans,215.5,216.5,215.875
+2016,12,30,Detroit,Atlanta,198.5,200.5,199.125
+2016,12,30,Milwaukee,Minnesota,208.5,209.5,209.375
+2016,12,30,L.A. Clippers,Houston,216.5,217.5,216.875
+2016,12,30,Portland,San Antonio,202.5,202.5,202.5
+2016,12,30,Philadelphia,Denver,212.5,213.5,213.375
+2016,12,30,Dallas,Golden State,213.5,214.5,214.125
+2016,12,31,Memphis,Sacramento,194.5,195.5,195.25
+2016,12,31,Cleveland,Charlotte,209.5,211.5,210.25
+2016,12,31,Milwaukee,Chicago,202.5,204.5,203.25
+2016,12,31,L.A. Clippers,Oklahoma City,209.5,210.5,209.5
+2016,12,31,New York,Houston,224.5,224.5,224.5
+2016,12,31,Phoenix,Utah,207.5,208.5,207.625
+2016,10,25,New York,Cleveland,206.5,206.5,206.5
+2016,10,25,Utah,Portland,191.5,192.5,192.375
+2016,10,25,San Antonio,Golden State,211.5,212.5,212.125
+2016,10,26,Dallas,Indiana,204.5,205.5,204.875
+2016,10,26,Miami,Orlando,199.5,199.5,199.5
+2016,10,26,Brooklyn,Boston,212.5,212.5,212.5
+2016,10,26,Detroit,Toronto,196.5,197.5,197.125
+2016,10,26,Oklahoma City,Philadelphia,209.5,209.5,209.5
+2016,10,26,Minnesota,Memphis,198.5,200.5,199.5
+2016,10,26,Charlotte,Milwaukee,194.5,195.5,194.875
+2016,10,26,Denver,New Orleans,206.5,207.5,206.625
+2016,10,26,Sacramento,Phoenix,211.5,211.5,211.5
+2016,10,26,Houston,L.A. Lakers,224.5,224.5,224.5
+2016,10,27,Washington,Atlanta,201.5,202.5,202.125
+2016,10,27,Boston,Chicago,208.5,209.5,209.125
+2016,10,27,San Antonio,Sacramento,203.5,203.5,203.5
+2016,10,27,L.A. Clippers,Portland,209.5,210.5,210.125
+2016,10,28,Cleveland,Toronto,205.5,206.5,205.5
+2016,10,28,Orlando,Detroit,195.5,195.5,195.5
+2016,10,28,Indiana,Brooklyn,218.5,219.5,219.125
+2016,10,28,Phoenix,Oklahoma City,209.5,209.5,209.5
+2016,10,28,Charlotte,Miami,197.5,197.5,197.5
+2016,10,28,Houston,Dallas,218.5,218.5,218.5
+2016,10,28,L.A. Lakers,Utah,200.5,202.5,201.625
+2016,10,28,Golden State,New Orleans,223.5,223.5,223.5
+2016,10,29,Atlanta,Philadelphia,201.5,202.5,202.25
+2016,10,29,Boston,Charlotte,202.5,202.5,202.5
+2016,10,29,Memphis,New York,199.5,199.5,199.5
+2016,10,29,Orlando,Cleveland,204.5,205.5,205.25
+2016,10,29,New Orleans,San Antonio,203.5,204.5,203.5
+2016,10,29,Brooklyn,Milwaukee,204.5,205.5,205.25
+2016,10,29,Indiana,Chicago,209.5,210.5,210.5
+2016,10,29,Portland,Denver,211.5,212.5,212.375
+2016,10,29,Minnesota,Sacramento,202.5,203.5,202.875
+2016,10,30,Utah,L.A. Clippers,189.5,190.5,189.625
+2016,10,30,San Antonio,Miami,193.5,194.5,194.125
+2016,10,30,Golden State,Phoenix,226.5,227.5,226.875
+2016,10,30,Milwaukee,Detroit,197.5,197.5,197.5
+2016,10,30,L.A. Lakers,Oklahoma City,216.5,216.5,216.5
+2016,10,30,Washington,Memphis,204.5,204.5,204.5
+2016,10,30,Dallas,Houston,213.5,215.5,214.25
+2016,10,31,Sacramento,Atlanta,203.5,203.5,203.5
+2016,10,31,Denver,Toronto,206.5,207.5,206.5
+2016,10,31,Chicago,Brooklyn,209.5,211.5,210.25
+2016,10,31,Phoenix,L.A. Clippers,204.5,205.5,204.75
+2017,04,01,L.A. Lakers,L.A. Clippers,220.5,221.5,220.875
+2017,04,01,Atlanta,Chicago,201.5,202.5,202.375
+2017,04,01,Orlando,Brooklyn,221.5,222.5,222.5
+2017,04,01,Sacramento,Minnesota,206.5,207.5,207.375
+2017,04,01,Phoenix,Portland,222.5,224.5,223.5
+2017,04,02,Boston,New York,206.5,206.5,206.5
+2017,04,02,Charlotte,Oklahoma City,211.5,212.5,211.875
+2017,04,02,Memphis,L.A. Lakers,205.5,205.5,205.5
+2017,04,02,Dallas,Milwaukee,193.5,195.5,194.125
+2017,04,02,Utah,San Antonio,188.5,189.5,189.375
+2017,04,02,Indiana,Cleveland,213.5,214.5,214.0
+2017,04,02,Atlanta,Brooklyn,215.5,216.5,216.25
+2017,04,02,Denver,Miami,218.5,219.5,219.5
+2017,04,02,Chicago,New Orleans,210.5,210.5,210.5
+2017,04,02,Philadelphia,Toronto,211.5,211.5,211.5
+2017,04,02,Washington,Golden State,223.5,224.5,223.5
+2017,04,02,Houston,Phoenix,226.5,227.5,226.625
+2017,04,03,Portland,Minnesota,215.5,217.5,216.75
+2017,04,04,Toronto,Indiana,202.5,203.5,202.75
+2017,04,04,Charlotte,Washington,219.5,219.5,219.5
+2017,04,04,Brooklyn,Philadelphia,221.5,222.5,221.75
+2017,04,04,Orlando,Cleveland,222.5,223.5,223.0
+2017,04,04,Milwaukee,Oklahoma City,209.5,211.5,210.125
+2017,04,04,Denver,New Orleans,228.5,229.5,229.0
+2017,04,04,Chicago,New York,203.5,204.5,203.625
+2017,04,04,Memphis,San Antonio,194.5,196.5,195.625
+2017,04,04,Portland,Utah,201.5,201.5,201.5
+2017,04,04,Minnesota,Golden State,217.5,218.5,218.25
+2017,04,04,Dallas,Sacramento,197.5,198.5,197.625
+2017,04,05,Miami,Charlotte,203.5,204.5,204.0
+2017,04,05,Toronto,Detroit,201.5,201.5,201.5
+2017,04,05,Oklahoma City,Memphis,198.5,198.5,198.5
+2017,04,05,Denver,Houston,240.5,242.5,241.75
+2017,04,05,Cleveland,Boston,222.5,222.5,222.5
+2017,04,05,L.A. Lakers,San Antonio,207.5,208.5,208.375
+2017,04,05,Golden State,Phoenix,228.5,229.5,229.125
+2017,04,05,Dallas,L.A. Clippers,204.5,205.5,204.625
+2017,04,06,Milwaukee,Indiana,203.5,204.5,203.625
+2017,04,06,Chicago,Philadelphia,209.5,209.5,209.5
+2017,04,06,Brooklyn,Orlando,221.5,222.5,222.0
+2017,04,06,Washington,New York,217.5,218.5,217.875
+2017,04,06,Boston,Atlanta,208.5,209.5,208.75
+2017,04,06,Minnesota,Portland,216.5,217.5,217.5
+2017,04,07,Atlanta,Cleveland,212.5,213.5,212.625
+2017,04,07,Miami,Toronto,207.5,208.5,207.625
+2017,04,07,New York,Memphis,195.5,195.5,195.5
+2017,04,07,Detroit,Houston,224.5,224.5,224.5
+2017,04,07,San Antonio,Dallas,189.5,190.5,189.5
+2017,04,07,New Orleans,Denver,228.5,229.5,229.375
+2017,04,07,Minnesota,Utah,197.5,197.5,197.5
+2017,04,07,Oklahoma City,Phoenix,229.5,229.5,229.5
+2017,04,07,Sacramento,L.A. Lakers,216.5,217.5,217.375
+2017,04,08,Chicago,Brooklyn,214.5,216.5,215.375
+2017,04,08,Boston,Charlotte,213.5,214.5,214.125
+2017,04,08,Indiana,Orlando,212.5,212.5,212.5
+2017,04,08,Milwaukee,Philadelphia,209.5,209.5,209.5
+2017,04,08,Miami,Washington,216.5,217.5,216.625
+2017,04,08,L.A. Clippers,San Antonio,208.5,208.5,208.5
+2017,04,08,Utah,Portland,201.5,202.5,201.875
+2017,04,08,New Orleans,Golden State,216.5,216.5,216.5
+2017,04,09,Toronto,New York,200.5,201.5,201.375
+2017,04,09,Cleveland,Atlanta,214.5,214.5,214.5
+2017,04,09,Oklahoma City,Denver,229.5,229.5,229.5
+2017,04,09,Dallas,Phoenix,210.5,210.5,210.5
+2017,04,09,Houston,Sacramento,225.5,226.5,225.625
+2017,04,09,Detroit,Memphis,193.5,193.5,193.5
+2017,04,09,Minnesota,L.A. Lakers,221.5,221.5,221.5
+2017,04,10,Indiana,Philadelphia,211.5,211.5,211.5
+2017,04,10,Cleveland,Miami,203.5,204.5,204.375
+2017,04,10,Brooklyn,Boston,222.5,222.5,222.5
+2017,04,10,Washington,Detroit,208.5,208.5,208.5
+2017,04,10,Orlando,Chicago,214.5,214.5,214.5
+2017,04,10,Charlotte,Milwaukee,197.5,198.5,197.875
+2017,04,10,San Antonio,Portland,192.5,193.5,193.375
+2017,04,10,Houston,L.A. Clippers,231.5,232.5,231.625
+2017,04,10,Utah,Golden State,205.5,206.5,206.25
+2017,04,11,Charlotte,Atlanta,203.5,204.5,203.625
+2017,04,11,Oklahoma City,Minnesota,208.5,208.5,208.5
+2017,04,11,Denver,Dallas,213.5,214.5,214.0
+2017,04,11,New Orleans,L.A. Lakers,218.5,219.5,218.625
+2017,04,11,Phoenix,Sacramento,219.5,219.5,219.5
+2017,04,12,Milwaukee,Boston,206.5,206.5,206.5
+2017,04,12,Dallas,Memphis,189.5,189.5,189.5
+2017,04,12,Philadelphia,New York,209.5,210.5,209.625
+2017,04,12,Atlanta,Indiana,200.5,201.5,200.875
+2017,04,12,Washington,Miami,206.5,206.5,206.5
+2017,04,12,Toronto,Cleveland,201.5,202.5,202.25
+2017,04,12,Denver,Oklahoma City,224.5,225.5,224.625
+2017,04,12,Minnesota,Houston,226.5,227.5,226.875
+2017,04,12,Detroit,Orlando,205.5,206.5,206.375
+2017,04,12,Brooklyn,Chicago,212.5,213.5,212.5
+2017,04,12,San Antonio,Utah,192.5,192.5,192.5
+2017,04,12,New Orleans,Portland,202.5,203.5,202.5
+2017,04,12,Sacramento,L.A. Clippers,209.5,209.5,209.5
+2017,04,12,L.A. Lakers,Golden State,222.5,224.5,222.625
+2017,04,15,Indiana,Cleveland,208.5,209.5,208.625
+2017,04,15,Milwaukee,Toronto,197.5,198.5,197.875
+2017,04,15,Memphis,San Antonio,190.5,191.5,190.875
+2017,04,15,Utah,L.A. Clippers,197.5,199.5,198.5
+2017,04,16,Atlanta,Washington,209.5,209.5,209.5
+2017,04,16,Portland,Golden State,219.5,220.5,219.625
+2017,04,16,Chicago,Boston,206.5,207.5,207.125
+2017,04,16,Oklahoma City,Houston,227.5,228.5,228.0
+2017,04,17,Indiana,Cleveland,208.5,210.5,209.25
+2017,04,17,Memphis,San Antonio,188.5,189.5,189.0
+2017,04,18,Milwaukee,Toronto,194.5,195.5,195.0
+2017,04,18,Chicago,Boston,206.5,206.5,206.5
+2017,04,18,Utah,L.A. Clippers,199.5,200.5,200.5
+2017,04,19,Atlanta,Washington,211.5,212.5,211.625
+2017,04,19,Oklahoma City,Houston,225.5,225.5,225.5
+2017,04,19,Portland,Golden State,218.5,219.5,219.375
+2017,04,20,Cleveland,Indiana,209.5,210.5,210.5
+2017,04,20,Toronto,Milwaukee,196.5,197.5,197.375
+2017,04,20,San Antonio,Memphis,187.5,188.5,188.375
+2017,04,21,Boston,Chicago,205.5,206.5,205.875
+2017,04,21,Houston,Oklahoma City,224.5,224.5,224.5
+2017,04,21,L.A. Clippers,Utah,197.5,197.5,197.5
+2017,04,22,Toronto,Milwaukee,193.5,195.5,194.625
+2017,04,22,Washington,Atlanta,210.5,211.5,211.5
+2017,04,22,San Antonio,Memphis,187.5,187.5,187.5
+2017,04,22,Golden State,Portland,217.5,217.5,217.5
+2017,04,23,Cleveland,Indiana,213.5,214.5,213.875
+2017,04,23,Houston,Oklahoma City,223.5,223.5,223.5
+2017,04,23,Boston,Chicago,203.5,204.5,203.75
+2017,04,23,L.A. Clippers,Utah,196.5,196.5,196.5
+2017,04,24,Milwaukee,Toronto,192.5,193.5,193.375
+2017,04,24,Washington,Atlanta,212.5,213.5,213.0
+2017,04,24,Golden State,Portland,222.5,222.5,222.5
+2017,04,25,Oklahoma City,Houston,223.5,224.5,224.0
+2017,04,25,Memphis,San Antonio,187.5,188.5,188.375
+2017,04,25,Utah,L.A. Clippers,195.5,195.5,195.5
+2017,04,26,Atlanta,Washington,210.5,212.5,211.625
+2017,04,26,Chicago,Boston,204.5,205.5,205.375
+2017,04,27,Toronto,Milwaukee,196.5,197.5,196.75
+2017,04,27,San Antonio,Memphis,190.5,191.5,190.75
+2017,04,28,Washington,Atlanta,208.5,209.5,208.625
+2017,04,28,Boston,Chicago,202.5,203.5,203.125
+2017,04,28,L.A. Clippers,Utah,195.5,195.5,195.5
+2017,04,30,Washington,Boston,216.5,216.5,216.5
+2017,04,30,Utah,L.A. Clippers,190.5,190.5,190.5
+2017,03,01,New York,Orlando,215.5,216.5,216.0
+2017,03,01,Philadelphia,Miami,212.5,214.5,213.5
+2017,03,01,Dallas,Atlanta,195.5,196.5,195.5
+2017,03,01,Washington,Toronto,207.5,208.5,208.375
+2017,03,01,Cleveland,Boston,224.5,224.5,224.5
+2017,03,01,Detroit,New Orleans,208.5,209.5,209.25
+2017,03,01,Denver,Milwaukee,223.5,224.5,223.625
+2017,03,01,Indiana,San Antonio,206.5,207.5,206.75
+2017,03,01,Minnesota,Utah,199.5,200.5,199.875
+2017,03,01,Brooklyn,Sacramento,215.5,216.5,216.25
+2017,03,01,Houston,L.A. Clippers,235.5,236.5,235.75
+2017,03,02,Golden State,Chicago,217.5,217.5,217.5
+2017,03,02,Charlotte,Phoenix,218.5,219.5,219.0
+2017,03,02,Oklahoma City,Portland,222.5,223.5,223.0
+2017,03,03,New York,Philadelphia,216.5,217.5,217.125
+2017,03,03,Miami,Orlando,210.5,210.5,210.5
+2017,03,03,Toronto,Washington,207.5,207.5,207.5
+2017,03,03,Cleveland,Atlanta,214.5,214.5,214.5
+2017,03,03,L.A. Clippers,Milwaukee,210.5,211.5,210.625
+2017,03,03,Memphis,Dallas,189.5,190.5,190.375
+2017,03,03,Brooklyn,Utah,206.5,207.5,206.625
+2017,03,03,Oklahoma City,Phoenix,225.5,225.5,225.5
+2017,03,03,San Antonio,New Orleans,206.5,208.5,207.75
+2017,03,03,Boston,L.A. Lakers,217.5,219.5,218.5
+2017,03,04,Detroit,Philadelphia,212.5,213.5,213.375
+2017,03,04,Cleveland,Miami,209.5,210.5,210.125
+2017,03,04,Toronto,Milwaukee,203.5,203.5,203.5
+2017,03,04,L.A. Clippers,Chicago,210.5,211.5,210.625
+2017,03,04,Minnesota,San Antonio,204.5,205.5,205.0
+2017,03,04,Charlotte,Denver,221.5,222.5,222.375
+2017,03,04,Memphis,Houston,221.5,223.5,222.0
+2017,03,04,Brooklyn,Portland,224.5,225.5,224.625
+2017,03,05,Indiana,Atlanta,209.5,209.5,209.5
+2017,03,05,Golden State,New York,219.5,220.5,220.0
+2017,03,05,Boston,Phoenix,228.5,230.5,229.5
+2017,03,05,Orlando,Washington,216.5,217.5,217.375
+2017,03,05,Utah,Sacramento,191.5,191.5,191.5
+2017,03,05,Oklahoma City,Dallas,206.5,207.5,207.375
+2017,03,05,New Orleans,L.A. Lakers,217.5,217.5,217.5
+2017,03,06,Miami,Cleveland,214.5,215.5,214.625
+2017,03,06,Milwaukee,Philadelphia,211.5,213.5,212.5
+2017,03,06,New York,Orlando,206.5,207.5,207.375
+2017,03,06,Chicago,Detroit,204.5,204.5,204.5
+2017,03,06,Golden State,Atlanta,216.5,217.5,217.25
+2017,03,06,Brooklyn,Memphis,212.5,213.5,213.25
+2017,03,06,Indiana,Charlotte,204.5,205.5,205.5
+2017,03,06,Houston,San Antonio,221.5,223.5,222.375
+2017,03,06,New Orleans,Utah,196.5,197.5,196.75
+2017,03,06,Sacramento,Denver,215.5,216.5,215.875
+2017,03,06,Boston,L.A. Clippers,217.5,218.5,218.125
+2017,03,06,Portland,Minnesota,214.5,214.5,214.5
+2017,03,07,Portland,Oklahoma City,221.5,222.5,221.75
+2017,03,07,L.A. Lakers,Dallas,206.5,206.5,206.5
+2017,03,07,Washington,Phoenix,229.5,229.5,229.5
+2017,03,08,Chicago,Orlando,204.5,205.5,204.625
+2017,03,08,Charlotte,Miami,204.5,204.5,204.5
+2017,03,08,Brooklyn,Atlanta,219.5,221.5,220.5
+2017,03,08,Utah,Houston,215.5,216.5,215.875
+2017,03,08,New York,Milwaukee,208.5,209.5,208.625
+2017,03,08,Detroit,Indiana,208.5,208.5,208.5
+2017,03,08,Toronto,New Orleans,203.5,204.5,204.0
+2017,03,08,L.A. Clippers,Minnesota,211.5,211.5,211.5
+2017,03,08,Sacramento,San Antonio,195.5,195.5,195.5
+2017,03,08,Washington,Denver,223.5,224.5,223.625
+2017,03,08,Boston,Golden State,223.5,225.5,224.625
+2017,03,09,Cleveland,Detroit,215.5,216.5,216.0
+2017,03,09,San Antonio,Oklahoma City,209.5,210.5,209.875
+2017,03,09,L.A. Clippers,Memphis,206.5,207.5,207.125
+2017,03,09,Philadelphia,Portland,221.5,221.5,221.5
+2017,03,09,L.A. Lakers,Phoenix,231.5,232.5,232.0
+2017,03,10,Orlando,Charlotte,203.5,204.5,204.25
+2017,03,10,Golden State,Minnesota,212.5,213.5,212.75
+2017,03,10,Indiana,Milwaukee,203.5,204.5,204.25
+2017,03,10,Toronto,Atlanta,203.5,204.5,204.0
+2017,03,10,Houston,Chicago,223.5,224.5,223.75
+2017,03,10,Boston,Denver,223.5,223.5,223.5
+2017,03,10,Brooklyn,Dallas,211.5,212.5,212.125
+2017,03,10,Washington,Sacramento,214.5,215.5,214.5
+2017,03,11,Utah,Oklahoma City,207.5,207.5,207.5
+2017,03,11,Philadelphia,L.A. Clippers,214.5,215.5,215.0
+2017,03,11,New York,Detroit,212.5,212.5,212.5
+2017,03,11,New Orleans,Charlotte,204.5,204.5,204.5
+2017,03,11,Cleveland,Orlando,215.5,216.5,215.625
+2017,03,11,Toronto,Miami,202.5,202.5,202.5
+2017,03,11,Minnesota,Milwaukee,203.5,203.5,203.5
+2017,03,11,Golden State,San Antonio,197.5,198.5,197.75
+2017,03,11,Atlanta,Memphis,206.5,206.5,206.5
+2017,03,11,Phoenix,Dallas,217.5,218.5,217.625
+2017,03,11,Washington,Portland,222.5,223.5,222.75
+2017,03,11,Denver,Sacramento,216.5,217.5,217.375
+2017,03,12,Chicago,Boston,207.5,208.5,207.875
+2017,03,12,New York,Brooklyn,221.5,221.5,221.5
+2017,03,12,Miami,Indiana,200.5,201.5,201.375
+2017,03,12,Portland,Phoenix,227.5,228.5,227.875
+2017,03,12,Cleveland,Houston,235.5,236.5,236.0
+2017,03,12,Philadelphia,L.A. Lakers,222.5,223.5,223.125
+2017,03,13,Chicago,Charlotte,199.5,200.5,200.0
+2017,03,13,Dallas,Toronto,195.5,196.5,196.125
+2017,03,13,Atlanta,San Antonio,202.5,204.5,203.75
+2017,03,13,Milwaukee,Memphis,199.5,199.5,199.5
+2017,03,13,Washington,Minnesota,213.5,215.5,214.375
+2017,03,13,L.A. Clippers,Utah,201.5,203.5,202.75
+2017,03,13,Orlando,Sacramento,206.5,207.5,206.625
+2017,03,13,L.A. Lakers,Denver,227.5,227.5,227.5
+2017,03,14,Detroit,Cleveland,215.5,216.5,216.125
+2017,03,14,Indiana,New York,210.5,211.5,210.75
+2017,03,14,Oklahoma City,Brooklyn,225.5,226.5,226.25
+2017,03,14,Portland,New Orleans,214.5,214.5,214.5
+2017,03,14,Philadelphia,Golden State,220.5,222.5,221.375
+2017,03,15,Charlotte,Indiana,202.5,203.5,203.25
+2017,03,15,Dallas,Washington,207.5,207.5,207.5
+2017,03,15,Utah,Detroit,199.5,200.5,199.875
+2017,03,15,New Orleans,Miami,202.5,204.5,203.375
+2017,03,15,Minnesota,Boston,210.5,211.5,211.0
+2017,03,15,Portland,San Antonio,208.5,209.5,208.75
+2017,03,15,L.A. Lakers,Houston,234.5,235.5,235.0
+2017,03,15,Memphis,Chicago,201.5,202.5,202.375
+2017,03,15,Sacramento,Phoenix,217.5,220.5,218.875
+2017,03,15,Milwaukee,L.A. Clippers,206.5,207.5,207.125
+2017,03,16,Oklahoma City,Toronto,207.5,209.5,207.75
+2017,03,16,Utah,Cleveland,208.5,209.5,208.875
+2017,03,16,Memphis,Atlanta,201.5,202.5,202.5
+2017,03,16,Brooklyn,New York,221.5,222.5,222.375
+2017,03,16,L.A. Clippers,Denver,221.5,222.5,222.125
+2017,03,16,Orlando,Golden State,219.5,220.5,219.875
+2017,03,17,Chicago,Washington,211.5,212.5,212.0
+2017,03,17,Dallas,Philadelphia,204.5,205.5,205.375
+2017,03,17,Toronto,Detroit,201.5,202.5,202.25
+2017,03,17,Boston,Brooklyn,213.5,214.5,213.75
+2017,03,17,Minnesota,Miami,205.5,205.5,205.5
+2017,03,17,Houston,New Orleans,228.5,229.5,228.625
+2017,03,17,Orlando,Phoenix,220.5,220.5,220.5
+2017,03,17,Milwaukee,L.A. Lakers,212.5,213.5,213.5
+2017,03,18,Sacramento,Oklahoma City,212.5,212.5,212.5
+2017,03,18,Portland,Atlanta,214.5,215.5,214.5
+2017,03,18,Washington,Charlotte,215.5,215.5,215.5
+2017,03,18,Cleveland,L.A. Clippers,213.5,218.5,214.125
+2017,03,18,Utah,Chicago,191.5,193.5,192.75
+2017,03,18,San Antonio,Memphis,196.5,196.5,196.5
+2017,03,18,Houston,Denver,240.5,241.5,241.0
+2017,03,18,Milwaukee,Golden State,214.5,215.5,214.625
+2017,03,19,Dallas,Brooklyn,207.5,208.5,207.75
+2017,03,19,Boston,Philadelphia,202.5,204.5,203.75
+2017,03,19,Phoenix,Detroit,209.5,210.5,210.125
+2017,03,19,Minnesota,New Orleans,208.5,208.5,208.5
+2017,03,19,Indiana,Toronto,196.5,197.5,197.25
+2017,03,19,Portland,Miami,213.5,214.5,214.0
+2017,03,19,Sacramento,San Antonio,201.5,202.5,202.375
+2017,03,19,Cleveland,L.A. Lakers,222.5,223.5,222.875
+2017,03,20,Utah,Indiana,193.5,194.5,193.875
+2017,03,20,Philadelphia,Orlando,217.5,218.5,218.25
+2017,03,20,Atlanta,Charlotte,205.5,206.5,205.5
+2017,03,20,Washington,Boston,216.5,217.5,217.375
+2017,03,20,Denver,Houston,237.5,238.5,238.25
+2017,03,20,Golden State,Oklahoma City,222.5,223.5,223.125
+2017,03,20,New York,L.A. Clippers,214.5,215.5,215.5
+2017,03,21,Chicago,Toronto,197.5,197.5,197.5
+2017,03,21,Phoenix,Miami,214.5,216.5,215.5
+2017,03,21,Detroit,Brooklyn,214.5,215.5,215.375
+2017,03,21,Memphis,New Orleans,207.5,208.5,208.0
+2017,03,21,Golden State,Dallas,207.5,208.5,207.75
+2017,03,21,San Antonio,Minnesota,204.5,205.5,205.25
+2017,03,21,Milwaukee,Portland,207.5,208.5,207.625
+2017,03,21,L.A. Clippers,L.A. Lakers,222.5,223.5,222.875
+2017,03,22,Charlotte,Orlando,206.5,207.5,206.625
+2017,03,22,Indiana,Boston,208.5,209.5,209.0
+2017,03,22,Detroit,Chicago,200.5,201.5,200.5
+2017,03,22,Atlanta,Washington,215.5,216.5,215.625
+2017,03,22,Philadelphia,Oklahoma City,219.5,219.5,219.5
+2017,03,22,Cleveland,Denver,228.5,228.5,228.5
+2017,03,22,Milwaukee,Sacramento,202.5,202.5,202.5
+2017,03,22,New York,Utah,202.5,202.5,202.5
+2017,03,23,Toronto,Miami,199.5,200.5,199.875
+2017,03,23,Phoenix,Brooklyn,226.5,227.5,226.75
+2017,03,23,Memphis,San Antonio,197.5,198.5,197.625
+2017,03,23,L.A. Clippers,Dallas,204.5,205.5,204.875
+2017,03,23,New York,Portland,209.5,211.5,210.25
+2017,03,24,Cleveland,Charlotte,210.5,210.5,210.5
+2017,03,24,Detroit,Orlando,207.5,208.5,208.0
+2017,03,24,Denver,Indiana,215.5,218.5,216.625
+2017,03,24,Brooklyn,Washington,221.5,222.5,221.625
+2017,03,24,Phoenix,Boston,217.5,218.5,218.0
+2017,03,24,Philadelphia,Chicago,210.5,211.5,211.375
+2017,03,24,Atlanta,Milwaukee,201.5,202.5,202.125
+2017,03,24,New Orleans,Houston,231.5,233.5,232.25
+2017,03,24,Sacramento,Golden State,214.5,214.5,214.5
+2017,03,24,Minnesota,L.A. Lakers,219.5,220.5,219.875
+2017,03,25,Utah,L.A. Clippers,200.5,200.5,200.5
+2017,03,25,Washington,Cleveland,224.5,224.5,224.5
+2017,03,25,Toronto,Dallas,195.5,196.5,195.75
+2017,03,25,New York,San Antonio,203.5,204.5,203.75
+2017,03,25,Minnesota,Portland,212.5,213.5,212.625
+2017,03,26,Brooklyn,Atlanta,216.5,217.5,217.25
+2017,03,26,Phoenix,Charlotte,211.5,214.5,212.625
+2017,03,26,Sacramento,L.A. Clippers,210.5,211.5,210.875
+2017,03,26,Chicago,Milwaukee,201.5,201.5,201.5
+2017,03,26,Oklahoma City,Houston,230.5,231.5,230.625
+2017,03,26,Miami,Boston,210.5,211.5,210.875
+2017,03,26,Philadelphia,Indiana,212.5,214.5,214.125
+2017,03,26,New Orleans,Denver,225.5,226.5,226.375
+2017,03,26,Memphis,Golden State,208.5,209.5,208.75
+2017,03,26,Portland,L.A. Lakers,220.5,220.5,220.5
+2017,03,27,Orlando,Toronto,208.5,208.5,208.5
+2017,03,27,Detroit,New York,207.5,208.5,207.625
+2017,03,27,Cleveland,San Antonio,211.5,212.5,212.0
+2017,03,27,Oklahoma City,Dallas,202.5,203.5,202.75
+2017,03,27,Memphis,Sacramento,198.5,198.5,198.5
+2017,03,27,New Orleans,Utah,195.5,196.5,196.25
+2017,03,28,Milwaukee,Charlotte,199.5,200.5,199.625
+2017,03,28,Minnesota,Indiana,207.5,207.5,207.5
+2017,03,28,Phoenix,Atlanta,217.5,217.5,217.5
+2017,03,28,Miami,Detroit,201.5,201.5,201.5
+2017,03,28,Philadelphia,Brooklyn,224.5,225.5,224.625
+2017,03,28,Golden State,Houston,233.5,236.5,235.25
+2017,03,28,Denver,Portland,221.5,222.5,222.25
+2017,03,28,Washington,L.A. Lakers,224.5,225.5,225.5
+2017,03,29,Oklahoma City,Orlando,220.5,221.5,220.875
+2017,03,29,Atlanta,Philadelphia,212.5,213.5,212.875
+2017,03,29,Charlotte,Toronto,202.5,203.5,202.875
+2017,03,29,Miami,New York,207.5,207.5,207.5
+2017,03,29,Milwaukee,Boston,209.5,209.5,209.5
+2017,03,29,Indiana,Memphis,195.5,197.5,196.375
+2017,03,29,Dallas,New Orleans,200.5,201.5,201.375
+2017,03,29,Golden State,San Antonio,206.5,207.5,207.25
+2017,03,29,Washington,L.A. Clippers,219.5,219.5,219.5
+2017,03,29,Utah,Sacramento,195.5,195.5,195.5
+2017,03,30,Brooklyn,Detroit,213.5,214.5,214.25
+2017,03,30,L.A. Lakers,Minnesota,217.5,218.5,217.625
+2017,03,30,Cleveland,Chicago,211.5,212.5,212.375
+2017,03,30,L.A. Clippers,Phoenix,222.5,222.5,222.5
+2017,03,30,Houston,Portland,230.5,231.5,230.5
+2017,03,31,Indiana,Toronto,203.5,204.5,204.125
+2017,03,31,Denver,Charlotte,218.5,220.5,219.25
+2017,03,31,Philadelphia,Cleveland,215.5,216.5,216.0
+2017,03,31,Orlando,Boston,216.5,216.5,216.5
+2017,03,31,New York,Miami,203.5,204.5,203.5
+2017,03,31,Sacramento,New Orleans,208.5,208.5,208.5
+2017,03,31,Detroit,Milwaukee,196.5,197.5,197.375
+2017,03,31,Dallas,Memphis,191.5,192.5,191.875
+2017,03,31,San Antonio,Oklahoma City,207.5,208.5,208.125
+2017,03,31,Washington,Utah,208.5,209.5,208.5
+2017,03,31,Houston,Golden State,231.5,232.5,232.25

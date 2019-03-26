@@ -1,0 +1,1322 @@
+YEAR,MONTH,DAY,VISITOR_TEAM,HOME_TEAM,MIN_LINE,MAX_LINE,AVERAGE_LINE
+2013,11,01,Cleveland,Charlotte,187.5,188.5,188.0
+2013,11,01,New Orleans,Orlando,193.5,194.5,193.875
+2013,11,01,Philadelphia,Washington,201.5,201.5,201.5
+2013,11,01,Toronto,Atlanta,195.5,195.5,195.5
+2013,11,01,Milwaukee,Boston,185.5,186.5,185.75
+2013,11,01,Dallas,Houston,206.5,208.5,207.5
+2013,11,01,Detroit,Memphis,189.5,189.5,189.5
+2013,11,01,Oklahoma City,Minnesota,201.5,202.5,201.625
+2013,11,01,Miami,Brooklyn,194.5,195.5,195.25
+2013,11,01,Portland,Denver,198.5,198.5,198.5
+2013,11,01,Utah,Phoenix,195.5,196.5,195.625
+2013,11,01,L.A. Clippers,Sacramento,203.5,203.5,203.5
+2013,11,01,San Antonio,L.A. Lakers,208.5,209.5,208.75
+2013,11,02,Cleveland,Indiana,188.5,188.5,188.5
+2013,11,02,Chicago,Philadelphia,194.5,195.5,194.875
+2013,11,02,Charlotte,New Orleans,184.5,184.5,184.5
+2013,11,02,Memphis,Dallas,194.5,194.5,194.5
+2013,11,02,Toronto,Milwaukee,190.5,190.5,190.5
+2013,11,02,Houston,Utah,199.5,199.5,199.5
+2013,11,02,San Antonio,Portland,198.5,198.5,198.5
+2013,11,02,Sacramento,Golden State,207.5,208.5,208.0
+2013,11,03,Boston,Detroit,192.5,193.5,193.25
+2013,11,03,Washington,Miami,199.5,200.5,199.875
+2013,11,03,Brooklyn,Orlando,194.5,195.5,194.875
+2013,11,03,Phoenix,Oklahoma City,198.5,199.5,198.5
+2013,11,03,Minnesota,New York,195.5,195.5,195.5
+2013,11,03,Atlanta,L.A. Lakers,205.5,206.5,205.5
+2013,11,04,Minnesota,Cleveland,197.5,198.5,198.375
+2013,11,04,Golden State,Philadelphia,211.5,212.5,212.0
+2013,11,04,Boston,Memphis,184.5,186.5,185.5
+2013,11,04,Houston,L.A. Clippers,211.5,212.5,211.625
+2013,11,05,Miami,Toronto,195.5,195.5,195.5
+2013,11,05,Utah,Brooklyn,191.5,191.5,191.5
+2013,11,05,Indiana,Detroit,185.5,186.5,186.125
+2013,11,05,Charlotte,New York,185.5,185.5,185.5
+2013,11,05,Phoenix,New Orleans,192.5,193.5,192.75
+2013,11,05,L.A. Lakers,Dallas,213.5,213.5,213.5
+2013,11,05,San Antonio,Denver,203.5,204.5,203.625
+2013,11,05,Houston,Portland,207.5,208.5,208.5
+2013,11,05,Atlanta,Sacramento,199.5,200.5,200.5
+2013,11,06,Toronto,Charlotte,186.5,187.5,187.375
+2013,11,06,Chicago,Indiana,182.5,183.5,182.625
+2013,11,06,L.A. Clippers,Orlando,207.5,208.5,208.25
+2013,11,06,Washington,Philadelphia,204.5,205.5,205.375
+2013,11,06,Utah,Boston,185.5,185.5,185.5
+2013,11,06,New Orleans,Memphis,190.5,190.5,190.5
+2013,11,06,Cleveland,Milwaukee,190.5,191.5,191.375
+2013,11,06,Golden State,Minnesota,209.5,210.5,209.75
+2013,11,06,Phoenix,San Antonio,198.5,199.5,198.625
+2013,11,06,Dallas,Oklahoma City,210.5,210.5,210.5
+2013,11,07,L.A. Clippers,Miami,207.5,208.5,207.625
+2013,11,07,Atlanta,Denver,203.5,204.5,203.75
+2013,11,07,L.A. Lakers,Houston,216.5,217.5,216.75
+2013,11,08,Brooklyn,Washington,197.5,198.5,197.5
+2013,11,08,New York,Charlotte,190.5,191.5,190.625
+2013,11,08,Toronto,Indiana,187.5,187.5,187.5
+2013,11,08,Boston,Orlando,190.5,191.5,190.875
+2013,11,08,Cleveland,Philadelphia,205.5,206.5,205.75
+2013,11,08,Oklahoma City,Detroit,195.5,197.5,197.0
+2013,11,08,Utah,Chicago,185.5,186.5,186.375
+2013,11,08,Dallas,Minnesota,210.5,210.5,210.5
+2013,11,08,L.A. Lakers,New Orleans,202.5,203.5,202.875
+2013,11,08,Golden State,San Antonio,202.5,203.5,202.75
+2013,11,08,Denver,Phoenix,199.5,200.5,200.125
+2013,11,08,Sacramento,Portland,200.5,201.5,200.625
+2013,11,09,Utah,Toronto,187.5,188.5,187.625
+2013,11,09,Orlando,Atlanta,199.5,199.5,199.5
+2013,11,09,Indiana,Brooklyn,187.5,187.5,187.5
+2013,11,09,Philadelphia,Cleveland,199.5,200.5,199.75
+2013,11,09,Boston,Miami,193.5,194.5,193.75
+2013,11,09,L.A. Clippers,Houston,214.5,215.5,215.125
+2013,11,09,Golden State,Memphis,191.5,192.5,191.625
+2013,11,09,Dallas,Milwaukee,206.5,207.5,206.75
+2013,11,09,Portland,Sacramento,198.5,199.5,198.625
+2013,11,10,San Antonio,New York,195.5,196.5,196.375
+2013,11,10,Washington,Oklahoma City,203.5,204.5,204.125
+2013,11,10,New Orleans,Phoenix,195.5,196.5,196.25
+2013,11,10,Minnesota,L.A. Lakers,209.5,210.5,210.375
+2013,11,11,Atlanta,Charlotte,195.5,197.5,196.5
+2013,11,11,Memphis,Indiana,182.5,182.5,182.5
+2013,11,11,San Antonio,Philadelphia,203.5,204.5,204.375
+2013,11,11,Orlando,Boston,190.5,192.5,191.25
+2013,11,11,Cleveland,Chicago,187.5,188.5,187.75
+2013,11,11,Toronto,Houston,203.5,204.5,204.0
+2013,11,11,Denver,Utah,197.5,197.5,197.5
+2013,11,11,Detroit,Portland,198.5,199.5,199.375
+2013,11,11,Minnesota,L.A. Clippers,210.5,211.5,210.875
+2013,11,12,Milwaukee,Miami,194.5,195.5,194.875
+2013,11,12,Washington,Dallas,205.5,206.5,205.625
+2013,11,12,Detroit,Golden State,203.5,204.5,203.875
+2013,11,12,New Orleans,L.A. Lakers,199.5,200.5,199.625
+2013,11,13,Milwaukee,Orlando,193.5,194.5,194.5
+2013,11,13,Houston,Philadelphia,207.5,208.5,207.625
+2013,11,13,Charlotte,Boston,191.5,192.5,191.875
+2013,11,13,Toronto,Memphis,185.5,186.5,185.625
+2013,11,13,Cleveland,Minnesota,200.5,202.5,201.625
+2013,11,13,New York,Atlanta,201.5,201.5,201.5
+2013,11,13,Washington,San Antonio,198.5,198.5,198.5
+2013,11,13,L.A. Lakers,Denver,207.5,208.5,208.375
+2013,11,13,New Orleans,Utah,190.5,191.5,191.375
+2013,11,13,Phoenix,Portland,203.5,203.5,203.5
+2013,11,13,Brooklyn,Sacramento,194.5,194.5,194.5
+2013,11,13,Oklahoma City,L.A. Clippers,209.5,210.5,209.625
+2013,11,14,Houston,New York,206.5,207.5,207.125
+2013,11,14,Oklahoma City,Golden State,206.5,208.5,207.625
+2013,11,15,Milwaukee,Indiana,183.5,184.5,184.125
+2013,11,15,Chicago,Toronto,181.5,182.5,181.875
+2013,11,15,Philadelphia,Atlanta,207.5,208.5,207.625
+2013,11,15,Portland,Boston,194.5,194.5,194.5
+2013,11,15,Charlotte,Cleveland,186.5,187.5,187.375
+2013,11,15,Dallas,Miami,205.5,205.5,205.5
+2013,11,15,Minnesota,Denver,208.5,210.5,209.375
+2013,11,15,Brooklyn,Phoenix,196.5,197.5,196.875
+2013,11,15,San Antonio,Utah,193.5,193.5,193.5
+2013,11,15,Memphis,L.A. Lakers,196.5,198.5,197.625
+2013,11,15,Detroit,Sacramento,197.5,199.5,198.25
+2013,11,16,Miami,Charlotte,193.5,193.5,193.5
+2013,11,16,Dallas,Orlando,203.5,204.5,204.5
+2013,11,16,Cleveland,Washington,192.5,193.5,192.625
+2013,11,16,Atlanta,New York,201.5,202.5,202.375
+2013,11,16,Indiana,Chicago,177.5,178.5,178.25
+2013,11,16,Denver,Houston,213.5,214.5,213.875
+2013,11,16,Boston,Minnesota,202.5,202.5,202.5
+2013,11,16,Philadelphia,New Orleans,204.5,204.5,204.5
+2013,11,16,Oklahoma City,Milwaukee,198.5,199.5,199.25
+2013,11,16,Utah,Golden State,198.5,198.5,198.5
+2013,11,16,Brooklyn,L.A. Clippers,202.5,202.5,202.5
+2013,11,17,Portland,Toronto,193.5,194.5,193.75
+2013,11,17,Memphis,Sacramento,187.5,188.5,187.625
+2013,11,17,Detroit,L.A. Lakers,204.5,205.5,205.375
+2013,11,18,Portland,Brooklyn,195.5,196.5,196.375
+2013,11,18,Charlotte,Chicago,180.5,181.5,180.625
+2013,11,18,Denver,Oklahoma City,212.5,213.5,212.75
+2013,11,18,Philadelphia,Dallas,215.5,215.5,215.5
+2013,11,18,Golden State,Utah,195.5,196.5,195.75
+2013,11,18,Memphis,L.A. Clippers,196.5,197.5,196.625
+2013,11,19,Minnesota,Washington,206.5,207.5,206.75
+2013,11,19,Atlanta,Miami,203.5,205.5,204.625
+2013,11,19,New York,Detroit,198.5,199.5,199.0
+2013,11,19,Boston,Houston,205.5,206.5,205.625
+2013,11,19,Phoenix,Sacramento,193.5,195.5,194.5
+2013,11,20,Brooklyn,Charlotte,185.5,186.5,186.125
+2013,11,20,Washington,Cleveland,191.5,192.5,191.625
+2013,11,20,Indiana,New York,185.5,186.5,185.75
+2013,11,20,Miami,Orlando,199.5,200.5,200.25
+2013,11,20,Toronto,Philadelphia,203.5,204.5,203.625
+2013,11,20,Detroit,Atlanta,202.5,202.5,202.5
+2013,11,20,Portland,Milwaukee,194.5,195.5,194.75
+2013,11,20,L.A. Clippers,Minnesota,213.5,213.5,213.5
+2013,11,20,Utah,New Orleans,194.5,195.5,195.375
+2013,11,20,Boston,San Antonio,192.5,193.5,193.375
+2013,11,20,Sacramento,Phoenix,195.5,196.5,196.0
+2013,11,20,Houston,Dallas,214.5,215.5,214.75
+2013,11,20,Memphis,Golden State,189.5,189.5,189.5
+2013,11,21,L.A. Clippers,Oklahoma City,212.5,212.5,212.5
+2013,11,21,Chicago,Denver,199.5,200.5,199.625
+2013,11,22,Phoenix,Charlotte,190.5,190.5,190.5
+2013,11,22,Milwaukee,Philadelphia,201.5,202.5,202.0
+2013,11,22,Washington,Toronto,194.5,194.5,194.5
+2013,11,22,Indiana,Boston,186.5,186.5,186.5
+2013,11,22,Atlanta,Detroit,196.5,197.5,197.375
+2013,11,22,San Antonio,Memphis,183.5,184.5,184.125
+2013,11,22,Brooklyn,Minnesota,202.5,202.5,202.5
+2013,11,22,Cleveland,New Orleans,195.5,195.5,195.5
+2013,11,22,Utah,Dallas,201.5,203.5,202.125
+2013,11,22,Chicago,Portland,189.5,191.5,190.5
+2013,11,22,Golden State,L.A. Lakers,202.5,203.5,202.875
+2013,11,23,Sacramento,L.A. Clippers,207.5,208.5,208.25
+2013,11,23,New York,Washington,192.5,193.5,192.875
+2013,11,23,Philadelphia,Indiana,194.5,195.5,195.5
+2013,11,23,Boston,Atlanta,194.5,194.5,194.5
+2013,11,23,Orlando,Miami,201.5,202.5,202.125
+2013,11,23,Minnesota,Houston,212.5,213.5,212.625
+2013,11,23,Charlotte,Milwaukee,184.5,185.5,184.875
+2013,11,23,Cleveland,San Antonio,191.5,192.5,192.375
+2013,11,23,Dallas,Denver,214.5,214.5,214.5
+2013,11,23,Portland,Golden State,199.5,200.5,200.25
+2013,11,24,Detroit,Brooklyn,190.5,191.5,190.625
+2013,11,24,Chicago,L.A. Clippers,193.5,194.5,194.5
+2013,11,24,Phoenix,Orlando,198.5,200.5,199.75
+2013,11,24,Utah,Oklahoma City,196.5,197.5,196.625
+2013,11,24,Sacramento,L.A. Lakers,204.5,204.5,204.5
+2013,11,25,Boston,Charlotte,185.5,185.5,185.5
+2013,11,25,Minnesota,Indiana,196.5,196.5,196.5
+2013,11,25,Milwaukee,Detroit,191.5,193.5,192.75
+2013,11,25,Phoenix,Miami,203.5,203.5,203.5
+2013,11,25,Houston,Memphis,194.5,194.5,194.5
+2013,11,25,Denver,Dallas,213.5,213.5,213.5
+2013,11,25,New Orleans,San Antonio,200.5,201.5,200.625
+2013,11,25,Chicago,Utah,181.5,182.5,181.625
+2013,11,25,New York,Portland,195.5,196.5,195.75
+2013,11,26,Brooklyn,Toronto,191.5,191.5,191.5
+2013,11,26,L.A. Lakers,Washington,197.5,198.5,198.375
+2013,11,26,Orlando,Atlanta,199.5,200.5,199.625
+2013,11,26,Golden State,New Orleans,206.5,208.5,207.375
+2013,11,27,Indiana,Charlotte,181.5,181.5,181.5
+2013,11,27,Philadelphia,Orlando,208.5,209.5,209.125
+2013,11,27,Memphis,Boston,182.5,182.5,182.5
+2013,11,27,L.A. Lakers,Brooklyn,199.5,200.5,199.625
+2013,11,27,Miami,Cleveland,196.5,197.5,197.375
+2013,11,27,Chicago,Detroit,185.5,185.5,185.5
+2013,11,27,San Antonio,Oklahoma City,201.5,202.5,201.75
+2013,11,27,Atlanta,Houston,204.5,205.5,205.5
+2013,11,27,Washington,Milwaukee,189.5,190.5,190.375
+2013,11,27,Denver,Minnesota,212.5,213.5,213.375
+2013,11,27,Golden State,Dallas,205.5,206.5,206.375
+2013,11,27,Portland,Phoenix,199.5,199.5,199.5
+2013,11,27,New York,L.A. Clippers,204.5,205.5,204.75
+2013,11,29,Miami,Toronto,196.5,197.5,196.625
+2013,11,29,Milwaukee,Charlotte,184.5,185.5,185.125
+2013,11,29,San Antonio,Orlando,192.5,194.5,193.625
+2013,11,29,Dallas,Atlanta,202.5,202.5,202.5
+2013,11,29,Cleveland,Boston,189.5,190.5,189.625
+2013,11,29,L.A. Lakers,Detroit,201.5,202.5,202.375
+2013,11,29,Brooklyn,Houston,204.5,206.5,205.25
+2013,11,29,Golden State,Oklahoma City,203.5,204.5,204.375
+2013,11,29,Washington,Indiana,186.5,186.5,186.5
+2013,11,29,New Orleans,Philadelphia,209.5,209.5,209.5
+2013,11,29,New York,Denver,202.5,202.5,202.5
+2013,11,29,Phoenix,Utah,190.5,190.5,190.5
+2013,11,29,L.A. Clippers,Sacramento,202.5,203.5,203.375
+2013,11,30,Atlanta,Washington,190.5,190.5,190.5
+2013,11,30,Chicago,Cleveland,182.5,182.5,182.5
+2013,11,30,Brooklyn,Memphis,186.5,186.5,186.5
+2013,11,30,Minnesota,Dallas,208.5,208.5,208.5
+2013,11,30,Houston,San Antonio,205.5,206.5,205.625
+2013,11,30,Utah,Phoenix,194.5,195.5,195.0
+2013,11,30,Boston,Milwaukee,185.5,185.5,185.5
+2014,06,05,Miami,San Antonio,198.5,199.5,198.75
+2014,06,08,Miami,San Antonio,198.5,200.5,198.75
+2014,06,10,San Antonio,Miami,196.5,198.5,197.25
+2014,06,12,San Antonio,Miami,195.5,196.5,195.875
+2014,06,15,Miami,San Antonio,197.5,198.5,197.625
+2014,05,01,Indiana,Atlanta,188.5,188.5,188.5
+2014,05,01,Oklahoma City,Memphis,184.5,186.5,185.125
+2014,05,01,L.A. Clippers,Golden State,210.5,211.5,210.75
+2014,05,02,Toronto,Brooklyn,192.5,192.5,192.5
+2014,05,02,San Antonio,Dallas,197.5,198.5,197.625
+2014,05,02,Houston,Portland,212.5,213.5,212.625
+2014,05,03,Atlanta,Indiana,184.5,185.5,184.625
+2014,05,03,Memphis,Oklahoma City,185.5,186.5,185.625
+2014,05,03,Golden State,L.A. Clippers,207.5,208.5,207.625
+2014,05,04,Brooklyn,Toronto,189.5,189.5,189.5
+2014,05,04,Dallas,San Antonio,197.5,199.5,198.25
+2014,05,05,Washington,Indiana,183.5,184.5,183.75
+2014,05,05,L.A. Clippers,Oklahoma City,213.5,214.5,213.625
+2014,05,06,Brooklyn,Miami,192.5,193.5,192.625
+2014,05,06,Portland,San Antonio,206.5,207.5,206.75
+2014,05,07,Washington,Indiana,186.5,187.5,187.0
+2014,05,07,L.A. Clippers,Oklahoma City,215.5,215.5,215.5
+2014,05,08,Brooklyn,Miami,191.5,192.5,191.75
+2014,05,08,Portland,San Antonio,207.5,209.5,208.0
+2014,05,09,Indiana,Washington,183.5,184.5,183.75
+2014,05,09,Oklahoma City,L.A. Clippers,214.5,215.5,214.625
+2014,05,10,Miami,Brooklyn,188.5,188.5,188.5
+2014,05,10,San Antonio,Portland,208.5,208.5,208.5
+2014,05,11,Oklahoma City,L.A. Clippers,213.5,214.5,214.25
+2014,05,11,Indiana,Washington,179.5,180.5,180.25
+2014,05,12,Miami,Brooklyn,186.5,188.5,187.0
+2014,05,12,San Antonio,Portland,210.5,212.5,210.875
+2014,05,13,Washington,Indiana,181.5,181.5,181.5
+2014,05,13,L.A. Clippers,Oklahoma City,213.5,215.5,214.375
+2014,05,14,Brooklyn,Miami,189.5,189.5,189.5
+2014,05,14,Portland,San Antonio,208.5,209.5,209.25
+2014,05,15,Indiana,Washington,180.5,181.5,181.25
+2014,05,15,Oklahoma City,L.A. Clippers,213.5,213.5,213.5
+2014,05,18,Miami,Indiana,181.5,182.5,182.375
+2014,05,19,Oklahoma City,San Antonio,208.5,210.5,209.5
+2014,05,20,Miami,Indiana,184.5,186.5,184.75
+2014,05,21,Oklahoma City,San Antonio,209.5,210.5,210.25
+2014,05,24,Indiana,Miami,181.5,183.5,182.25
+2014,05,25,San Antonio,Oklahoma City,208.5,209.5,208.625
+2014,05,26,Indiana,Miami,182.5,183.5,182.75
+2014,05,27,San Antonio,Oklahoma City,207.5,208.5,208.125
+2014,05,28,Miami,Indiana,183.5,183.5,183.5
+2014,05,29,Oklahoma City,San Antonio,206.5,207.5,207.375
+2014,05,30,Indiana,Miami,181.5,183.5,182.625
+2014,05,31,San Antonio,Oklahoma City,206.5,207.5,206.625
+2014,01,01,Dallas,Washington,203.5,203.5,203.5
+2014,01,01,Indiana,Toronto,189.5,190.5,190.375
+2014,01,01,New Orleans,Minnesota,211.5,211.5,211.5
+2014,01,01,Philadelphia,Denver,213.5,213.5,213.5
+2014,01,01,Charlotte,L.A. Clippers,192.5,194.5,193.375
+2014,01,02,Orlando,Cleveland,193.5,195.5,194.25
+2014,01,02,Golden State,Miami,204.5,206.5,205.5
+2014,01,02,Boston,Chicago,182.5,182.5,182.5
+2014,01,02,Brooklyn,Oklahoma City,201.5,202.5,202.5
+2014,01,02,New York,San Antonio,201.5,202.5,202.5
+2014,01,02,Memphis,Phoenix,196.5,197.5,197.125
+2014,01,02,Milwaukee,Utah,188.5,190.5,189.625
+2014,01,02,Charlotte,Portland,200.5,201.5,200.625
+2014,01,02,Philadelphia,Sacramento,220.5,220.5,220.5
+2014,01,03,Toronto,Washington,193.5,194.5,194.375
+2014,01,03,Golden State,Atlanta,208.5,209.5,209.375
+2014,01,03,New Orleans,Boston,200.5,201.5,201.25
+2014,01,03,New York,Houston,205.5,206.5,205.625
+2014,01,03,L.A. Clippers,Dallas,205.5,207.5,206.75
+2014,01,03,Memphis,Denver,192.5,193.5,192.625
+2014,01,03,Utah,L.A. Lakers,195.5,195.5,195.5
+2014,01,04,New Orleans,Indiana,191.5,192.5,192.375
+2014,01,04,Miami,Orlando,199.5,200.5,199.75
+2014,01,04,Cleveland,Brooklyn,192.5,192.5,192.5
+2014,01,04,Atlanta,Chicago,189.5,190.5,190.0
+2014,01,04,Oklahoma City,Minnesota,206.5,207.5,207.125
+2014,01,04,L.A. Clippers,San Antonio,204.5,204.5,204.5
+2014,01,04,Milwaukee,Phoenix,196.5,197.5,197.5
+2014,01,04,Philadelphia,Portland,223.5,223.5,223.5
+2014,01,04,Charlotte,Sacramento,199.5,199.5,199.5
+2014,01,05,Memphis,Detroit,194.5,195.5,195.25
+2014,01,05,Indiana,Cleveland,181.5,181.5,181.5
+2014,01,05,Toronto,Miami,201.5,201.5,201.5
+2014,01,05,Golden State,Washington,200.5,201.5,200.75
+2014,01,05,Boston,Oklahoma City,194.5,194.5,194.5
+2014,01,05,New York,Dallas,201.5,202.5,202.375
+2014,01,05,Denver,L.A. Lakers,205.5,205.5,205.5
+2014,01,06,Minnesota,Philadelphia,221.5,221.5,221.5
+2014,01,06,Atlanta,Brooklyn,195.5,196.5,196.0
+2014,01,06,Orlando,L.A. Clippers,195.5,197.5,196.375
+2014,01,07,Washington,Charlotte,190.5,191.5,190.75
+2014,01,07,Philadelphia,Cleveland,207.5,208.5,208.125
+2014,01,07,Toronto,Indiana,187.5,187.5,187.5
+2014,01,07,New Orleans,Miami,204.5,204.5,204.5
+2014,01,07,Detroit,New York,199.5,199.5,199.5
+2014,01,07,San Antonio,Memphis,196.5,196.5,196.5
+2014,01,07,Golden State,Milwaukee,200.5,201.5,200.75
+2014,01,07,Phoenix,Chicago,189.5,190.5,190.375
+2014,01,07,L.A. Lakers,Dallas,208.5,209.5,209.375
+2014,01,07,Boston,Denver,202.5,203.5,203.375
+2014,01,07,Oklahoma City,Utah,195.5,196.5,195.625
+2014,01,07,Portland,Sacramento,214.5,215.5,215.0
+2014,01,08,Dallas,San Antonio,205.5,206.5,206.25
+2014,01,08,Detroit,Toronto,198.5,199.5,199.125
+2014,01,08,Indiana,Atlanta,187.5,188.5,187.625
+2014,01,08,Golden State,Brooklyn,197.5,197.5,197.5
+2014,01,08,L.A. Lakers,Houston,211.5,212.5,212.5
+2014,01,08,Washington,New Orleans,191.5,192.5,192.375
+2014,01,08,Phoenix,Minnesota,217.5,217.5,217.5
+2014,01,08,Orlando,Portland,206.5,207.5,206.875
+2014,01,08,Boston,L.A. Clippers,197.5,198.5,197.5
+2014,01,09,Miami,New York,196.5,197.5,197.25
+2014,01,09,Oklahoma City,Denver,210.5,211.5,211.375
+2014,01,10,Washington,Indiana,185.5,185.5,185.5
+2014,01,10,Detroit,Philadelphia,215.5,216.5,216.375
+2014,01,10,Houston,Atlanta,207.5,207.5,207.5
+2014,01,10,Phoenix,Memphis,194.5,195.5,194.75
+2014,01,10,Charlotte,Minnesota,204.5,205.5,205.5
+2014,01,10,Dallas,New Orleans,199.5,204.5,201.875
+2014,01,10,Miami,Brooklyn,193.5,194.5,194.125
+2014,01,10,Chicago,Milwaukee,177.5,178.5,177.625
+2014,01,10,Cleveland,Utah,189.5,190.5,189.625
+2014,01,10,Orlando,Sacramento,205.5,206.5,206.375
+2014,01,10,Boston,Golden State,204.5,205.5,204.875
+2014,01,10,L.A. Lakers,L.A. Clippers,210.5,211.5,210.875
+2014,01,11,Brooklyn,Toronto,188.5,189.5,189.0
+2014,01,11,Houston,Washington,199.5,199.5,199.5
+2014,01,11,Phoenix,Detroit,205.5,207.5,206.0
+2014,01,11,New York,Philadelphia,206.5,206.5,206.5
+2014,01,11,Charlotte,Chicago,176.5,177.5,177.375
+2014,01,11,Milwaukee,Oklahoma City,194.5,196.5,195.25
+2014,01,11,New Orleans,Dallas,196.5,198.5,197.25
+2014,01,11,Orlando,Denver,200.5,200.5,200.5
+2014,01,11,Boston,Portland,210.5,210.5,210.5
+2014,01,12,Atlanta,Memphis,191.5,191.5,191.5
+2014,01,12,Cleveland,Sacramento,206.5,206.5,206.5
+2014,01,12,Minnesota,San Antonio,212.5,213.5,213.25
+2014,01,13,Milwaukee,Toronto,188.5,188.5,188.5
+2014,01,13,Houston,Boston,207.5,208.5,208.375
+2014,01,13,Phoenix,New York,197.5,198.5,198.375
+2014,01,13,Washington,Chicago,180.5,181.5,181.375
+2014,01,13,San Antonio,New Orleans,197.5,198.5,197.625
+2014,01,13,Orlando,Dallas,196.5,197.5,197.125
+2014,01,13,Denver,Utah,204.5,205.5,205.125
+2014,01,14,New York,Charlotte,186.5,187.5,187.0
+2014,01,14,Sacramento,Indiana,195.5,196.5,195.625
+2014,01,14,Oklahoma City,Memphis,195.5,196.5,196.25
+2014,01,14,Cleveland,L.A. Lakers,205.5,205.5,205.5
+2014,01,15,Chicago,Orlando,180.5,181.5,181.25
+2014,01,15,Charlotte,Philadelphia,208.5,208.5,208.5
+2014,01,15,Miami,Washington,196.5,196.5,196.5
+2014,01,15,Toronto,Boston,192.5,196.5,193.375
+2014,01,15,Memphis,Milwaukee,185.5,186.5,185.625
+2014,01,15,Sacramento,Minnesota,217.5,218.5,218.0
+2014,01,15,Houston,New Orleans,203.5,204.5,203.75
+2014,01,15,Utah,San Antonio,199.5,201.5,199.625
+2014,01,15,L.A. Lakers,Phoenix,212.5,214.5,214.5
+2014,01,15,Cleveland,Portland,211.5,212.5,212.375
+2014,01,15,Denver,Golden State,212.5,213.5,213.5
+2014,01,15,Dallas,L.A. Clippers,206.5,209.5,209.375
+2014,01,16,Brooklyn,Atlanta,194.5,194.5,194.5
+2014,01,16,New York,Indiana,183.5,184.5,184.25
+2014,01,16,Oklahoma City,Houston,208.5,208.5,208.5
+2014,01,17,L.A. Clippers,New York,201.5,202.5,202.375
+2014,01,17,Charlotte,Orlando,188.5,189.5,189.5
+2014,01,17,Miami,Philadelphia,211.5,212.5,212.21428571428572
+2014,01,17,Minnesota,Toronto,205.5,205.5,205.5
+2014,01,17,Chicago,Washington,186.5,186.5,186.5
+2014,01,17,L.A. Lakers,Boston,204.5,205.5,205.25
+2014,01,17,Utah,Detroit,203.5,204.5,203.875
+2014,01,17,Sacramento,Memphis,197.5,198.5,198.0
+2014,01,17,Portland,San Antonio,213.5,213.5,213.5
+2014,01,17,Cleveland,Denver,211.5,212.5,212.25
+2014,01,17,Dallas,Phoenix,210.5,211.5,211.0
+2014,01,17,Golden State,Oklahoma City,205.5,208.5,206.75
+2014,01,18,L.A. Clippers,Indiana,195.5,196.5,196.0
+2014,01,18,Detroit,Washington,203.5,203.5,203.5
+2014,01,18,Miami,Charlotte,192.5,193.5,192.875
+2014,01,18,Philadelphia,Chicago,197.5,197.5,197.5
+2014,01,18,Milwaukee,Houston,199.5,200.5,199.625
+2014,01,18,Utah,Minnesota,205.5,206.5,206.125
+2014,01,18,Golden State,New Orleans,204.5,205.5,205.25
+2014,01,18,Portland,Dallas,214.5,216.5,215.625
+2014,01,19,L.A. Lakers,Toronto,204.5,205.5,204.75
+2014,01,19,Boston,Orlando,195.5,196.5,195.75
+2014,01,19,Sacramento,Oklahoma City,213.5,214.5,213.75
+2014,01,19,Milwaukee,San Antonio,197.5,198.5,197.625
+2014,01,19,Denver,Phoenix,217.5,218.5,217.625
+2014,01,20,Dallas,Cleveland,205.5,207.5,206.625
+2014,01,20,L.A. Clippers,Detroit,208.5,208.5,208.5
+2014,01,20,Toronto,Charlotte,185.5,186.5,186.125
+2014,01,20,Philadelphia,Washington,208.5,208.5,208.5
+2014,01,20,Brooklyn,New York,193.5,194.5,193.625
+2014,01,20,New Orleans,Memphis,187.5,188.5,188.375
+2014,01,20,Miami,Atlanta,200.5,200.5,200.5
+2014,01,20,L.A. Lakers,Chicago,198.5,198.5,198.5
+2014,01,20,Portland,Houston,218.5,219.5,219.0
+2014,01,20,Indiana,Golden State,196.5,197.5,196.625
+2014,01,21,Orlando,Brooklyn,193.5,194.5,194.375
+2014,01,21,Boston,Miami,196.5,197.5,197.5
+2014,01,21,Sacramento,New Orleans,205.5,205.5,205.5
+2014,01,21,Portland,Oklahoma City,214.5,215.5,215.375
+2014,01,21,Minnesota,Utah,202.5,202.5,202.5
+2014,01,22,L.A. Clippers,Charlotte,198.5,199.5,198.75
+2014,01,22,Chicago,Cleveland,185.5,186.5,186.125
+2014,01,22,Atlanta,Orlando,201.5,202.5,202.375
+2014,01,22,Dallas,Toronto,199.5,200.5,199.875
+2014,01,22,Boston,Washington,191.5,192.5,191.625
+2014,01,22,Philadelphia,New York,205.5,206.5,206.0
+2014,01,22,Sacramento,Houston,217.5,218.5,217.875
+2014,01,22,Detroit,Milwaukee,194.5,196.5,195.75
+2014,01,22,Oklahoma City,San Antonio,205.5,205.5,205.5
+2014,01,22,Indiana,Phoenix,196.5,196.5,196.5
+2014,01,23,L.A. Lakers,Miami,209.5,210.5,209.625
+2014,01,23,Denver,Portland,220.5,221.5,221.25
+2014,01,24,L.A. Lakers,Orlando,210.5,210.5,210.5
+2014,01,24,Toronto,Philadelphia,203.5,204.5,203.875
+2014,01,24,San Antonio,Atlanta,210.5,211.5,211.125
+2014,01,24,Oklahoma City,Boston,191.5,192.5,191.875
+2014,01,24,Dallas,Brooklyn,200.5,200.5,200.5
+2014,01,24,Milwaukee,Cleveland,194.5,195.5,194.875
+2014,01,24,New Orleans,Detroit,202.5,203.5,203.375
+2014,01,24,Charlotte,New York,189.5,190.5,189.5
+2014,01,24,L.A. Clippers,Chicago,189.5,190.5,190.0
+2014,01,24,Memphis,Houston,196.5,196.5,196.5
+2014,01,24,Washington,Phoenix,207.5,208.5,207.75
+2014,01,24,Indiana,Sacramento,197.5,198.5,198.375
+2014,01,24,Minnesota,Golden State,210.5,211.5,211.375
+2014,01,25,Chicago,Charlotte,181.5,182.5,182.125
+2014,01,25,L.A. Clippers,Toronto,198.5,198.5,198.5
+2014,01,25,Oklahoma City,Philadelphia,207.5,208.5,208.375
+2014,01,25,Houston,Memphis,194.5,194.5,194.5
+2014,01,25,Atlanta,Milwaukee,195.5,196.5,196.375
+2014,01,25,Indiana,Denver,202.5,203.5,203.0
+2014,01,25,Washington,Utah,195.5,195.5,195.5
+2014,01,25,Minnesota,Portland,218.5,219.5,219.25
+2014,01,26,San Antonio,Miami,204.5,205.5,205.375
+2014,01,26,L.A. Lakers,New York,209.5,210.5,210.125
+2014,01,26,Orlando,New Orleans,197.5,198.5,197.875
+2014,01,26,Phoenix,Cleveland,204.5,204.5,204.5
+2014,01,26,Brooklyn,Boston,191.5,191.5,191.5
+2014,01,26,Detroit,Dallas,213.5,214.5,213.75
+2014,01,26,Portland,Golden State,216.5,217.5,216.625
+2014,01,26,Denver,Sacramento,216.5,216.5,216.5
+2014,01,27,Phoenix,Philadelphia,213.5,214.5,214.25
+2014,01,27,Toronto,Brooklyn,190.5,190.5,190.5
+2014,01,27,Minnesota,Chicago,197.5,197.5,197.5
+2014,01,27,L.A. Clippers,Milwaukee,203.5,203.5,203.5
+2014,01,27,Atlanta,Oklahoma City,203.5,204.5,204.5
+2014,01,27,Sacramento,Utah,204.5,205.5,205.5
+2014,01,28,New Orleans,Cleveland,193.5,195.5,194.5
+2014,01,28,Orlando,Detroit,205.5,205.5,205.5
+2014,01,28,Boston,New York,191.5,193.5,192.875
+2014,01,28,San Antonio,Houston,209.5,209.5,209.5
+2014,01,28,Memphis,Portland,197.5,198.5,197.75
+2014,01,28,Washington,Golden State,205.5,206.5,205.625
+2014,01,28,Indiana,L.A. Lakers,205.5,206.5,205.625
+2014,01,29,Oklahoma City,Miami,202.5,203.5,203.0
+2014,01,29,Orlando,Toronto,194.5,195.5,194.625
+2014,01,29,Philadelphia,Boston,203.5,203.5,203.5
+2014,01,29,Phoenix,Milwaukee,201.5,202.5,202.0
+2014,01,29,New Orleans,Minnesota,202.5,203.5,203.0
+2014,01,29,Houston,Dallas,209.5,210.5,210.375
+2014,01,29,Charlotte,Denver,205.5,206.5,205.75
+2014,01,29,Chicago,San Antonio,187.5,188.5,187.625
+2014,01,29,Memphis,Sacramento,194.5,194.5,194.5
+2014,01,29,Washington,L.A. Clippers,206.5,206.5,206.5
+2014,01,29,Detroit,Atlanta,208.5,209.5,209.21428571428572
+2014,01,30,Phoenix,Indiana,200.5,201.5,200.875
+2014,01,30,Cleveland,New York,197.5,198.5,197.875
+2014,01,30,L.A. Clippers,Golden State,212.5,213.5,213.125
+2014,01,31,Milwaukee,Orlando,195.5,195.5,195.5
+2014,01,31,Atlanta,Philadelphia,212.5,213.5,212.75
+2014,01,31,Memphis,Minnesota,188.5,189.5,189.375
+2014,01,31,Oklahoma City,Brooklyn,198.5,198.5,198.5
+2014,01,31,Sacramento,Dallas,214.5,215.5,215.0
+2014,01,31,Toronto,Denver,203.5,204.5,203.875
+2014,01,31,Charlotte,L.A. Lakers,205.5,206.5,206.25
+2014,01,31,Golden State,Utah,200.5,201.5,201.25
+2014,02,01,Brooklyn,Indiana,188.5,191.5,191.0
+2014,02,01,Oklahoma City,Washington,200.5,201.5,201.25
+2014,02,01,Minnesota,Atlanta,208.5,209.5,209.0
+2014,02,01,Philadelphia,Detroit,214.5,215.5,215.25
+2014,02,01,Cleveland,Houston,206.5,207.5,206.64285714285714
+2014,02,01,Milwaukee,Memphis,180.5,182.5,180.875
+2014,02,01,Chicago,New Orleans,182.5,183.5,182.625
+2014,02,01,Sacramento,San Antonio,205.5,206.5,205.64285714285714
+2014,02,01,Miami,New York,201.5,202.5,201.625
+2014,02,01,Charlotte,Phoenix,204.5,205.5,205.07142857142858
+2014,02,01,Toronto,Portland,205.5,205.5,205.5
+2014,02,01,Utah,L.A. Clippers,207.5,208.5,207.92857142857142
+2014,02,02,Orlando,Boston,190.5,192.5,191.5
+2014,02,03,Orlando,Indiana,187.5,189.5,188.5
+2014,02,03,Portland,Washington,207.5,208.5,208.35714285714286
+2014,02,03,Philadelphia,Brooklyn,209.5,210.5,210.21428571428572
+2014,02,03,Detroit,Miami,206.5,206.5,206.5
+2014,02,03,New York,Milwaukee,194.5,196.5,195.5
+2014,02,03,San Antonio,New Orleans,192.5,193.5,192.92857142857142
+2014,02,03,Memphis,Oklahoma City,186.5,186.5,186.5
+2014,02,03,Cleveland,Dallas,205.5,205.5,205.5
+2014,02,03,L.A. Clippers,Denver,215.5,215.5,215.5
+2014,02,03,Toronto,Utah,191.5,192.5,191.78571428571428
+2014,02,03,Chicago,Sacramento,193.5,194.5,194.07142857142858
+2014,02,04,Indiana,Atlanta,200.5,200.5,200.5
+2014,02,04,L.A. Lakers,Minnesota,217.5,217.5,217.5
+2014,02,04,Chicago,Phoenix,192.5,193.5,193.0
+2014,02,04,Charlotte,Golden State,199.5,200.5,199.625
+2014,02,05,L.A. Lakers,Cleveland,207.5,208.5,207.75
+2014,02,05,Boston,Philadelphia,205.5,205.5,205.5
+2014,02,05,San Antonio,Washington,193.5,194.5,193.625
+2014,02,05,Detroit,Orlando,202.5,203.5,202.875
+2014,02,05,Portland,New York,206.5,207.5,206.875
+2014,02,05,Phoenix,Houston,214.5,215.5,214.5
+2014,02,05,Dallas,Memphis,189.5,189.5,189.5
+2014,02,05,Atlanta,New Orleans,201.5,202.5,202.0
+2014,02,05,Minnesota,Oklahoma City,198.5,201.5,198.875
+2014,02,05,Milwaukee,Denver,210.5,210.5,210.5
+2014,02,05,Toronto,Sacramento,200.5,200.5,200.5
+2014,02,05,Miami,L.A. Clippers,207.5,207.5,207.5
+2014,02,06,San Antonio,Brooklyn,196.5,198.5,197.0
+2014,02,06,Chicago,Golden State,186.5,187.5,187.0
+2014,02,07,Portland,Indiana,196.5,197.5,197.375
+2014,02,07,Oklahoma City,Orlando,198.5,199.5,199.25
+2014,02,07,L.A. Lakers,Philadelphia,219.5,220.5,220.375
+2014,02,07,Cleveland,Washington,198.5,198.5,198.5
+2014,02,07,Sacramento,Boston,198.5,199.5,198.5
+2014,02,07,Brooklyn,Detroit,205.5,206.5,206.375
+2014,02,07,Denver,New York,209.5,210.5,210.25
+2014,02,07,Utah,Dallas,205.5,206.5,205.625
+2014,02,07,Minnesota,New Orleans,197.5,198.5,198.25
+2014,02,07,Toronto,L.A. Clippers,205.5,206.5,206.25
+2014,02,08,San Antonio,Charlotte,191.5,192.5,192.125
+2014,02,08,Memphis,Atlanta,190.5,191.5,190.5
+2014,02,08,Denver,Detroit,215.5,216.5,215.875
+2014,02,08,Portland,Minnesota,204.5,205.5,204.625
+2014,02,08,Houston,Milwaukee,204.5,204.5,204.5
+2014,02,08,Golden State,Phoenix,208.5,209.5,209.0
+2014,02,08,Miami,Utah,195.5,196.5,195.75
+2014,02,09,New York,Oklahoma City,197.5,201.5,198.625
+2014,02,09,Chicago,L.A. Lakers,193.5,193.5,193.5
+2014,02,09,Dallas,Boston,200.5,201.5,201.125
+2014,02,09,New Orleans,Brooklyn,195.5,195.5,195.5
+2014,02,09,Memphis,Cleveland,183.5,183.5,183.5
+2014,02,09,Indiana,Orlando,190.5,191.5,190.625
+2014,02,09,Sacramento,Washington,204.5,205.5,204.75
+2014,02,09,Philadelphia,L.A. Clippers,220.5,221.5,221.0
+2014,02,10,Denver,Indiana,197.5,198.5,197.625
+2014,02,10,New Orleans,Toronto,193.5,194.5,194.375
+2014,02,10,San Antonio,Detroit,205.5,206.5,206.375
+2014,02,10,Boston,Milwaukee,188.5,189.5,189.25
+2014,02,10,Houston,Minnesota,206.5,207.5,206.625
+2014,02,10,Philadelphia,Golden State,214.5,215.5,215.125
+2014,02,11,Dallas,Charlotte,201.5,201.5,201.5
+2014,02,11,Sacramento,Cleveland,204.5,205.5,205.375
+2014,02,11,Atlanta,Chicago,187.5,188.5,187.625
+2014,02,11,Washington,Memphis,181.5,182.5,181.625
+2014,02,11,Miami,Phoenix,209.5,210.5,210.125
+2014,02,11,Oklahoma City,Portland,211.5,211.5,211.5
+2014,02,11,Utah,L.A. Lakers,200.5,201.5,201.375
+2014,02,12,Dallas,Indiana,196.5,197.5,196.625
+2014,02,12,Memphis,Orlando,181.5,181.5,181.5
+2014,02,12,Atlanta,Toronto,203.5,203.5,203.5
+2014,02,12,San Antonio,Boston,192.5,193.5,192.5
+2014,02,12,Charlotte,Brooklyn,194.5,194.5,194.5
+2014,02,12,Cleveland,Detroit,209.5,210.5,209.625
+2014,02,12,Sacramento,New York,202.5,202.5,202.5
+2014,02,12,Washington,Houston,204.5,205.5,204.625
+2014,02,12,New Orleans,Milwaukee,194.5,195.5,194.75
+2014,02,12,Denver,Minnesota,208.5,208.5,208.5
+2014,02,12,Philadelphia,Utah,201.5,201.5,201.5
+2014,02,12,Miami,Golden State,205.5,207.5,207.125
+2014,02,12,Portland,L.A. Clippers,217.5,218.5,217.75
+2014,02,13,Brooklyn,Chicago,184.5,185.5,185.125
+2014,02,13,Oklahoma City,L.A. Lakers,204.5,205.5,204.625
+2014,02,18,Atlanta,Indiana,195.5,196.5,195.875
+2014,02,18,Cleveland,Philadelphia,211.5,211.5,211.5
+2014,02,18,Toronto,Washington,196.5,196.5,196.5
+2014,02,18,Charlotte,Detroit,201.5,202.5,202.0
+2014,02,18,Orlando,Milwaukee,194.5,195.5,195.375
+2014,02,18,New York,Memphis,181.5,182.5,181.625
+2014,02,18,Miami,Dallas,204.5,206.5,205.75
+2014,02,18,Phoenix,Denver,215.5,216.5,215.75
+2014,02,18,San Antonio,L.A. Clippers,210.5,211.5,211.375
+2014,02,19,Detroit,Charlotte,200.5,200.5,200.5
+2014,02,19,Orlando,Cleveland,197.5,197.5,197.5
+2014,02,19,Chicago,Toronto,182.5,183.5,182.625
+2014,02,19,Washington,Atlanta,203.5,203.5,203.5
+2014,02,19,Indiana,Minnesota,194.5,195.5,195.375
+2014,02,19,New York,New Orleans,194.5,195.5,194.5
+2014,02,19,Boston,Phoenix,204.5,205.5,204.875
+2014,02,19,Brooklyn,Utah,190.5,191.5,190.625
+2014,02,19,San Antonio,Portland,209.5,209.5,209.5
+2014,02,19,Golden State,Sacramento,206.5,207.5,207.0
+2014,02,19,Houston,L.A. Lakers,214.5,215.5,215.25
+2014,02,20,Denver,Milwaukee,202.5,202.5,202.5
+2014,02,20,Miami,Oklahoma City,206.5,207.5,206.75
+2014,02,20,Houston,Golden State,212.5,213.5,212.625
+2014,02,21,New Orleans,Charlotte,192.5,193.5,192.875
+2014,02,21,New York,Orlando,196.5,197.5,197.375
+2014,02,21,Dallas,Philadelphia,211.5,212.5,211.75
+2014,02,21,Cleveland,Toronto,195.5,196.5,196.5
+2014,02,21,Atlanta,Detroit,211.5,212.5,211.75
+2014,02,21,Denver,Chicago,188.5,189.5,189.125
+2014,02,21,L.A. Clippers,Memphis,192.5,193.5,193.375
+2014,02,21,San Antonio,Phoenix,208.5,209.5,209.375
+2014,02,21,Utah,Portland,201.5,202.5,201.875
+2014,02,21,Boston,L.A. Lakers,207.5,208.5,208.375
+2014,02,22,Memphis,Charlotte,179.5,181.5,180.5
+2014,02,22,New Orleans,Washington,195.5,196.5,196.5
+2014,02,22,New York,Atlanta,203.5,204.5,204.25
+2014,02,22,Dallas,Detroit,212.5,213.5,212.875
+2014,02,22,Indiana,Milwaukee,189.5,190.5,189.625
+2014,02,22,Minnesota,Utah,196.5,196.5,196.5
+2014,02,22,Boston,Sacramento,197.5,197.5,197.5
+2014,02,22,Brooklyn,Golden State,200.5,202.5,201.5
+2014,02,23,L.A. Clippers,Oklahoma City,211.5,212.5,211.625
+2014,02,23,Chicago,Miami,184.5,185.5,185.375
+2014,02,23,Washington,Cleveland,195.5,196.5,196.25
+2014,02,23,Orlando,Toronto,194.5,195.5,195.0
+2014,02,23,Sacramento,Denver,209.5,210.5,209.625
+2014,02,23,Houston,Phoenix,213.5,214.5,213.75
+2014,02,23,Brooklyn,L.A. Lakers,207.5,208.5,208.375
+2014,02,23,Minnesota,Portland,214.5,215.5,215.0
+2014,02,24,Milwaukee,Philadelphia,209.5,210.5,210.375
+2014,02,24,Golden State,Detroit,207.5,208.5,207.75
+2014,02,24,Dallas,New York,206.5,206.5,206.5
+2014,02,24,L.A. Clippers,New Orleans,208.5,208.5,208.5
+2014,02,24,Boston,Utah,191.5,191.5,191.5
+2014,02,25,Toronto,Cleveland,193.5,193.5,193.5
+2014,02,25,L.A. Lakers,Indiana,202.5,206.5,206.0
+2014,02,25,Orlando,Washington,193.5,195.5,195.0
+2014,02,25,Chicago,Atlanta,189.5,190.5,189.78571428571428
+2014,02,25,Portland,Denver,213.5,214.5,214.35714285714286
+2014,02,25,Minnesota,Phoenix,211.5,212.5,211.78571428571428
+2014,02,25,Houston,Sacramento,212.5,213.5,212.625
+2014,02,26,Orlando,Philadelphia,214.5,215.5,215.375
+2014,02,26,Atlanta,Boston,202.5,203.5,203.25
+2014,02,26,Golden State,Chicago,186.5,187.5,186.625
+2014,02,26,New Orleans,Dallas,204.5,205.5,205.125
+2014,02,26,L.A. Lakers,Memphis,198.5,198.5,198.5
+2014,02,26,Cleveland,Oklahoma City,205.5,205.5,205.5
+2014,02,26,Detroit,San Antonio,210.5,210.5,210.5
+2014,02,26,Phoenix,Utah,200.5,200.5,200.5
+2014,02,26,Brooklyn,Portland,206.5,207.5,206.625
+2014,02,26,Houston,L.A. Clippers,222.5,222.5,222.5
+2014,02,27,Washington,Toronto,197.5,198.5,198.5
+2014,02,27,Milwaukee,Indiana,195.5,196.5,196.375
+2014,02,27,New York,Miami,200.5,201.5,201.375
+2014,02,27,Brooklyn,Denver,201.5,202.5,201.625
+2014,02,28,Utah,Cleveland,192.5,193.5,192.875
+2014,02,28,Memphis,Oklahoma City,192.5,195.5,195.125
+2014,02,28,Golden State,New York,199.5,201.5,199.875
+2014,02,28,Charlotte,San Antonio,200.5,200.5,200.5
+2014,02,28,Chicago,Dallas,191.5,194.5,193.0
+2014,02,28,Sacramento,L.A. Lakers,217.5,218.5,218.21428571428572
+2014,02,28,New Orleans,Phoenix,201.5,202.5,202.35714285714286
+2013,12,01,Denver,Toronto,201.5,203.5,202.125
+2013,12,01,Indiana,L.A. Clippers,191.5,192.5,191.625
+2013,12,01,Philadelphia,Detroit,206.5,207.5,206.625
+2013,12,01,Golden State,Sacramento,200.5,201.5,201.125
+2013,12,01,Charlotte,Miami,189.5,189.5,189.5
+2013,12,01,Minnesota,Oklahoma City,208.5,208.5,208.5
+2013,12,01,New Orleans,New York,197.5,198.5,198.375
+2013,12,01,Portland,L.A. Lakers,206.5,207.5,206.625
+2013,12,02,Orlando,Washington,194.5,194.5,194.5
+2013,12,02,New Orleans,Chicago,191.5,191.5,191.5
+2013,12,02,Atlanta,San Antonio,199.5,199.5,199.5
+2013,12,02,Houston,Utah,201.5,203.5,202.5
+2013,12,02,Indiana,Portland,191.5,192.5,191.875
+2013,12,03,Orlando,Philadelphia,206.5,206.5,206.5
+2013,12,03,Detroit,Miami,200.5,200.5,200.5
+2013,12,03,Milwaukee,Boston,185.5,186.5,185.75
+2013,12,03,Denver,Brooklyn,203.5,203.5,203.5
+2013,12,03,Phoenix,Memphis,191.5,192.5,192.0
+2013,12,03,Charlotte,Dallas,194.5,195.5,195.25
+2013,12,03,Oklahoma City,Sacramento,201.5,202.5,201.75
+2013,12,03,Toronto,Golden State,201.5,202.5,202.0
+2013,12,04,Denver,Cleveland,200.5,201.5,201.125
+2013,12,04,L.A. Clippers,Atlanta,202.5,204.5,203.5
+2013,12,04,Phoenix,Houston,212.5,212.5,212.5
+2013,12,04,Detroit,Milwaukee,191.5,192.5,192.375
+2013,12,04,Dallas,New Orleans,207.5,208.5,207.625
+2013,12,04,Indiana,Utah,185.5,187.5,186.125
+2013,12,04,Oklahoma City,Portland,205.5,206.5,205.875
+2013,12,04,San Antonio,Minnesota,205.5,206.5,206.25
+2013,12,05,New York,Brooklyn,189.5,190.5,189.75
+2013,12,05,L.A. Clippers,Memphis,192.5,193.5,192.75
+2013,12,05,Miami,Chicago,187.5,188.5,187.625
+2013,12,06,Philadelphia,Charlotte,198.5,198.5,198.5
+2013,12,06,Milwaukee,Washington,192.5,193.5,192.625
+2013,12,06,Cleveland,Atlanta,195.5,196.5,195.75
+2013,12,06,Denver,Boston,200.5,201.5,200.75
+2013,12,06,Orlando,New York,195.5,196.5,195.75
+2013,12,06,Golden State,Houston,212.5,214.5,213.75
+2013,12,06,Oklahoma City,New Orleans,206.5,207.5,206.625
+2013,12,06,Toronto,Phoenix,199.5,200.5,199.75
+2013,12,06,Utah,Portland,199.5,200.5,199.75
+2013,12,06,L.A. Lakers,Sacramento,202.5,203.5,202.625
+2013,12,07,Denver,Philadelphia,207.5,208.5,208.25
+2013,12,07,L.A. Clippers,Cleveland,198.5,199.5,199.125
+2013,12,07,Detroit,Chicago,188.5,188.5,188.5
+2013,12,07,Golden State,Memphis,192.5,193.5,192.875
+2013,12,07,Miami,Minnesota,201.5,203.5,202.25
+2013,12,07,Brooklyn,Milwaukee,191.5,191.5,191.5
+2013,12,07,Indiana,San Antonio,191.5,191.5,191.5
+2013,12,07,Sacramento,Utah,193.5,194.5,193.625
+2013,12,07,Dallas,Portland,208.5,209.5,208.75
+2013,12,08,Boston,New York,191.5,192.5,192.375
+2013,12,08,Miami,Detroit,196.5,197.5,197.0
+2013,12,08,Orlando,Houston,210.5,210.5,210.5
+2013,12,08,Indiana,Oklahoma City,194.5,195.5,194.625
+2013,12,08,Toronto,L.A. Lakers,203.5,205.5,204.375
+2013,12,09,Denver,Washington,195.5,196.5,196.125
+2013,12,09,Golden State,Charlotte,193.5,195.5,194.875
+2013,12,09,L.A. Clippers,Philadelphia,208.5,208.5,208.5
+2013,12,09,Orlando,Memphis,188.5,188.5,188.5
+2013,12,09,Portland,Utah,203.5,203.5,203.5
+2013,12,09,Dallas,Sacramento,207.5,207.5,207.5
+2013,12,10,New York,Cleveland,190.5,190.5,190.5
+2013,12,10,Miami,Indiana,191.5,192.5,191.625
+2013,12,10,San Antonio,Toronto,198.5,199.5,199.375
+2013,12,10,Oklahoma City,Atlanta,203.5,204.5,204.375
+2013,12,10,Boston,Brooklyn,192.5,193.5,193.0
+2013,12,10,Minnesota,Detroit,205.5,206.5,206.0
+2013,12,10,Milwaukee,Chicago,180.5,180.5,180.5
+2013,12,10,Phoenix,L.A. Lakers,207.5,207.5,207.5
+2013,12,11,Orlando,Charlotte,193.5,194.5,194.25
+2013,12,11,L.A. Clippers,Boston,194.5,195.5,195.0
+2013,12,11,San Antonio,Milwaukee,191.5,192.5,192.5
+2013,12,11,Philadelphia,Minnesota,210.5,211.5,211.125
+2013,12,11,Detroit,New Orleans,204.5,204.5,204.5
+2013,12,11,Chicago,New York,180.5,181.5,180.625
+2013,12,11,Oklahoma City,Memphis,190.5,191.5,190.875
+2013,12,11,Utah,Sacramento,200.5,201.5,200.625
+2013,12,11,Dallas,Golden State,209.5,210.5,210.125
+2013,12,12,L.A. Clippers,Brooklyn,197.5,198.5,197.625
+2013,12,12,Houston,Portland,213.5,213.5,213.5
+2013,12,13,Charlotte,Indiana,183.5,183.5,183.5
+2013,12,13,Cleveland,Orlando,194.5,195.5,195.375
+2013,12,13,Philadelphia,Toronto,201.5,203.5,202.625
+2013,12,13,Washington,Atlanta,194.5,194.5,194.5
+2013,12,13,New York,Boston,189.5,190.5,190.25
+2013,12,13,Brooklyn,Detroit,198.5,199.5,198.75
+2013,12,13,Memphis,New Orleans,191.5,192.5,192.125
+2013,12,13,L.A. Lakers,Oklahoma City,210.5,211.5,211.0
+2013,12,13,Chicago,Milwaukee,176.5,177.5,177.375
+2013,12,13,Minnesota,San Antonio,207.5,208.5,207.75
+2013,12,13,Utah,Denver,200.5,201.5,201.25
+2013,12,13,Sacramento,Phoenix,208.5,209.5,208.75
+2013,12,13,Houston,Golden State,212.5,214.5,213.5
+2013,12,14,L.A. Lakers,Charlotte,198.5,198.5,198.5
+2013,12,14,L.A. Clippers,Washington,193.5,194.5,193.625
+2013,12,14,Cleveland,Miami,199.5,199.5,199.5
+2013,12,14,Atlanta,New York,191.5,193.5,192.625
+2013,12,14,Toronto,Chicago,186.5,187.5,187.375
+2013,12,14,Portland,Philadelphia,211.5,212.5,212.125
+2013,12,14,Milwaukee,Dallas,193.5,194.5,193.625
+2013,12,14,San Antonio,Utah,196.5,196.5,196.5
+2013,12,15,Houston,Sacramento,214.5,215.5,215.0
+2013,12,15,Minnesota,Memphis,196.5,197.5,196.625
+2013,12,15,Portland,Detroit,208.5,209.5,209.125
+2013,12,15,Orlando,Oklahoma City,205.5,206.5,205.625
+2013,12,15,New Orleans,Denver,205.5,205.5,205.5
+2013,12,15,Golden State,Phoenix,209.5,210.5,209.625
+2013,12,16,Detroit,Indiana,191.5,192.5,191.625
+2013,12,16,L.A. Lakers,Atlanta,204.5,205.5,205.375
+2013,12,16,Minnesota,Boston,199.5,200.5,200.375
+2013,12,16,Philadelphia,Brooklyn,206.5,207.5,206.625
+2013,12,16,Utah,Miami,198.5,199.5,199.375
+2013,12,16,Washington,New York,191.5,192.5,191.625
+2013,12,16,Orlando,Chicago,185.5,185.5,185.5
+2013,12,16,San Antonio,L.A. Clippers,202.5,205.5,203.625
+2013,12,17,Sacramento,Charlotte,196.5,197.5,197.0
+2013,12,17,Portland,Cleveland,205.5,206.5,205.625
+2013,12,17,L.A. Lakers,Memphis,193.5,193.5,193.5
+2013,12,17,Oklahoma City,Denver,209.5,210.5,210.375
+2013,12,17,New Orleans,Golden State,206.5,207.5,207.375
+2013,12,18,Indiana,Miami,190.5,191.5,190.625
+2013,12,18,Utah,Orlando,193.5,197.5,194.75
+2013,12,18,Charlotte,Toronto,190.5,190.5,190.5
+2013,12,18,Sacramento,Atlanta,204.5,205.5,205.0
+2013,12,18,Detroit,Boston,194.5,195.5,195.0
+2013,12,18,Washington,Brooklyn,196.5,196.5,196.5
+2013,12,18,New York,Milwaukee,185.5,186.5,186.5
+2013,12,18,Portland,Minnesota,213.5,214.5,213.875
+2013,12,18,Memphis,Dallas,191.5,192.5,192.375
+2013,12,18,San Antonio,Phoenix,201.5,202.5,201.75
+2013,12,18,Chicago,Houston,190.5,191.5,191.25
+2013,12,18,New Orleans,L.A. Clippers,205.5,206.5,205.875
+2013,12,19,Chicago,Oklahoma City,190.5,191.5,191.375
+2013,12,19,San Antonio,Golden State,201.5,202.5,202.375
+2013,12,20,Brooklyn,Philadelphia,210.5,211.5,211.375
+2013,12,20,Sacramento,Miami,208.5,208.5,208.5
+2013,12,20,Utah,Atlanta,197.5,199.5,198.25
+2013,12,20,Milwaukee,Cleveland,191.5,192.5,192.0
+2013,12,20,Charlotte,Detroit,190.5,191.5,190.875
+2013,12,20,Houston,Indiana,197.5,197.5,197.5
+2013,12,20,Toronto,Dallas,202.5,204.5,203.5
+2013,12,20,Phoenix,Denver,207.5,208.5,208.25
+2013,12,20,Minnesota,L.A. Lakers,210.5,210.5,210.5
+2013,12,21,Memphis,New York,185.5,185.5,185.5
+2013,12,21,Washington,Boston,191.5,193.5,193.25
+2013,12,21,Sacramento,Orlando,203.5,204.5,203.625
+2013,12,21,Utah,Charlotte,188.5,189.5,189.25
+2013,12,21,Houston,Detroit,206.5,208.5,208.0
+2013,12,21,Cleveland,Chicago,187.5,187.5,187.5
+2013,12,21,Philadelphia,Milwaukee,202.5,203.5,203.375
+2013,12,21,Oklahoma City,San Antonio,207.5,208.5,208.375
+2013,12,21,Dallas,Phoenix,207.5,208.5,208.375
+2013,12,21,New Orleans,Portland,212.5,213.5,213.125
+2013,12,21,L.A. Lakers,Golden State,207.5,208.5,208.0
+2013,12,21,Denver,L.A. Clippers,204.5,206.5,205.625
+2013,12,22,Boston,Indiana,189.5,189.5,189.5
+2013,12,22,Toronto,Oklahoma City,206.5,207.5,207.125
+2013,12,22,Minnesota,L.A. Clippers,211.5,212.5,212.125
+2013,12,23,Milwaukee,Charlotte,186.5,187.5,187.125
+2013,12,23,Detroit,Cleveland,203.5,203.5,203.5
+2013,12,23,New York,Orlando,192.5,193.5,192.75
+2013,12,23,Indiana,Brooklyn,195.5,196.5,196.375
+2013,12,23,Atlanta,Miami,206.5,206.5,206.5
+2013,12,23,Dallas,Houston,210.5,211.5,211.0
+2013,12,23,Utah,Memphis,186.5,186.5,186.5
+2013,12,23,Toronto,San Antonio,202.5,203.5,203.0
+2013,12,23,Golden State,Denver,208.5,208.5,208.5
+2013,12,23,L.A. Lakers,Phoenix,210.5,211.5,210.625
+2013,12,23,New Orleans,Sacramento,209.5,210.5,209.75
+2013,12,25,Chicago,Brooklyn,189.5,190.5,189.75
+2013,12,25,Oklahoma City,New York,200.5,201.5,201.0
+2013,12,25,Miami,L.A. Lakers,206.5,207.5,206.75
+2013,12,25,Houston,San Antonio,212.5,213.5,213.0
+2013,12,25,L.A. Clippers,Golden State,206.5,208.5,207.5
+2013,12,26,Atlanta,Cleveland,204.5,205.5,205.375
+2013,12,26,Memphis,Houston,197.5,199.5,199.25
+2013,12,26,San Antonio,Dallas,208.5,209.5,209.25
+2013,12,26,L.A. Clippers,Portland,212.5,214.5,213.375
+2013,12,27,Oklahoma City,Charlotte,195.5,195.5,195.5
+2013,12,27,Detroit,Orlando,203.5,203.5,203.5
+2013,12,27,Milwaukee,Brooklyn,195.5,195.5,195.5
+2013,12,27,Toronto,New York,193.5,193.5,193.5
+2013,12,27,Washington,Minnesota,206.5,207.5,207.5
+2013,12,27,Denver,New Orleans,201.5,202.5,201.625
+2013,12,27,L.A. Lakers,Utah,198.5,199.5,199.125
+2013,12,27,Miami,Sacramento,208.5,209.5,208.75
+2013,12,27,Phoenix,Golden State,210.5,211.5,211.125
+2013,12,28,Cleveland,Boston,195.5,196.5,196.375
+2013,12,28,New York,Toronto,190.5,190.5,190.5
+2013,12,28,Detroit,Washington,203.5,204.5,203.625
+2013,12,28,Brooklyn,Indiana,195.5,195.5,195.5
+2013,12,28,Charlotte,Atlanta,193.5,194.5,194.375
+2013,12,28,Dallas,Chicago,190.5,192.5,190.875
+2013,12,28,New Orleans,Houston,211.5,211.5,211.5
+2013,12,28,Denver,Memphis,189.5,190.5,189.625
+2013,12,28,Minnesota,Milwaukee,203.5,203.5,203.5
+2013,12,28,Philadelphia,Phoenix,216.5,216.5,216.5
+2013,12,28,Miami,Portland,207.5,208.5,207.625
+2013,12,28,Utah,L.A. Clippers,201.5,202.5,202.125
+2013,12,29,Golden State,Cleveland,206.5,206.5,206.5
+2013,12,29,Atlanta,Orlando,202.5,202.5,202.5
+2013,12,29,Houston,Oklahoma City,210.5,210.5,210.5
+2013,12,29,Sacramento,San Antonio,208.5,209.5,209.375
+2013,12,29,Philadelphia,L.A. Lakers,218.5,218.5,218.5
+2013,12,30,Washington,Detroit,202.5,203.5,203.25
+2013,12,30,Chicago,Memphis,177.5,179.5,178.625
+2013,12,30,Dallas,Minnesota,212.5,213.5,213.375
+2013,12,30,Portland,New Orleans,210.5,211.5,211.0
+2013,12,30,Miami,Denver,202.5,204.5,203.375
+2013,12,30,Charlotte,Utah,188.5,188.5,188.5
+2013,12,30,Phoenix,L.A. Clippers,208.5,210.5,208.75
+2013,12,31,Atlanta,Boston,203.5,204.5,204.375
+2013,12,31,Cleveland,Indiana,197.5,197.5,197.5
+2013,12,31,Golden State,Orlando,201.5,203.5,202.375
+2013,12,31,Sacramento,Houston,215.5,215.5,215.5
+2013,12,31,Brooklyn,San Antonio,205.5,206.5,206.0
+2013,12,31,Toronto,Chicago,186.5,187.5,186.75
+2013,12,31,Portland,Oklahoma City,213.5,214.5,214.375
+2013,12,31,Milwaukee,L.A. Lakers,202.5,203.5,202.625
+2013,10,29,Orlando,Indiana,188.5,189.5,188.875
+2013,10,29,Chicago,Miami,188.5,189.5,188.625
+2013,10,29,L.A. Clippers,L.A. Lakers,202.5,202.5,202.5
+2013,10,30,Miami,Philadelphia,195.5,195.5,195.5
+2013,10,30,Boston,Toronto,189.5,190.5,190.25
+2013,10,30,Brooklyn,Cleveland,193.5,194.5,194.5
+2013,10,30,Washington,Detroit,188.5,189.5,189.375
+2013,10,30,Milwaukee,New York,196.5,196.5,196.5
+2013,10,30,Charlotte,Houston,200.5,201.5,200.625
+2013,10,30,Orlando,Minnesota,199.5,199.5,199.5
+2013,10,30,Indiana,New Orleans,187.5,188.5,187.625
+2013,10,30,Atlanta,Dallas,195.5,196.5,196.375
+2013,10,30,Memphis,San Antonio,189.5,189.5,189.5
+2013,10,30,Oklahoma City,Utah,191.5,191.5,191.5
+2013,10,30,Portland,Phoenix,197.5,198.5,197.625
+2013,10,30,Denver,Sacramento,203.5,203.5,203.5
+2013,10,30,L.A. Lakers,Golden State,205.5,206.5,206.375
+2013,10,31,New York,Chicago,187.5,188.5,188.5
+2013,10,31,Golden State,L.A. Clippers,205.5,206.5,206.0
+2014,04,01,Houston,Brooklyn,209.5,210.5,210.5
+2014,04,01,Golden State,Dallas,205.5,207.5,206.625
+2014,04,01,Portland,L.A. Lakers,218.5,219.5,218.75
+2014,04,02,Detroit,Indiana,191.5,191.5,191.5
+2014,04,02,Brooklyn,New York,194.5,195.5,195.25
+2014,04,02,Cleveland,Orlando,196.5,197.5,197.375
+2014,04,02,Charlotte,Philadelphia,204.5,205.5,205.5
+2014,04,02,Houston,Toronto,202.5,202.5,202.5
+2014,04,02,Boston,Washington,200.5,200.5,200.5
+2014,04,02,Chicago,Atlanta,183.5,184.5,183.75
+2014,04,02,Milwaukee,Miami,194.5,195.5,194.875
+2014,04,02,Memphis,Minnesota,197.5,198.5,198.5
+2014,04,02,Golden State,San Antonio,200.5,201.5,200.75
+2014,04,02,New Orleans,Denver,208.5,209.5,209.0
+2014,04,02,L.A. Clippers,Phoenix,211.5,212.5,212.375
+2014,04,02,L.A. Lakers,Sacramento,218.5,218.5,218.5
+2014,04,03,San Antonio,Oklahoma City,206.5,207.5,206.75
+2014,04,03,Dallas,L.A. Clippers,211.5,211.5,211.5
+2014,04,04,Denver,Memphis,200.5,201.5,200.75
+2014,04,04,Orlando,Charlotte,193.5,194.5,194.5
+2014,04,04,Indiana,Toronto,178.5,178.5,178.5
+2014,04,04,Washington,New York,195.5,196.5,195.625
+2014,04,04,Cleveland,Atlanta,202.5,203.5,202.625
+2014,04,04,Philadelphia,Boston,209.5,209.5,209.5
+2014,04,04,Detroit,Brooklyn,205.5,206.5,206.5
+2014,04,04,Minnesota,Miami,200.5,202.5,201.5
+2014,04,04,Milwaukee,Chicago,184.5,185.5,185.0
+2014,04,04,New Orleans,Utah,194.5,194.5,194.5
+2014,04,04,Oklahoma City,Houston,213.5,214.5,213.875
+2014,04,04,Phoenix,Portland,211.5,212.5,212.375
+2014,04,04,Sacramento,Golden State,198.5,198.5,198.5
+2014,04,04,Dallas,L.A. Lakers,222.5,223.5,222.625
+2014,04,05,Minnesota,Orlando,200.5,205.5,201.625
+2014,04,05,Chicago,Washington,183.5,184.5,184.25
+2014,04,05,Charlotte,Cleveland,196.5,196.5,196.5
+2014,04,05,Boston,Detroit,206.5,207.5,206.625
+2014,04,05,Brooklyn,Philadelphia,206.5,207.5,207.25
+2014,04,05,Toronto,Milwaukee,195.5,196.5,196.25
+2014,04,06,New York,Miami,186.5,187.5,186.5
+2014,04,06,L.A. Lakers,L.A. Clippers,224.5,225.5,225.0
+2014,04,06,Dallas,Sacramento,200.5,201.5,201.0
+2014,04,06,Atlanta,Indiana,186.5,187.5,186.75
+2014,04,06,Denver,Houston,222.5,222.5,222.5
+2014,04,06,Memphis,San Antonio,190.5,191.5,191.375
+2014,04,06,Utah,Golden State,196.5,197.5,197.125
+2014,04,06,Oklahoma City,Phoenix,210.5,211.5,211.25
+2014,04,06,New Orleans,Portland,205.5,205.5,205.5
+2014,04,08,Detroit,Atlanta,209.5,210.5,209.875
+2014,04,08,San Antonio,Minnesota,206.5,206.5,206.5
+2014,04,08,Brooklyn,Miami,191.5,193.5,192.5
+2014,04,08,Dallas,Utah,200.5,201.5,200.875
+2014,04,08,Oklahoma City,Sacramento,200.5,201.5,200.625
+2014,04,08,Houston,L.A. Lakers,228.5,228.5,228.5
+2014,04,09,Detroit,Cleveland,207.5,208.5,208.25
+2014,04,09,Brooklyn,Orlando,191.5,192.5,191.75
+2014,04,09,Philadelphia,Toronto,207.5,208.5,207.875
+2014,04,09,Charlotte,Washington,190.5,191.5,190.625
+2014,04,09,Boston,Atlanta,203.5,204.5,204.375
+2014,04,09,Miami,Memphis,180.5,180.5,180.5
+2014,04,09,Indiana,Milwaukee,185.5,186.5,186.25
+2014,04,09,Chicago,Minnesota,192.5,192.5,192.5
+2014,04,09,Phoenix,New Orleans,207.5,208.5,207.625
+2014,04,09,Houston,Denver,222.5,223.5,223.375
+2014,04,09,Sacramento,Portland,199.5,200.5,200.375
+2014,04,09,Oklahoma City,L.A. Clippers,211.5,212.5,212.375
+2014,04,10,San Antonio,Dallas,201.5,201.5,201.5
+2014,04,10,Denver,Golden State,215.5,216.5,215.875
+2014,04,11,Washington,Orlando,193.5,194.5,194.5
+2014,04,11,New York,Toronto,194.5,194.5,194.5
+2014,04,11,Charlotte,Boston,192.5,192.5,192.5
+2014,04,11,Atlanta,Brooklyn,198.5,199.5,199.125
+2014,04,11,Indiana,Miami,181.5,181.5,181.5
+2014,04,11,Detroit,Chicago,192.5,193.5,192.625
+2014,04,11,Philadelphia,Memphis,201.5,202.5,201.75
+2014,04,11,Houston,Minnesota,215.5,217.5,216.0
+2014,04,11,New Orleans,Oklahoma City,204.5,205.5,204.75
+2014,04,11,Cleveland,Milwaukee,207.5,207.5,207.5
+2014,04,11,Phoenix,San Antonio,205.5,206.5,205.75
+2014,04,11,Portland,Utah,198.5,198.5,198.5
+2014,04,11,Golden State,L.A. Lakers,220.5,222.5,221.75
+2014,04,12,Sacramento,L.A. Clippers,205.5,206.5,205.875
+2014,04,12,Philadelphia,Charlotte,206.5,207.5,206.875
+2014,04,12,Milwaukee,Washington,203.5,204.5,203.875
+2014,04,12,Miami,Atlanta,194.5,195.5,195.375
+2014,04,12,Boston,Cleveland,205.5,206.5,206.5
+2014,04,12,New Orleans,Houston,211.5,212.5,212.125
+2014,04,12,Phoenix,Dallas,210.5,211.5,210.625
+2014,04,12,Utah,Denver,211.5,212.5,212.25
+2014,04,13,Oklahoma City,Indiana,192.5,192.5,192.5
+2014,04,13,Toronto,Detroit,205.5,206.5,206.25
+2014,04,13,Orlando,Brooklyn,195.5,195.5,195.5
+2014,04,13,Chicago,New York,185.5,185.5,185.5
+2014,04,13,Golden State,Portland,206.5,207.5,207.125
+2014,04,13,Minnesota,Sacramento,207.5,208.5,208.25
+2014,04,13,Memphis,L.A. Lakers,208.5,210.5,209.25
+2014,04,14,Boston,Philadelphia,212.5,213.5,212.75
+2014,04,14,Milwaukee,Toronto,204.5,205.5,205.125
+2014,04,14,Miami,Washington,189.5,190.5,190.25
+2014,04,14,Charlotte,Atlanta,194.5,195.5,195.25
+2014,04,14,Orlando,Chicago,182.5,182.5,182.5
+2014,04,14,San Antonio,Houston,211.5,212.5,212.375
+2014,04,14,Oklahoma City,New Orleans,203.5,204.5,204.125
+2014,04,14,L.A. Lakers,Utah,214.5,215.5,215.0
+2014,04,14,Memphis,Phoenix,194.5,194.5,194.5
+2014,04,14,Minnesota,Golden State,211.5,213.5,212.625
+2014,04,15,New York,Brooklyn,193.5,194.5,194.5
+2014,04,15,Denver,L.A. Clippers,221.5,221.5,221.5
+2014,04,16,Chicago,Charlotte,180.5,181.5,180.625
+2014,04,16,Indiana,Orlando,187.5,188.5,187.625
+2014,04,16,Atlanta,Milwaukee,204.5,205.5,205.125
+2014,04,16,Utah,Minnesota,210.5,211.5,211.0
+2014,04,16,Houston,New Orleans,208.5,209.5,208.875
+2014,04,16,Detroit,Oklahoma City,212.5,213.5,212.75
+2014,04,16,L.A. Lakers,San Antonio,216.5,217.5,216.875
+2014,04,16,Washington,Boston,197.5,198.5,197.875
+2014,04,16,Brooklyn,Cleveland,197.5,198.5,197.75
+2014,04,16,Philadelphia,Miami,207.5,208.5,207.75
+2014,04,16,Toronto,New York,198.5,199.5,198.625
+2014,04,16,Dallas,Memphis,190.5,190.5,190.5
+2014,04,16,L.A. Clippers,Portland,206.5,207.5,207.25
+2014,04,16,Phoenix,Sacramento,207.5,208.5,208.375
+2014,04,16,Golden State,Denver,208.5,209.5,209.375
+2014,04,19,Brooklyn,Toronto,191.5,192.5,192.125
+2014,04,19,Golden State,L.A. Clippers,211.5,211.5,211.5
+2014,04,19,Atlanta,Indiana,185.5,186.5,185.625
+2014,04,19,Memphis,Oklahoma City,190.5,190.5,190.5
+2014,04,20,Dallas,San Antonio,202.5,203.5,202.75
+2014,04,20,Charlotte,Miami,185.5,186.5,185.75
+2014,04,20,Washington,Chicago,177.5,178.5,178.125
+2014,04,20,Portland,Houston,215.5,216.5,215.875
+2014,04,21,Memphis,Oklahoma City,190.5,190.5,190.5
+2014,04,21,Golden State,L.A. Clippers,212.5,212.5,212.5
+2014,04,22,Atlanta,Indiana,186.5,187.5,186.75
+2014,04,22,Brooklyn,Toronto,190.5,191.5,190.75
+2014,04,22,Washington,Chicago,180.5,180.5,180.5
+2014,04,23,Charlotte,Miami,187.5,187.5,187.5
+2014,04,23,Dallas,San Antonio,201.5,201.5,201.5
+2014,04,23,Portland,Houston,215.5,215.5,215.5
+2014,04,24,Indiana,Atlanta,186.5,187.5,187.375
+2014,04,24,Oklahoma City,Memphis,190.5,190.5,190.5
+2014,04,24,L.A. Clippers,Golden State,212.5,213.5,212.75
+2014,04,25,Toronto,Brooklyn,190.5,191.5,191.125
+2014,04,25,Chicago,Washington,180.5,181.5,180.75
+2014,04,25,Houston,Portland,214.5,214.5,214.5
+2014,04,26,Indiana,Atlanta,188.5,189.5,189.125
+2014,04,26,San Antonio,Dallas,200.5,200.5,200.5
+2014,04,26,Miami,Charlotte,187.5,188.5,187.625
+2014,04,26,Oklahoma City,Memphis,188.5,188.5,188.5
+2014,04,27,Chicago,Washington,183.5,183.5,183.5
+2014,04,27,L.A. Clippers,Golden State,209.5,210.5,209.875
+2014,04,27,Toronto,Brooklyn,193.5,193.5,193.5
+2014,04,27,Houston,Portland,214.5,215.5,214.625
+2014,04,28,Miami,Charlotte,187.5,188.5,187.625
+2014,04,28,Atlanta,Indiana,186.5,186.5,186.5
+2014,04,28,San Antonio,Dallas,200.5,201.5,200.625
+2014,04,29,Washington,Chicago,182.5,184.5,183.625
+2014,04,29,Memphis,Oklahoma City,185.5,186.5,186.0
+2014,04,29,Golden State,L.A. Clippers,208.5,210.5,209.0
+2014,04,30,Dallas,San Antonio,196.5,198.5,197.25
+2014,04,30,Brooklyn,Toronto,189.5,189.5,189.5
+2014,04,30,Portland,Houston,214.5,215.5,214.625
+2014,03,01,Orlando,Miami,199.5,199.5,199.5
+2014,03,01,Washington,Philadelphia,214.5,214.5,214.5
+2014,03,01,Detroit,Houston,215.5,215.5,215.5
+2014,03,01,Indiana,Boston,190.5,190.5,190.5
+2014,03,01,Brooklyn,Milwaukee,198.5,199.5,198.64285714285714
+2014,03,01,Cleveland,Memphis,184.5,184.5,184.5
+2014,03,01,Denver,Portland,214.5,216.5,215.78571428571428
+2014,03,01,Minnesota,Sacramento,216.5,217.5,216.64285714285714
+2014,03,01,New Orleans,L.A. Clippers,209.5,209.5,209.5
+2014,03,02,New York,Chicago,186.5,187.5,186.64285714285714
+2014,03,02,Golden State,Toronto,202.5,203.5,202.92857142857142
+2014,03,02,Utah,Indiana,189.5,190.5,189.92857142857142
+2014,03,02,Philadelphia,Orlando,211.5,212.5,211.78571428571428
+2014,03,02,Charlotte,Oklahoma City,203.5,204.5,204.35714285714286
+2014,03,02,Dallas,San Antonio,208.5,209.5,209.21428571428572
+2014,03,02,Atlanta,Phoenix,216.5,217.5,217.35714285714286
+2014,03,03,Memphis,Washington,190.5,191.5,191.21428571428572
+2014,03,03,Chicago,Brooklyn,186.5,187.5,187.35714285714286
+2014,03,03,New York,Detroit,209.5,210.5,210.21428571428572
+2014,03,03,Charlotte,Miami,197.5,197.5,197.5
+2014,03,03,Utah,Milwaukee,195.5,196.5,196.21428571428572
+2014,03,03,Minnesota,Denver,216.5,216.5,216.5
+2014,03,03,L.A. Lakers,Portland,223.5,224.5,224.07142857142858
+2014,03,03,New Orleans,Sacramento,203.5,204.5,204.35714285714286
+2014,03,04,San Antonio,Cleveland,203.5,204.5,203.64285714285714
+2014,03,04,Golden State,Indiana,195.5,196.5,196.35714285714286
+2014,03,04,Miami,Houston,208.5,210.5,209.35714285714286
+2014,03,04,Philadelphia,Oklahoma City,218.5,219.5,218.78571428571428
+2014,03,04,L.A. Clippers,Phoenix,218.5,219.5,218.78571428571428
+2014,03,04,New Orleans,L.A. Lakers,211.5,212.5,212.35714285714286
+2014,03,05,Indiana,Charlotte,190.5,190.5,190.5
+2014,03,05,Houston,Orlando,204.5,205.5,204.64285714285714
+2014,03,05,Utah,Washington,198.5,199.5,198.92857142857142
+2014,03,05,Golden State,Boston,201.5,201.5,201.5
+2014,03,05,Memphis,Brooklyn,187.5,187.5,187.5
+2014,03,05,Chicago,Detroit,191.5,192.5,192.07142857142858
+2014,03,05,Sacramento,Milwaukee,205.5,206.5,205.92857142857142
+2014,03,05,New York,Minnesota,211.5,212.5,212.5
+2014,03,05,Dallas,Denver,220.5,221.5,221.21428571428572
+2014,03,05,Atlanta,Portland,218.5,218.5,218.5
+2014,03,06,Miami,San Antonio,205.5,207.5,206.5
+2014,03,06,Oklahoma City,Phoenix,217.5,217.5,217.5
+2014,03,06,L.A. Clippers,L.A. Lakers,224.5,225.5,224.64285714285714
+2014,03,07,Memphis,Chicago,177.5,178.5,178.21428571428572
+2014,03,07,Cleveland,Charlotte,198.5,198.5,198.5
+2014,03,07,Sacramento,Toronto,204.5,205.5,204.92857142857142
+2014,03,07,Brooklyn,Boston,199.5,200.5,200.35714285714286
+2014,03,07,Utah,New York,196.5,197.5,196.92857142857142
+2014,03,07,Detroit,Minnesota,218.5,218.5,218.5
+2014,03,07,Milwaukee,New Orleans,199.5,201.5,200.21428571428572
+2014,03,07,Portland,Dallas,215.5,215.5,215.5
+2014,03,07,L.A. Lakers,Denver,229.5,230.5,229.5
+2014,03,07,Indiana,Houston,201.5,201.5,201.5
+2014,03,07,Atlanta,Golden State,208.5,209.5,208.64285714285714
+2014,03,08,Utah,Philadelphia,206.5,207.5,206.78571428571428
+2014,03,08,New York,Cleveland,201.5,202.5,201.64285714285714
+2014,03,08,Charlotte,Memphis,185.5,186.5,186.5
+2014,03,08,Orlando,San Antonio,203.5,204.5,204.35714285714286
+2014,03,08,Washington,Milwaukee,203.5,204.5,204.07142857142858
+2014,03,08,Atlanta,L.A. Clippers,221.5,222.5,221.64285714285714
+2014,03,09,Miami,Chicago,186.5,188.5,186.78571428571428
+2014,03,09,Oklahoma City,L.A. Lakers,227.5,229.5,228.5
+2014,03,09,Denver,New Orleans,213.5,213.5,213.5
+2014,03,09,Detroit,Boston,205.5,206.5,206.07142857142858
+2014,03,09,Sacramento,Brooklyn,203.5,204.5,203.64285714285714
+2014,03,09,Portland,Houston,214.5,214.5,214.5
+2014,03,09,Toronto,Minnesota,208.5,209.5,208.78571428571428
+2014,03,09,Indiana,Dallas,197.5,198.5,198.5
+2014,03,09,Phoenix,Golden State,210.5,211.5,211.35714285714286
+2014,03,10,Denver,Charlotte,212.5,212.5,212.5
+2014,03,10,Toronto,Brooklyn,197.5,197.5,197.5
+2014,03,10,Washington,Miami,205.5,205.5,205.5
+2014,03,10,Philadelphia,New York,214.5,215.5,215.375
+2014,03,10,Orlando,Milwaukee,202.5,204.5,203.5
+2014,03,10,Atlanta,Utah,201.5,202.5,201.75
+2014,03,10,Phoenix,L.A. Clippers,217.5,218.5,217.625
+2014,03,11,Boston,Indiana,192.5,193.5,192.875
+2014,03,11,Sacramento,Detroit,214.5,216.5,215.625
+2014,03,11,San Antonio,Chicago,190.5,190.5,190.5
+2014,03,11,Portland,Memphis,196.5,196.5,196.5
+2014,03,11,Milwaukee,Minnesota,214.5,215.5,214.64285714285714
+2014,03,11,Houston,Oklahoma City,216.5,216.5,216.5
+2014,03,11,Dallas,Golden State,207.5,208.5,208.125
+2014,03,12,Brooklyn,Miami,201.5,201.5,201.5
+2014,03,12,Denver,Orlando,213.5,213.5,213.5
+2014,03,12,Sacramento,Philadelphia,216.5,216.5,216.5
+2014,03,12,Detroit,Toronto,206.5,206.5,206.5
+2014,03,12,Charlotte,Washington,199.5,199.5,199.5
+2014,03,12,New York,Boston,198.5,199.5,199.375
+2014,03,12,Memphis,New Orleans,186.5,186.5,186.5
+2014,03,12,Dallas,Utah,200.5,201.5,201.375
+2014,03,12,Portland,San Antonio,210.5,211.5,210.625
+2014,03,12,Cleveland,Phoenix,210.5,211.5,211.375
+2014,03,12,Golden State,L.A. Clippers,210.5,211.5,211.125
+2014,03,13,Houston,Chicago,193.5,194.5,193.625
+2014,03,13,Milwaukee,Atlanta,207.5,209.5,208.75
+2014,03,13,L.A. Lakers,Oklahoma City,225.5,226.5,225.75
+2014,03,14,Minnesota,Charlotte,206.5,207.5,206.625
+2014,03,14,Washington,Orlando,200.5,200.5,200.5
+2014,03,14,Indiana,Philadelphia,204.5,205.5,205.375
+2014,03,14,Memphis,Toronto,186.5,187.5,186.625
+2014,03,14,Phoenix,Boston,207.5,208.5,208.375
+2014,03,14,Denver,Miami,215.5,215.5,215.5
+2014,03,14,Portland,New Orleans,200.5,201.5,200.64285714285714
+2014,03,14,L.A. Lakers,San Antonio,225.5,226.5,225.64285714285714
+2014,03,14,L.A. Clippers,Utah,204.5,205.5,205.375
+2014,03,14,Cleveland,Golden State,200.5,200.5,200.5
+2014,03,15,Milwaukee,New York,204.5,206.5,204.875
+2014,03,15,Brooklyn,Washington,196.5,196.5,196.5
+2014,03,15,Denver,Atlanta,220.5,220.5,220.5
+2014,03,15,Indiana,Detroit,197.5,197.5,197.5
+2014,03,15,Memphis,Philadelphia,200.5,201.5,201.375
+2014,03,15,Sacramento,Chicago,189.5,190.5,189.64285714285714
+2014,03,16,Charlotte,Milwaukee,195.5,196.5,195.625
+2014,03,16,Phoenix,Toronto,203.5,204.5,203.75
+2014,03,16,Houston,Miami,207.5,207.5,207.5
+2014,03,16,Boston,New Orleans,194.5,195.5,195.25
+2014,03,16,Sacramento,Minnesota,209.5,210.5,209.75
+2014,03,16,Dallas,Oklahoma City,212.5,213.5,213.125
+2014,03,16,Utah,San Antonio,200.5,201.5,200.875
+2014,03,16,Golden State,Portland,206.5,207.5,206.625
+2014,03,16,Cleveland,L.A. Clippers,207.5,208.5,208.375
+2014,03,17,Atlanta,Charlotte,200.5,201.5,200.625
+2014,03,17,Philadelphia,Indiana,203.5,204.5,204.25
+2014,03,17,Phoenix,Brooklyn,208.5,209.5,208.625
+2014,03,17,Oklahoma City,Chicago,193.5,194.5,194.35714285714286
+2014,03,17,Utah,Houston,203.5,204.5,203.78571428571428
+2014,03,17,Boston,Dallas,203.5,204.5,203.64285714285714
+2014,03,17,L.A. Clippers,Denver,216.5,217.5,217.25
+2014,03,18,Miami,Cleveland,192.5,193.5,192.75
+2014,03,18,Toronto,Atlanta,200.5,201.5,201.0
+2014,03,18,Milwaukee,Portland,206.5,207.5,206.875
+2014,03,18,Washington,Sacramento,200.5,202.5,201.25
+2014,03,18,Orlando,Golden State,206.5,207.5,206.875
+2014,03,19,Chicago,Philadelphia,194.5,195.5,194.75
+2014,03,19,Miami,Boston,194.5,195.5,194.875
+2014,03,19,Charlotte,Brooklyn,193.5,193.5,193.5
+2014,03,19,Utah,Memphis,187.5,187.5,187.5
+2014,03,19,Toronto,New Orleans,194.5,194.5,194.5
+2014,03,19,Indiana,New York,191.5,192.5,192.07142857142858
+2014,03,19,Minnesota,Dallas,210.5,210.5,210.5
+2014,03,19,Detroit,Denver,217.5,218.5,218.0
+2014,03,19,Orlando,Phoenix,210.5,210.5,210.5
+2014,03,19,San Antonio,L.A. Lakers,220.5,220.5,220.5
+2014,03,20,Oklahoma City,Cleveland,200.5,201.5,200.75
+2014,03,20,Minnesota,Houston,215.5,215.5,215.5
+2014,03,20,Washington,Portland,205.5,206.5,206.125
+2014,03,20,Milwaukee,Golden State,206.5,206.5,206.5
+2014,03,21,Chicago,Indiana,179.5,179.5,179.5
+2014,03,21,New York,Philadelphia,210.5,210.5,210.5
+2014,03,21,Oklahoma City,Toronto,205.5,205.5,205.5
+2014,03,21,New Orleans,Atlanta,203.5,204.5,203.875
+2014,03,21,Boston,Brooklyn,196.5,197.5,197.375
+2014,03,21,Memphis,Miami,189.5,190.5,190.375
+2014,03,21,Denver,Dallas,218.5,218.5,218.5
+2014,03,21,Detroit,Phoenix,217.5,218.5,218.25
+2014,03,21,San Antonio,Sacramento,207.5,207.5,207.5
+2014,03,21,Washington,L.A. Lakers,218.5,219.5,219.125
+2014,03,22,Portland,Charlotte,203.5,204.5,204.125
+2014,03,22,Houston,Cleveland,203.5,204.5,203.75
+2014,03,22,Philadelphia,Chicago,193.5,193.5,193.5
+2014,03,22,Indiana,Memphis,180.5,181.5,181.35714285714286
+2014,03,22,Miami,New Orleans,196.5,197.5,196.64285714285714
+2014,03,22,Orlando,Utah,195.5,196.5,195.75
+2014,03,22,San Antonio,Golden State,206.5,206.5,206.5
+2014,03,22,Detroit,L.A. Clippers,216.5,216.5,216.5
+2014,03,23,Atlanta,Toronto,201.5,203.5,202.75
+2014,03,23,Phoenix,Minnesota,217.5,218.5,218.0
+2014,03,23,Washington,Denver,213.5,214.5,213.875
+2014,03,23,Milwaukee,Sacramento,206.5,207.5,206.875
+2014,03,23,Brooklyn,Dallas,202.5,204.5,203.375
+2014,03,23,Cleveland,New York,198.5,199.5,198.75
+2014,03,23,Orlando,L.A. Lakers,216.5,217.5,217.375
+2014,03,24,Houston,Charlotte,204.5,205.5,205.375
+2014,03,24,Phoenix,Atlanta,213.5,214.5,214.0
+2014,03,24,Portland,Miami,207.5,208.5,208.375
+2014,03,24,Indiana,Chicago,176.5,178.5,176.78571428571428
+2014,03,24,Minnesota,Memphis,197.5,199.5,199.07142857142858
+2014,03,24,Brooklyn,New Orleans,198.5,199.5,198.78571428571428
+2014,03,24,Denver,Oklahoma City,215.5,218.5,216.92857142857142
+2014,03,24,Philadelphia,San Antonio,209.5,211.5,210.35714285714286
+2014,03,24,Detroit,Utah,202.5,203.5,203.375
+2014,03,24,Milwaukee,L.A. Clippers,212.5,213.5,213.375
+2014,03,25,Toronto,Cleveland,193.5,194.5,194.125
+2014,03,25,Portland,Orlando,203.5,204.5,204.375
+2014,03,25,Oklahoma City,Dallas,208.5,210.5,209.5
+2014,03,25,New York,L.A. Lakers,216.5,217.5,216.625
+2014,03,26,Brooklyn,Charlotte,190.5,191.5,191.0
+2014,03,26,Phoenix,Washington,208.5,209.5,209.375
+2014,03,26,Toronto,Boston,196.5,196.5,196.5
+2014,03,26,Cleveland,Detroit,203.5,205.5,204.5
+2014,03,26,Atlanta,Minnesota,214.5,214.5,214.5
+2014,03,26,L.A. Clippers,New Orleans,205.5,206.5,206.5
+2014,03,26,Miami,Indiana,186.5,186.5,186.5
+2014,03,26,Denver,San Antonio,216.5,216.5,216.5
+2014,03,26,New York,Sacramento,200.5,200.5,200.5
+2014,03,26,Memphis,Utah,182.5,183.5,182.75
+2014,03,27,Portland,Atlanta,206.5,207.5,206.875
+2014,03,27,Philadelphia,Houston,214.5,214.5,214.5
+2014,03,27,L.A. Lakers,Milwaukee,219.5,219.5,219.5
+2014,03,27,L.A. Clippers,Dallas,210.5,211.5,211.0
+2014,03,28,Charlotte,Orlando,191.5,193.5,191.875
+2014,03,28,Boston,Toronto,194.5,195.5,195.375
+2014,03,28,Indiana,Washington,186.5,187.5,186.625
+2014,03,28,Cleveland,Brooklyn,195.5,197.5,196.375
+2014,03,28,Miami,Detroit,199.5,199.5,199.5
+2014,03,28,Portland,Chicago,186.5,187.5,186.625
+2014,03,28,L.A. Lakers,Minnesota,226.5,227.5,226.625
+2014,03,28,Utah,New Orleans,196.5,196.5,196.5
+2014,03,28,Sacramento,Oklahoma City,207.5,208.5,207.5
+2014,03,28,San Antonio,Denver,216.5,217.5,217.25
+2014,03,28,New York,Phoenix,208.5,208.5,208.5
+2014,03,28,Memphis,Golden State,186.5,187.5,186.625
+2014,03,29,Detroit,Philadelphia,210.5,212.5,211.5
+2014,03,29,L.A. Clippers,Houston,215.5,216.5,215.5
+2014,03,29,Atlanta,Washington,198.5,199.5,199.0
+2014,03,29,Sacramento,Dallas,204.5,205.5,204.625
+2014,03,29,Miami,Milwaukee,197.5,198.5,198.375
+2014,03,29,New Orleans,San Antonio,201.5,202.5,202.375
+2014,03,30,Utah,Oklahoma City,202.5,203.5,202.625
+2014,03,30,Indiana,Cleveland,182.5,183.5,182.625
+2014,03,30,Minnesota,Brooklyn,210.5,211.5,211.0
+2014,03,30,Toronto,Orlando,194.5,194.5,194.5
+2014,03,30,Chicago,Boston,180.5,182.5,180.875
+2014,03,30,New York,Golden State,201.5,202.5,202.25
+2014,03,30,Memphis,Portland,189.5,190.5,189.625
+2014,03,30,Phoenix,L.A. Lakers,223.5,225.5,224.5
+2014,03,31,Washington,Charlotte,194.5,195.5,194.75
+2014,03,31,San Antonio,Indiana,188.5,188.5,188.5
+2014,03,31,Philadelphia,Atlanta,210.5,211.5,210.625
+2014,03,31,Milwaukee,Detroit,206.5,207.5,207.0
+2014,03,31,Toronto,Miami,191.5,192.5,192.0
+2014,03,31,Sacramento,New Orleans,196.5,197.5,196.625
+2014,03,31,Boston,Chicago,184.5,185.5,184.625
+2014,03,31,L.A. Clippers,Minnesota,213.5,214.5,213.625
+2014,03,31,Memphis,Denver,200.5,201.5,201.375
+2014,03,31,New York,Utah,193.5,193.5,193.5

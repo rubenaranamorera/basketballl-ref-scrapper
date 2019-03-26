@@ -16,8 +16,6 @@ import java.util.stream.Collectors;
 public class BoxScoreScrapper {
 
   private static final String BASE_URL = "https://www.basketball-reference.com/boxscores/";
-  private static final String GAMES_FILE = "games2016.csv";
-  private static final String BOX_SCORES_FILE = "boxscores2016.csv";
   private static final String[] BOX_SCORE_HEADERS = {
       "GAME_ID",
       "MP",
@@ -94,12 +92,12 @@ public class BoxScoreScrapper {
 
   public void loadBoxScores() {
 
-    new File(BOX_SCORES_FILE);
+    new File(ScrapperMain.BOX_SCORES_FILE);
 
     try (
 
-        Reader reader = new FileReader(GAMES_FILE);
-        BufferedWriter writer = Files.newBufferedWriter(Paths.get(BOX_SCORES_FILE));
+        Reader reader = new FileReader(ScrapperMain.GAMES_FILE);
+        BufferedWriter writer = Files.newBufferedWriter(Paths.get(ScrapperMain.BOX_SCORES_FILE));
         CSVPrinter csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT.withHeader(BOX_SCORE_HEADERS))
     ) {
 
